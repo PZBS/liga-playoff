@@ -1,5 +1,4 @@
 {
-    "output": "ii/se/playoff.html",
     "page": {
         "title": "II liga SE, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
@@ -7,12 +6,6 @@
         "width": 250,
         "height": 80,
         "margin": 60
-    },
-    "database": {
-        "host": "localhost",
-        "port": 3306,
-        "user": "admin",
-        "pass": ""
     },
     "goniec": {
         "enabled": 1,
@@ -39,7 +32,7 @@
      ],
     "phases": [
         {
-            "title": "29 stycznia, 19:00",
+            "title": "26 stycznia, 20:00",
             "link": "#",
             "dummies": [0, 2, 3, 6],
             "matches": [

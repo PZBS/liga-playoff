@@ -1,51 +1,29 @@
 {
-    "output": "i/s/playoff.html",
     "page": {
         "title": "I liga S, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "refresh": 30,
-        "width": 250,
+        "width": 300,
         "height": 80,
         "margin": 60
-    },
-    "database": {
-        "host": "localhost",
-        "port": 3306,
-        "user": "admin",
-        "pass": ""
     },
     "goniec": {
         "enabled": 1,
         "host": "localhost",
         "port": 8090
     },
-    "teams": [
-        ["ELEKTROMONTAŻ Rzeszów", "Elektromontaż", "rzeszow.png"],
-        ["DIEBOLD NIXDORF CRACOVIA", "CRACOVIA", "krakow.png"],
-        ["Bridge24.pl 2", "Bridge24.pl 2", "warszawa.png"],
-        ["CZARNA PAPUGA Zwierzyniec Kraków", "CZARNA PAPUGA", "krakow.png"],
-        ["INWIT Pabianice", "INWIT", "pabianice.png"],
-        ["MAGMA Zawiercie", "MAGMA", "zawiercie.png"],
-        ["ETB PRIM Ełk", "ETB", "elk.png"],
-        ["ZweryfikujFirmę.pl - AZS UW", "AZS UW", "warszawa.png"],
-        ["MILO Kraków", "MILO", "krakow.png"],
-        ["POMTECH Zwoleń", "POMTECH", "zwolen.png"],
-        ["LESKOWIEC Wadowice-BESKID Andrychów", "LESKOWIEC-BESKID", "andrychow.png"],
-        ["HOTEL SENATOR Starachowice", "SENATOR", "starachowice.png"],
-        ["SPÓJNIA BENEXT Kalisz", "SPÓJNIA BENEXT", "kalisz.png"],
-        ["MTS PIAST Skawina", "PIAST", "skawina.png"],
-        ["HEFAJSTOS Otwock", "HEFAJSTOS", "warszawa.png"],
-        ["CONSUS ALK - Spójnia Warszawa", "CONSUS Spójnia", "warszawa.png"]
-     ],
+    "teams": {
+		"database": "srr_dmp"
+	},
     "phases": [
         {
-            "title": "26 stycznia, 19:00",
-            "link": "#",
+            "title": "26 stycznia, 20:00",
+            "link": "spo1runda1.html",
             "dummies": [0, 2, 3, 6],
             "matches": [
                 {
                     "id": 1,
-                    "database": "i_s_po_1",
+                    "database": "spo1_2018",
                     "round": 1,
                     "table": 1,
                     "teams": [
@@ -55,7 +33,7 @@
                 },
                 {
                     "id": 2,
-                    "database": "i_s_po_1",
+                    "database": "spo1_2018",
                     "round": 1,
                     "table": 3,
                     "teams": [
@@ -66,7 +44,7 @@
                 },
                 {
                     "id": 3,
-                    "database": "i_s_po_1",
+                    "database": "spo1_2018",
                     "round": 1,
                     "table": 2,
                     "teams": [
@@ -77,7 +55,7 @@
                 },
                 {
                     "id": 4,
-                    "database": "i_s_po_1",
+                    "database": "spo1_2018",
                     "round": 1,
                     "table": 4,
                     "teams": [
@@ -87,7 +65,7 @@
                 },
                 {
                     "id": 5,
-                    "database": "i_s_po_1",
+                    "database": "spo1_2018",
                     "round": 1,
                     "table": 5,
                     "teams": [

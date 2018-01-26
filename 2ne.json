@@ -1,5 +1,4 @@
 {
-    "output": "ii/ne/playoff.html",
     "page": {
         "title": "II liga NE, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
@@ -8,12 +7,6 @@
         "height": 80,
         "margin": 60
     },
-    "database": {
-        "host": "localhost",
-        "port": 3306,
-        "user": "admin",
-        "pass": ""
-    },
     "goniec": {
         "enabled": 1,
         "host": "localhost",
@@ -21,31 +14,31 @@
     },
     "teams": [
         ["BC SUDOVIA INTERNATIONAL", "SUDOVIA"],
-        ["AUTOSTRADA EKSPLOATACJA & 2S MEDIA Warszawa", "2S MEDIA"],
+        ["AUTOSTRADA EKSPLOATACJA & 2S MEDIA Warszawa", "AUTOSTRADA"],
         ["K2", "K2"],
-        ["KBS LEGIONOWIANIN", "KBS"],
+        ["KBS LEGIONOWIANIN", "LEGIONOWIANIN"],
         ["SPEKTR Mińsk", "Spektr"],
         ["Gambling Ciechanów", "Gambling"],
-        ["SDK Tczew", "SDK"],
+        ["SDK Tczew", "SDK Tczew"],
         ["AUTO MIRAS Pępowo", "AUTO MIRAS"],
         ["GAME OVER Gdańsk", "GAME OVER"],
         ["COMPENSA Gdańsk", "COMPENSA"],
         ["Mazovia Płock", "Mazovia"],
         ["MAKABI Gdańsk", "MAKABI"],
-        ["GOK Bielsk", "GOK"],
+        ["GOK Bielsk", "GOK Bielsk"],
         ["Amado Trans Olsztyn", "Amado Trans"],
         ["Dolina Narwi MOSiR Łomża", "Dolina Narwi"],
         ["Akademia Brydża AZS UW Warszawa", "AZS UW"]
      ],
     "phases": [
         {
-            "title": "26 stycznia, 19:00",
-            "link": "#",
+            "title": "26 stycznia, 20:00",
+            "link": "nepo1runda1.html",
             "dummies": [0, 2, 3, 6],
             "matches": [
                 {
                     "id": 1,
-                    "database": "ii_ne_po_1",
+                    "database": "nepo1",
                     "round": 1,
                     "table": 1,
                     "teams": [
@@ -55,7 +48,7 @@
                 },
                 {
                     "id": 2,
-                    "database": "ii_ne_po_1",
+                    "database": "nepo1",
                     "round": 1,
                     "table": 2,
                     "teams": [
@@ -66,7 +59,7 @@
                 },
                 {
                     "id": 3,
-                    "database": "ii_ne_po_1",
+                    "database": "nepo1",
                     "round": 1,
                     "table": 3,
                     "teams": [
@@ -77,7 +70,7 @@
                 },
                 {
                     "id": 4,
-                    "database": "ii_ne_po_1",
+                    "database": "nepo1",
                     "round": 1,
                     "table": 4,
                     "teams": [
@@ -87,7 +80,7 @@
                 },
                 {
                     "id": 5,
-                    "database": "ii_ne_po_1",
+                    "database": "nepo1",
                     "round": 1,
                     "table": 5,
                     "teams": [

@@ -1,5 +1,4 @@
 {
-    "output": "i/n/playoff.html",
     "page": {
         "title": "I liga N, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
@@ -7,12 +6,6 @@
         "width": 200,
         "height": 80,
         "margin": 60
-    },
-    "database": {
-        "host": "localhost",
-        "port": 3306,
-        "user": "admin",
-        "pass": ""
     },
     "goniec": {
         "enabled": 1,
@@ -39,13 +32,13 @@
      ],
     "phases": [
         {
-            "title": "26 stycznia, 19:00",
-            "link": "#",
+            "title": "26 stycznia, 20:00",
+            "link": "npo1runda1.html",
             "dummies": [0, 2, 3, 7],
             "matches": [
                 {
                     "id": 1,
-                    "database": "i_n_po_1",
+                    "database": "1npo1",
                     "round": 1,
                     "table": 1,
                     "teams": [
@@ -55,7 +48,7 @@
                 },
                 {
                     "id": 2,
-                    "database": "i_n_po_1",
+                    "database": "1npo1",
                     "round": 1,
                     "table": 3,
                     "teams": [
@@ -66,7 +59,7 @@
                 },
                 {
                     "id": 3,
-                    "database": "i_n_po_1",
+                    "database": "1npo1",
                     "round": 1,
                     "table": 2,
                     "teams": [
@@ -77,7 +70,7 @@
                 },
                 {
                     "id": 4,
-                    "database": "i_n_po_1",
+                    "database": "1npo1",
                     "round": 1,
                     "table": 4,
                     "teams": [
@@ -87,7 +80,7 @@
                 },
                 {
                     "id": 5,
-                    "database": "i_n_po_1",
+                    "database": "1npo1",
                     "round": 1,
                     "table": 5,
                     "teams": [
