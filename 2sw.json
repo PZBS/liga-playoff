@@ -1,0 +1,255 @@
+{
+    "output": "ii/sw/playoff.html",
+    "page": {
+        "title": "II liga SW, play-off",
+        "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
+        "refresh": 30,
+        "width": 250,
+        "height": 80,
+        "margin": 60
+    },
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "admin",
+        "pass": ""
+    },
+    "goniec": {
+        "enabled": 1,
+        "host": "localhost",
+        "port": 8090
+    },
+    "teams": [
+        ["DRUGI SORT Bielsko-Biała", "Drugi Sort"],
+        ["PONAR SILESIA Katowice", "PONAR SILESIA"],
+        ["Bluerefrigeration AZS Wratislavia VIII", "Bluerefrigeration"],
+        ["JKBS Jastrzębie-Zdrój", "JKBS"],
+        ["KS TURBO FLY BACK Wrocław", "TURBO FLY BACK"],
+        ["VALUEMEDIA KS AZS Wratislavia II", "VALUEMEDIA"],
+        ["ERBUD KS AZS Wratislavia IX", "ERBUD"],
+        ["DDK II Brzeziny Śląskie", "DDK II"],
+        ["MULTI Opole", "MULTI"],
+        ["ABNEGAT Warszawa", "ABNEGAT"],
+        ["Stowarzyszenie BONA FIDE Świebodzice", "BONA FIDE"],
+        ["BUKS MDK MOSM I Bytom", "BUKS MDK MOSM"],
+        ["BKB I Bolesławiec", "BKB I"],
+        ["MICHALAK Kolonowskie", "MICHALAK"],
+        ["KS Konfeks I Legnica", "Konfeks I"],
+        ["ZTB 7TREFL Zawiercie", "7TREFL"]
+     ],
+    "phases": [
+        {
+            "title": "26 stycznia, 19:00",
+            "link": "#",
+            "dummies": [0, 2, 3, 6],
+            "matches": [
+                {
+                    "id": 1,
+                    "database": "ii_sw_po_1_wro",
+                    "round": 1,
+                    "table": 1,
+                    "teams": [
+                        {"place": [2]},
+                        {"place": [3]}
+                    ]
+                },
+                {
+                    "id": 2,
+                    "database": "ii_sw_po_1",
+                    "round": 1,
+                    "table": 2,
+                    "teams": [
+                        {"place": [7]},
+                        {"place": [10]}
+                    ],
+                    "winner": [7, 8]
+                },
+                {
+                    "id": 3,
+                    "database": "ii_sw_po_1",
+                    "round": 1,
+                    "table": 3,
+                    "teams": [
+                        {"place": [8]},
+                        {"place": [9]}
+                    ],
+                    "winner": [7, 8]
+                },
+                {
+                    "id": 4,
+                    "database": "ii_sw_po_1",
+                    "round": 1,
+                    "table": 4,
+                    "teams": [
+                        {"place": [11]},
+                        {"place": [14]}
+                    ]
+                },
+                {
+                    "id": 5,
+                    "database": "ii_sw_po_1",
+                    "round": 1,
+                    "table": 5,
+                    "teams": [
+                        {"place": [12]},
+                        {"place": [13]}
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "27 stycznia, 19:30",
+            "link": "#",
+            "dummies": [0],
+            "matches": [
+                {
+                    "id": 6,
+                    "database": "ii_sw_po_2_wro",
+                    "round": 1,
+                    "table": 1,
+                    "teams": [
+                        {"loser": [1]},
+                        {"place": [5,6]}
+                    ],
+                    "loser": [5, 6]
+                },
+                {
+                    "id": 7,
+                    "database": "ii_sw_po_2",
+                    "round": 1,
+                    "table": 2,
+                    "teams": [
+                        {"place": [4]},
+                        {"place": [5,6]}
+                    ],
+                    "loser": [5, 6]
+                },
+                {
+                    "id": 8,
+                    "database": "ii_sw_po_2",
+                    "round": 1,
+                    "table": 3,
+                    "teams": [
+                        {"loser": [2]},
+                        {"winner": [4, 5]}
+                    ],
+                    "winner": [9, 10]
+                },
+                {
+                    "id": 9,
+                    "database": "ii_sw_po_2",
+                    "round": 1,
+                    "table": 4,
+                    "teams": [
+                        {"loser": [3]},
+                        {"winner": [4, 5]}
+                    ],
+                    "winner": [9, 10]
+                },
+                {
+                    "id": 10,
+                    "database": "ii_sw_po_2",
+                    "round": 1,
+                    "table": 5,
+                    "teams": [
+                        {"place": [15]},
+                        {"loser": [4, 5]}
+                    ],
+                    "loser": [15, 16]
+                },
+                {
+                    "id": 11,
+                    "database": "ii_sw_po_2",
+                    "round": 1,
+                    "table": 6,
+                    "teams": [
+                        {"place": [16]},
+                        {"loser": [4, 5]}
+                    ],
+                    "loser": [15, 16]
+                }
+            ]
+        },
+        {
+            "title": "V zjazd",
+            "link": "#",
+            "matches": [
+                {
+                    "id": 12,
+                    "database": "ii_sw_po_3",
+                    "round": 1,
+                    "table": 1,
+                    "teams": [
+                        {"place": [1]},
+                        {"winner": [1, 6, 7]}
+                    ]
+                },
+                {
+                    "id": 13,
+                    "database": "ii_sw_po_3",
+                    "round": 1,
+                    "table": 2,
+                    "teams": [
+                        {"winner": [1, 6, 7]},
+                        {"winner": [1, 6, 7]}
+                    ]
+                },
+                {
+                    "id": 14,
+                    "database": "ii_sw_po_3s",
+                    "round": 1,
+                    "table": 1,
+                    "teams": [
+                        {"loser": [8]},
+                        {"winner": [10, 11]}
+                    ],
+                    "winner": [11, 12],
+                    "loser": [13, 14]
+                },
+                {
+                    "id": 15,
+                    "database": "ii_sw_po_3s",
+                    "round": 1,
+                    "table": 2,
+                    "teams": [
+                        {"loser": [9]},
+                        {"winner": [10, 11]}
+                    ],
+                    "winner": [11, 12],
+                    "loser": [13, 14]
+                }
+            ]
+        },
+        {
+            "title": "V zjazd",
+            "link": "#",
+            "dummies": [2, 3],
+            "matches": [
+                {
+                    "id": 16,
+                    "database": "ii_sw_po_4",
+                    "round": 1,
+                    "table": 1,
+                    "teams": [
+                        {"winner": [12, 13]},
+                        {"winner": [12, 13]}
+                    ],
+                    "winner": [1],
+                    "loser": [2]
+                },
+                {
+                    "id": 17,
+                    "database": "ii_sw_po_4",
+                    "round": 1,
+                    "table": 2,
+                    "teams": [
+                        {"loser": [12, 13]},
+                        {"loser": [12, 13]}
+                    ],
+                    "winner": [3],
+                    "loser": [4]
+                }
+            ]
+        }
+    ]
+}
