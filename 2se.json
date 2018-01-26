@@ -7,11 +7,6 @@
         "height": 80,
         "margin": 60
     },
-    "goniec": {
-        "enabled": 1,
-        "host": "localhost",
-        "port": 8090
-    },
     "teams": [
         ["Akademia Brydża AZS UW Piast Warszawa", "AZS UW", "w-wa.png"],
         ["SKÓR-BUT Łęczna", "SKÓR-BUT", "leczna.png"],

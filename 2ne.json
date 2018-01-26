@@ -7,11 +7,6 @@
         "height": 80,
         "margin": 60
     },
-    "goniec": {
-        "enabled": 1,
-        "host": "localhost",
-        "port": 8090
-    },
     "teams": [
         ["BC SUDOVIA INTERNATIONAL", "SUDOVIA"],
         ["AUTOSTRADA EKSPLOATACJA & 2S MEDIA Warszawa", "AUTOSTRADA"],

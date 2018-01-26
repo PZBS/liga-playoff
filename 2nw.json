@@ -7,11 +7,6 @@
         "height": 80,
         "margin": 60
     },
-    "goniec": {
-        "enabled": 1,
-        "host": "localhost",
-        "port": 8090
-    },
     "teams": [
         ["UNIA II Leszno", "UNIA II", "leszno.png"],
         ["JANTAR Toruń", "JANTAR", "torun.png"],
