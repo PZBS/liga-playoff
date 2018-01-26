@@ -3,5 +3,5 @@
         "enabled": 1,
         "host": "localhost",
         "port": 8090
-    },
+    }
 }
