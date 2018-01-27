@@ -153,8 +153,8 @@
                     "round": 1,
                     "table": 1,
                     "teams": [
-                        {"place": [1]},
-                        {"winner": [1, 6, 7]}
+                        {"winner": [1]},
+                        {"winner": [6, 7]}
                     ]
                 },
                 {
@@ -163,8 +163,8 @@
                     "round": 1,
                     "table": 1,
                     "teams": [
-                        {"winner": [1, 6, 7]},
-                        {"winner": [1, 6, 7]}
+                        {"place": [1]},
+                        {"winner": [6, 7]}
                     ]
                 },
                 {
