@@ -28,12 +28,12 @@
     "phases": [
         {
             "title": "26 stycznia, 20:00",
-            "link": "#",
+            "link": "sepo1runda1.html",
             "dummies": [0, 2, 3, 6],
             "matches": [
                 {
                     "id": 1,
-                    "database": "ii_se_po_1",
+                    "database": "sepo1",
                     "round": 1,
                     "table": 1,
                     "teams": [
@@ -43,7 +43,7 @@
                 },
                 {
                     "id": 2,
-                    "database": "ii_se_po_1",
+                    "database": "sepo1",
                     "round": 1,
                     "table": 2,
                     "teams": [
@@ -54,7 +54,7 @@
                 },
                 {
                     "id": 3,
-                    "database": "ii_se_po_1",
+                    "database": "sepo1",
                     "round": 1,
                     "table": 3,
                     "teams": [
@@ -65,7 +65,7 @@
                 },
                 {
                     "id": 4,
-                    "database": "ii_se_po_1",
+                    "database": "sepo1",
                     "round": 1,
                     "table": 4,
                     "teams": [
@@ -75,7 +75,7 @@
                 },
                 {
                     "id": 5,
-                    "database": "ii_se_po_1",
+                    "database": "sepo1",
                     "round": 1,
                     "table": 5,
                     "teams": [
