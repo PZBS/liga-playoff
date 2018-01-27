@@ -107,7 +107,7 @@
                     "id": 7,
                     "database": "2nwpo2",
                     "round": 1,
-                    "table": 2,
+                    "table": 1,
                     "teams": [
                         {"place": [4]},
                         {"place": [5]}
@@ -118,7 +118,7 @@
                     "id": 8,
                     "database": "2nwpo2",
                     "round": 1,
-                    "table": 3,
+                    "table": 2,
                     "teams": [
                         {"loser": [2]},
                         {"winner": [4, 5]}
@@ -129,7 +129,7 @@
                     "id": 9,
                     "database": "2nwpo2",
                     "round": 1,
-                    "table": 4,
+                    "table": 3,
                     "teams": [
                         {"loser": [3]},
                         {"winner": [4, 5]}
@@ -140,7 +140,7 @@
                     "id": 10,
                     "database": "2nwpo2",
                     "round": 1,
-                    "table": 5,
+                    "table": 4,
                     "teams": [
                         {"place": [15]},
                         {"loser": [4, 5]}
@@ -151,7 +151,7 @@
                     "id": 11,
                     "database": "2nwpo2",
                     "round": 1,
-                    "table": 6,
+                    "table": 5,
                     "teams": [
                         {"place": [16]},
                         {"loser": [4, 5]}
