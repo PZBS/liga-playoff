@@ -139,7 +139,7 @@
                     "id": 10,
                     "database": "sepo2",
                     "round": 1,
-                    "table": 1,
+                    "table": 5,
                     "teams": [
                         {"place": [15]},
                         {"loser": [4, 5]}
@@ -150,7 +150,7 @@
                     "id": 11,
                     "database": "sepo2",
                     "round": 1,
-                    "table": 1,
+                    "table": 6,
                     "teams": [
                         {"place": [16]},
                         {"loser": [4, 5]}
