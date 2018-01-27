@@ -43,25 +43,29 @@
                 },
                 {
                     "id": 2,
-                    "database": "nepo1",
+                    "database": "nepo1_",
                     "round": 1,
                     "table": 2,
                     "teams": [
                         {"place": [7]},
                         {"place": [9]}
                     ],
-                    "winner": [7, 8]
+                    "winner": [7, 8],
+                    "score": [183.4, 64],
+                    "link": "http://brydz.meritum-gda.pl/2018/playoff/IILigarunda1.html"
                 },
                 {
                     "id": 3,
-                    "database": "nepo1",
+                    "database": "nepo1_",
                     "round": 1,
                     "table": 3,
                     "teams": [
                         {"place": [8]},
                         {"place": [10]}
                     ],
-                    "winner": [7, 8]
+                    "winner": [7, 8],
+                    "score": [151.7, 93],
+                    "link": "http://brydz.meritum-gda.pl/2018/playoff/IILigarunda1.html"
                 },
                 {
                     "id": 4,
