@@ -119,12 +119,12 @@
         },
         {
             "title": "27 stycznia 19:30",
-            "link": "#",
+            "link": "eliga1718p2runda1.html",
             "dummies": [0, 3, 4, 5],
             "matches": [
                 {
                     "id": 9,
-                    "database": "eklasa_2",
+                    "database": "eliga1718p2",
                     "round": 1,
                     "table": 1,
                     "teams": [
@@ -135,7 +135,7 @@
                 },
                 {
                     "id": 10,
-                    "database": "eklasa_2",
+                    "database": "eliga1718p2",
                     "round": 1,
                     "table": 2,
                     "teams": [
@@ -146,7 +146,7 @@
                 },
                 {
                     "id": 11,
-                    "database": "eklasa_2",
+                    "database": "eliga1718p2",
                     "round": 1,
                     "table": 3,
                     "teams": [

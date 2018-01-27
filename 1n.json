@@ -87,12 +87,12 @@
         },
         {
             "title": "27 stycznia, 19:30",
-            "link": "#",
+            "link": "npo2runda1.html",
             "dummies": [0],
             "matches": [
                 {
                     "id": 6,
-                    "database": "i_n_po_2",
+                    "database": "1npo2",
                     "round": 1,
                     "table": 1,
                     "teams": [
@@ -103,7 +103,7 @@
                 },
                 {
                     "id": 7,
-                    "database": "i_n_po_2",
+                    "database": "1npo2",
                     "round": 1,
                     "table": 2,
                     "teams": [
@@ -114,7 +114,7 @@
                 },
                 {
                     "id": 8,
-                    "database": "i_n_po_2",
+                    "database": "1npo2",
                     "round": 1,
                     "table": 3,
                     "teams": [
@@ -125,7 +125,7 @@
                 },
                 {
                     "id": 9,
-                    "database": "i_n_po_2",
+                    "database": "1npo2",
                     "round": 1,
                     "table": 4,
                     "teams": [
@@ -136,7 +136,7 @@
                 },
                 {
                     "id": 10,
-                    "database": "i_n_po_2",
+                    "database": "1npo2",
                     "round": 1,
                     "table": 5,
                     "teams": [
@@ -147,7 +147,7 @@
                 },
                 {
                     "id": 11,
-                    "database": "i_n_po_2",
+                    "database": "1npo2",
                     "round": 1,
                     "table": 6,
                     "teams": [

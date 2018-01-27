@@ -91,12 +91,12 @@
         },
         {
             "title": "27 stycznia, 19:30",
-            "link": "#",
+            "link": "nepo2runda1.html",
             "dummies": [0],
             "matches": [
                 {
                     "id": 6,
-                    "database": "ii_ne_po_2",
+                    "database": "nepo2",
                     "round": 1,
                     "table": 1,
                     "teams": [
@@ -107,7 +107,7 @@
                 },
                 {
                     "id": 7,
-                    "database": "ii_ne_po_2",
+                    "database": "nepo2",
                     "round": 1,
                     "table": 2,
                     "teams": [
@@ -118,7 +118,7 @@
                 },
                 {
                     "id": 8,
-                    "database": "ii_ne_po_2",
+                    "database": "nepo2",
                     "round": 1,
                     "table": 3,
                     "teams": [
@@ -129,7 +129,7 @@
                 },
                 {
                     "id": 9,
-                    "database": "ii_ne_po_2",
+                    "database": "nepo2",
                     "round": 1,
                     "table": 4,
                     "teams": [
@@ -140,7 +140,7 @@
                 },
                 {
                     "id": 10,
-                    "database": "ii_ne_po_2",
+                    "database": "nepo2",
                     "round": 1,
                     "table": 5,
                     "teams": [
@@ -151,7 +151,7 @@
                 },
                 {
                     "id": 11,
-                    "database": "ii_ne_po_2",
+                    "database": "nepo2",
                     "round": 1,
                     "table": 6,
                     "teams": [

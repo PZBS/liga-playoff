@@ -72,7 +72,7 @@
         },
         {
             "title": "27 stycznia, 19:30",
-            "link": "#",
+            "link": "spo2runda1.html",
             "dummies": [0],
             "matches": [
                 {
@@ -99,7 +99,7 @@
                 },
                 {
                     "id": 8,
-                    "database": "i_s_po_2",
+                    "database": "spo2_2018",
                     "round": 1,
                     "table": 3,
                     "teams": [
@@ -110,7 +110,7 @@
                 },
                 {
                     "id": 9,
-                    "database": "i_s_po_2",
+                    "database": "spo2_2018",
                     "round": 1,
                     "table": 4,
                     "teams": [
@@ -121,7 +121,7 @@
                 },
                 {
                     "id": 10,
-                    "database": "i_s_po_2",
+                    "database": "spo2_2018",
                     "round": 1,
                     "table": 5,
                     "teams": [
@@ -132,7 +132,7 @@
                 },
                 {
                     "id": 11,
-                    "database": "i_s_po_2",
+                    "database": "spo2_2018",
                     "round": 1,
                     "table": 6,
                     "teams": [
