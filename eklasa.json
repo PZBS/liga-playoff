@@ -1,5 +1,4 @@
 {
-    "output": "eklasa/playoff.html",
     "page": {
         "title": "Polish Premier League, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
@@ -7,17 +6,6 @@
         "width": 200,
         "height": 80,
         "margin": 60
-    },
-    "database": {
-        "host": "localhost",
-        "port": 3306,
-        "user": "admin",
-        "pass": ""
-    },
-    "goniec": {
-        "enabled": 1,
-        "host": "localhost",
-        "port": 8090
     },
     "teams": [
         ["KONKRET Chełmno", "Konkret"],
