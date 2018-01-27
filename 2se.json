@@ -33,7 +33,7 @@
             "matches": [
                 {
                     "id": 1,
-                    "database": "sepo1",
+                    "database": "sepo1_",
                     "round": 1,
                     "table": 1,
                     "teams": [
