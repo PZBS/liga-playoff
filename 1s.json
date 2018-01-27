@@ -77,7 +77,7 @@
             "matches": [
                 {
                     "id": 6,
-                    "database": "i_s_po_2",
+                    "database": "spo2_2018",
                     "round": 1,
                     "table": 1,
                     "teams": [
@@ -88,7 +88,7 @@
                 },
                 {
                     "id": 7,
-                    "database": "i_s_po_2",
+                    "database": "spo2_2018",
                     "round": 1,
                     "table": 2,
                     "teams": [
