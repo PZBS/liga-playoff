@@ -92,14 +92,15 @@
             "matches": [
                 {
                     "id": 6,
-                    "database": "ii_nw_po_2",
+                    "database": "2nwpo2a",
                     "round": 1,
                     "table": 1,
                     "teams": [
                         {"loser": [1]},
                         {"place": [6]}
                     ],
-                    "loser": [5, 6]
+                    "loser": [5, 6],
+                    "link": "nwpo2arunda1.html"
                 },
                 {
                     "id": 7,
