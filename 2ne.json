@@ -168,7 +168,7 @@
             "matches": [
                 {
                     "id": 12,
-                    "database": "ii_ne_po_3",
+                    "database": "nepo3",
                     "round": 1,
                     "table": 1,
                     "teams": [
@@ -178,7 +178,7 @@
                 },
                 {
                     "id": 13,
-                    "database": "ii_ne_po_3",
+                    "database": "nepo3",
                     "round": 1,
                     "table": 2,
                     "teams": [
@@ -188,7 +188,7 @@
                 },
                 {
                     "id": 14,
-                    "database": "ii_ne_po_3",
+                    "database": "nesp",
                     "round": 1,
                     "table": 3,
                     "teams": [
@@ -200,7 +200,7 @@
                 },
                 {
                     "id": 15,
-                    "database": "ii_ne_po_3b",
+                    "database": "nesp",
                     "round": 1,
                     "table": 1,
                     "teams": [
