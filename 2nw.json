@@ -7,35 +7,17 @@
         "height": 80,
         "margin": 60
     },
-    "teams": [
-        ["UNIA II Leszno", "UNIA II", "leszno.png"],
-        ["JANTAR Toruń", "JANTAR", "torun.png"],
-        ["Radio Hit Włocławek", "Radio Hit", "wloclawek.png"],
-        ["A_D Szczecin", "A_D", "szczecin.png"],
-        ["STB Słupsk", "STB", "slupsk.png"],
-        ["ADMIRA Poznań", "ADMIRA", "poznan.png"],
-        ["GOMAD Gorzów Wielkopolski", "GOMAD", "gorzow.png"],
-        ["FUNDACJA I Love Bridge Gorzów Wlkp.", "I Love Bridge", "gorzow.png"],
-        ["FLUX-MEDICAL Boguniewo", "FLUX-MEDICAL", "boguniewo.png"],
-        ["ANNEBERG Zielona Góra", "ANNEBERG", "zielona.png"],
-        ["JAGIELLONKA Piła", "JAGIELLONKA", "pila.png"],
-        ["TRZYNASTKA Szczecin", "TRZYNASTKA", "szczecin.png"],
-        ["KB KONTRA Koszalin", "KONTRA", "koszalin.png"],
-        ["BIN Aleksandrów Kujawski", "BIN", "aleksandrow.png"],
-        ["HURTOWNIA SPORTOWA PAAK Bydgoszcz ", "PAAK", "bydgoszcz.png"],
-        ["SBS DAWID Nowa Sól", "SBS DAWID", "nowasol.png"]
-     ],
+    "teams": {
+        "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/2liga/nw/nwrrleaderb.html"
+    },
     "phases": [
         {
             "title": "26 stycznia, 20:00",
-            "link": "nwpo1runda1.html",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/2liga/nw/nwpo1runda1.html",
             "dummies": [0, 2, 3, 6],
             "matches": [
                 {
                     "id": 1,
-                    "database": "2nwpo1_",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"place": [2]},
                         {"place": [3]}
@@ -44,8 +26,6 @@
                 },
                 {
                     "id": 2,
-                    "database": "2nwpo1",
-                    "round": 1,
                     "table": 2,
                     "teams": [
                         {"place": [7]},
@@ -55,8 +35,6 @@
                 },
                 {
                     "id": 3,
-                    "database": "2nwpo1",
-                    "round": 1,
                     "table": 1,
                     "teams": [
                         {"place": [8]},
@@ -66,8 +44,6 @@
                 },
                 {
                     "id": 4,
-                    "database": "2nwpo1",
-                    "round": 1,
                     "table": 3,
                     "teams": [
                         {"place": [11]},
@@ -76,8 +52,6 @@
                 },
                 {
                     "id": 5,
-                    "database": "2nwpo1",
-                    "round": 1,
                     "table": 4,
                     "teams": [
                         {"place": [12]},
@@ -88,25 +62,21 @@
         },
         {
             "title": "27 stycznia, 19:30",
-            "link": "nwpo2runda1.html",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/2liga/nw/nwpo2runda1.html",
             "dummies": [0],
             "matches": [
                 {
                     "id": 6,
-                    "database": "2nwpo2a",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"loser": [1]},
                         {"place": [6]}
                     ],
                     "loser": [5, 6],
-                    "link": "nwpo2arunda1.html"
+                    "link": "nwpo2arunda1.html",
+                    "table": 1
                 },
                 {
                     "id": 7,
-                    "database": "2nwpo2",
-                    "round": 1,
                     "table": 1,
                     "teams": [
                         {"place": [4]},
@@ -116,8 +86,6 @@
                 },
                 {
                     "id": 8,
-                    "database": "2nwpo2",
-                    "round": 1,
                     "table": 2,
                     "teams": [
                         {"loser": [2]},
@@ -127,8 +95,6 @@
                 },
                 {
                     "id": 9,
-                    "database": "2nwpo2",
-                    "round": 1,
                     "table": 3,
                     "teams": [
                         {"loser": [3]},
@@ -138,8 +104,6 @@
                 },
                 {
                     "id": 10,
-                    "database": "2nwpo2",
-                    "round": 1,
                     "table": 4,
                     "teams": [
                         {"place": [15]},
@@ -149,8 +113,6 @@
                 },
                 {
                     "id": 11,
-                    "database": "2nwpo2",
-                    "round": 1,
                     "table": 5,
                     "teams": [
                         {"place": [16]},
@@ -162,13 +124,9 @@
         },
         {
             "title": "V zjazd",
-            "link": "#",
             "matches": [
                 {
                     "id": 12,
-                    "database": "ii_nw_po_3",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"place": [1]},
                         {"winner": [6, 7]}
@@ -176,9 +134,6 @@
                 },
                 {
                     "id": 13,
-                    "database": "ii_nw_po_3",
-                    "round": 1,
-                    "table": 2,
                     "teams": [
                         {"winner": [1]},
                         {"winner": [6, 7]}
@@ -186,9 +141,6 @@
                 },
                 {
                     "id": 14,
-                    "database": "ii_nw_po_3",
-                    "round": 1,
-                    "table": 3,
                     "teams": [
                         {"loser": [8]},
                         {"winner": [10, 11]}
@@ -198,9 +150,6 @@
                 },
                 {
                     "id": 15,
-                    "database": "ii_nw_po_baraz",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"loser": [9]},
                         {"winner": [10, 11]}
@@ -212,14 +161,10 @@
         },
         {
             "title": "V zjazd",
-            "link": "#",
             "dummies": [2, 3],
             "matches": [
                 {
                     "id": 16,
-                    "database": "ii_nw_po_4",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"winner": [12, 13]},
                         {"winner": [12, 13]}
@@ -229,9 +174,6 @@
                 },
                 {
                     "id": 17,
-                    "database": "ii_nw_po_4",
-                    "round": 1,
-                    "table": 2,
                     "teams": [
                         {"loser": [12, 13]},
                         {"loser": [12, 13]}
