@@ -7,9 +7,24 @@
         "height": 80,
         "margin": 60
     },
-    "teams": {
-        "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/2liga/ne/nerrleaderb.html"
-    },
+    "teams": [
+        ["BC SUDOVIA INTERNATIONAL", "SUDOVIA"],
+        ["AUTOSTRADA EKSPLOATACJA & 2S MEDIA Warszawa", "AUTOSTRADA"],
+        ["K2", "K2"],
+        ["KBS LEGIONOWIANIN", "LEGIONOWIANIN"],
+        ["SPEKTR Mińsk", "Spektr"],
+        ["Gambling Ciechanów", "Gambling"],
+        ["SDK Tczew", "SDK Tczew"],
+        ["AUTO MIRAS Pępowo", "AUTO MIRAS"],
+        ["GAME OVER Gdańsk", "GAME OVER"],
+        ["COMPENSA Gdańsk", "COMPENSA"],
+        ["Mazovia Płock", "Mazovia"],
+        ["MAKABI Gdańsk", "MAKABI"],
+        ["GOK Bielsk", "GOK Bielsk"],
+        ["Amado Trans Olsztyn", "Amado Trans"],
+        ["Dolina Narwi MOSiR Łomża", "Dolina Narwi"],
+        ["Akademia Brydża AZS UW Warszawa", "AZS UW"]
+     ],
     "phases": [
         {
             "title": "26 stycznia, 20:00",
@@ -26,22 +41,22 @@
                 },
                 {
                     "id": 2,
-                    "table": 1,
                     "teams": [
                         {"place": [7]},
                         {"place": [9]}
                     ],
                     "winner": [7, 8],
+                    "score": [183.4, 64.0],
                     "link": "http://brydz.meritum-gda.pl/2018/playoff/IILigarunda1.html"
                 },
                 {
                     "id": 3,
-                    "table": 2,
                     "teams": [
                         {"place": [8]},
                         {"place": [10]}
                     ],
                     "winner": [7, 8],
+                    "score": [151.7, 93.0],
                     "link": "http://brydz.meritum-gda.pl/2018/playoff/IILigarunda1.html"
                 },
                 {
