@@ -3,7 +3,7 @@
         "title": "II liga SE, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "refresh": 0,
-        "width": 250,
+        "width": 300,
         "height": 80,
         "margin": 60
     },
