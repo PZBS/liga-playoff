@@ -8,18 +8,16 @@
         "margin": 60
     },
     "teams": {
-		"database": "srr_dmp"
+		"link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/s/srrleaderb.html"
 	},
     "phases": [
         {
             "title": "26 stycznia, 20:00",
-            "link": "spo1runda1.html",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/s/spo1runda1.html",
             "dummies": [0, 2, 3, 6],
             "matches": [
                 {
                     "id": 1,
-                    "database": "spo1_2018",
-                    "round": 1,
                     "table": 1,
                     "teams": [
                         {"place": [2]},
@@ -28,8 +26,6 @@
                 },
                 {
                     "id": 2,
-                    "database": "spo1_2018",
-                    "round": 1,
                     "table": 3,
                     "teams": [
                         {"place": [7]},
@@ -39,8 +35,6 @@
                 },
                 {
                     "id": 3,
-                    "database": "spo1_2018",
-                    "round": 1,
                     "table": 2,
                     "teams": [
                         {"place": [8]},
@@ -50,8 +44,6 @@
                 },
                 {
                     "id": 4,
-                    "database": "spo1_2018",
-                    "round": 1,
                     "table": 4,
                     "teams": [
                         {"place": [11]},
@@ -60,8 +52,6 @@
                 },
                 {
                     "id": 5,
-                    "database": "spo1_2018",
-                    "round": 1,
                     "table": 5,
                     "teams": [
                         {"place": [12]},
@@ -72,13 +62,11 @@
         },
         {
             "title": "27 stycznia, 19:30",
-            "link": "spo2runda1.html",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/s/spo2runda1.html",
             "dummies": [0],
             "matches": [
                 {
                     "id": 6,
-                    "database": "spo2_2018",
-                    "round": 1,
                     "table": 1,
                     "teams": [
                         {"loser": [1]},
@@ -88,8 +76,6 @@
                 },
                 {
                     "id": 7,
-                    "database": "spo2_2018",
-                    "round": 1,
                     "table": 2,
                     "teams": [
                         {"place": [4]},
@@ -99,8 +85,6 @@
                 },
                 {
                     "id": 8,
-                    "database": "spo2_2018",
-                    "round": 1,
                     "table": 3,
                     "teams": [
                         {"loser": [2]},
@@ -110,8 +94,6 @@
                 },
                 {
                     "id": 9,
-                    "database": "spo2_2018",
-                    "round": 1,
                     "table": 4,
                     "teams": [
                         {"loser": [3]},
@@ -121,8 +103,6 @@
                 },
                 {
                     "id": 10,
-                    "database": "spo2_2018",
-                    "round": 1,
                     "table": 5,
                     "teams": [
                         {"place": [15]},
@@ -132,8 +112,6 @@
                 },
                 {
                     "id": 11,
-                    "database": "spo2_2018",
-                    "round": 1,
                     "table": 6,
                     "teams": [
                         {"place": [16]},
@@ -145,64 +123,55 @@
         },
         {
             "title": "V zjazd",
-            "link": "#",
             "matches": [
                 {
                     "id": 12,
-                    "database": "i_s_po_sps",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"place": [1]},
                         {"winner": [6, 7]}
-                    ]
+                    ],
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/s/spo3arunda1.html",
+                    "table": 1
                 },
                 {
                     "id": 13,
-                    "database": "i_s_po_3_a",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"winner": [1]},
                         {"winner": [6, 7]}
-                    ]
+                    ],
+                    "score": {"2": 12.2, "3": 0.0},
+                    "running": 0
                 },
                 {
                     "id": 14,
-                    "database": "i_s_po_3_s",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"loser": [8]},
                         {"winner": [10, 11]}
                     ],
                     "winner": [11, 12],
-                    "loser": [13, 14]
+                    "loser": [13, 14],
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/s/ssprunda1.html",
+                    "table": 1
                 },
                 {
                     "id": 15,
-                    "database": "i_s_po_cracovia",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"loser": [9]},
                         {"winner": [10, 11]}
                     ],
                     "winner": [11, 12],
-                    "loser": [13, 14]
+                    "loser": [13, 14],
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/s/ssprunda1.html",
+                    "table": 2
                 }
             ]
         },
         {
             "title": "V zjazd",
-            "link": "#",
             "dummies": [2, 3],
             "matches": [
                 {
                     "id": 16,
-                    "database": "i_s_po_4",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"winner": [12, 13]},
                         {"winner": [12, 13]}
@@ -212,9 +181,6 @@
                 },
                 {
                     "id": 17,
-                    "database": "i_s_po_4",
-                    "round": 1,
-                    "table": 2,
                     "teams": [
                         {"loser": [12, 13]},
                         {"loser": [12, 13]}
