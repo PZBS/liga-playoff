@@ -7,9 +7,24 @@
         "height": 80,
         "margin": 60
     },
-    "teams": {
-        "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/n/nrrleaderb.html"
-    },
+    "teams": [
+        ["SYNTEX", "Syntex", "olsztyn.png"],
+        ["Objectivity KS AZS Wratislavia III", "Objectivity", "wroclaw.png"],
+        ["BIOPAX.PL AZS UZ", "BIOPAX", "zielonagora.png"],
+        ["COMFORT SA KSAZ Wratislavia IV/VII", "COMFORT", "wroclaw.png"],
+        ["GRICON STARKA Poznań", "GRICON", "poznan.png"],
+        ["DĄBRÓWKA NAUKABRYDŻA.PL Poznań", "DĄBRÓWKA", "poznan.png"],
+        ["VĘGORIA WCK Węgorzewo", "VĘGORIA", "wegorzewo.png"],
+        ["KTB Konin", "KTB", "konin.png"],
+        ["KART-EL Gorzów Wlkp.", "KART-EL", "gorzow.png"],
+        ["UKB KLEKS Szamotuły", "KLEKS", "szamotuly.png"],
+        ["ELEKTROWNIA Żelichowo", "ELEKTROWNIA", "zelichowo.png"],
+        ["UNIA WINKHAUS Leszno", "UNIA", "leszno.png"],
+        ["LKS PIAST Sieradz", "PIAST", "sieradz.png"],
+        ["CHEMIK Bydgoszcz", "CHEMIK", "bydgoszcz.png"],
+        ["DARLES SANTERM Gdańsk", "DARLES SANTERM", "gdansk.png"],
+        ["BLACKWOOD Gdańsk", "BLACKWOOD", "gdansk.png"]
+     ],
     "phases": [
         {
             "title": "26 stycznia, 20:00",
