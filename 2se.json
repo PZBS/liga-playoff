@@ -7,35 +7,17 @@
         "height": 80,
         "margin": 60
     },
-    "teams": [
-        ["Akademia Brydża AZS UW Piast Warszawa", "AZS UW", "w-wa.png"],
-        ["SKÓR-BUT Łęczna", "SKÓR-BUT", "leczna.png"],
-        ["TERMOCHEM CHEMIK Puławy", "CHEMIK", "pulawy.png"],
-        ["SFORA CIBORA Kraków", "Sfora", "krakow.png"],
-        ["SPS EKO-RÓŻANKA", "SPS", "lublin.png"],
-        ["ALF Nowy Sącz", "Alf", "n-sacz.png"],
-        ["Carlo Bossi Parfumes Nisko", "Carlo Bossi", "nisko.png"],
-        ["MPEC Tarnów", "MPEC", "tarnow.png"],
-        ["KETZ SUPER BOND Kraków", "Ketz Super Bond", "krakow.png"],
-        ["CKFiS Bełżyce", "CKFiS", "belzyce.png"],
-        ["GEOBEJUR Radom", "GEOBEJUR", "Radom.png"],
-        ["TS WISŁA Kraków", "Wisła", "krakow.png"],
-        ["COME-BACK Rzeszów", "COME-BACK", "rzeszow.png"],
-        ["LAST MINUTE Kraków", "LAST MINUTE", "krakow.png"],
-        ["PTG Sokół Gorlice", "PTG Sokół", "Gorlice.png"],
-        ["KIERY Głogoczów", "Kiery", "glog-mysl.png"]
-     ],
+    "teams": {
+        "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/2liga/se/serrleaderb.html"
+    },
     "phases": [
         {
             "title": "26 stycznia, 20:00",
-            "link": "sepo1runda1.html",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/2liga/se/sepo1runda1.html",
             "dummies": [0, 2, 3, 6],
             "matches": [
                 {
                     "id": 1,
-                    "database": "sepo1_",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"place": [2]},
                         {"place": [3]}
@@ -44,8 +26,6 @@
                 },
                 {
                     "id": 2,
-                    "database": "sepo1",
-                    "round": 1,
                     "table": 2,
                     "teams": [
                         {"place": [7]},
@@ -55,8 +35,6 @@
                 },
                 {
                     "id": 3,
-                    "database": "sepo1",
-                    "round": 1,
                     "table": 3,
                     "teams": [
                         {"place": [8]},
@@ -66,8 +44,6 @@
                 },
                 {
                     "id": 4,
-                    "database": "sepo1",
-                    "round": 1,
                     "table": 4,
                     "teams": [
                         {"place": [11]},
@@ -76,8 +52,6 @@
                 },
                 {
                     "id": 5,
-                    "database": "sepo1",
-                    "round": 1,
                     "table": 5,
                     "teams": [
                         {"place": [12]},
@@ -88,13 +62,11 @@
         },
         {
             "title": "27 stycznia, 19:30",
-            "link": "sepo2runda1.html",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/2liga/se/sepo2runda1.html",
             "dummies": [0],
             "matches": [
                 {
                     "id": 6,
-                    "database": "sepo2",
-                    "round": 1,
                     "table": 1,
                     "teams": [
                         {"loser": [1]},
@@ -104,8 +76,6 @@
                 },
                 {
                     "id": 7,
-                    "database": "sepo2",
-                    "round": 1,
                     "table": 2,
                     "teams": [
                         {"place": [4]},
@@ -115,8 +85,6 @@
                 },
                 {
                     "id": 8,
-                    "database": "sepo2",
-                    "round": 1,
                     "table": 3,
                     "teams": [
                         {"loser": [2]},
@@ -126,8 +94,6 @@
                 },
                 {
                     "id": 9,
-                    "database": "sepo2",
-                    "round": 1,
                     "table": 4,
                     "teams": [
                         {"loser": [3]},
@@ -137,8 +103,6 @@
                 },
                 {
                     "id": 10,
-                    "database": "sepo2",
-                    "round": 1,
                     "table": 5,
                     "teams": [
                         {"place": [15]},
@@ -148,8 +112,6 @@
                 },
                 {
                     "id": 11,
-                    "database": "sepo2",
-                    "round": 1,
                     "table": 6,
                     "teams": [
                         {"place": [16]},
@@ -161,13 +123,9 @@
         },
         {
             "title": "V zjazd",
-            "link": "#",
             "matches": [
                 {
                     "id": 12,
-                    "database": "ii_se_po_3",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"place": [1]},
                         {"winner": [6, 7]}
@@ -175,9 +133,6 @@
                 },
                 {
                     "id": 13,
-                    "database": "ii_se_po_3",
-                    "round": 1,
-                    "table": 2,
                     "teams": [
                         {"winner": [1]},
                         {"winner": [6, 7]}
@@ -185,9 +140,6 @@
                 },
                 {
                     "id": 14,
-                    "database": "ii_se_po_3",
-                    "round": 1,
-                    "table": 3,
                     "teams": [
                         {"loser": [8]},
                         {"winner": [10, 11]}
@@ -197,9 +149,6 @@
                 },
                 {
                     "id": 15,
-                    "database": "ii_se_po_4",
-                    "round": 1,
-                    "table": 3,
                     "teams": [
                         {"loser": [9]},
                         {"winner": [10, 11]}
@@ -211,14 +160,10 @@
         },
         {
             "title": "V zjazd",
-            "link": "#",
             "dummies": [2, 3],
             "matches": [
                 {
                     "id": 16,
-                    "database": "ii_se_po_4",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"winner": [12, 13]},
                         {"winner": [12, 13]}
@@ -228,9 +173,6 @@
                 },
                 {
                     "id": 17,
-                    "database": "ii_se_po_4",
-                    "round": 1,
-                    "table": 2,
                     "teams": [
                         {"loser": [12, 13]},
                         {"loser": [12, 13]}
