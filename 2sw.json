@@ -7,9 +7,24 @@
         "height": 80,
         "margin": 60
     },
-    "teams": {
-        "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/2liga/sw/swrrleaderb.html"
-    },
+    "teams": [
+        ["DRUGI SORT Bielsko-Biała", "Drugi Sort"],
+        ["PONAR SILESIA Katowice", "PONAR SILESIA"],
+        ["Bluerefrigeration AZS Wratislavia VIII", "Bluerefrigeration"],
+        ["JKBS Jastrzębie-Zdrój", "JKBS"],
+        ["KS TURBO FLY BACK Wrocław", "TURBO FLY BACK"],
+        ["VALUEMEDIA KS AZS Wratislavia II", "VALUEMEDIA"],
+        ["ERBUD KS AZS Wratislavia IX", "ERBUD"],
+        ["DDK II Brzeziny Śląskie", "DDK II"],
+        ["MULTI Opole", "MULTI"],
+        ["ABNEGAT Warszawa", "ABNEGAT"],
+        ["Stowarzyszenie BONA FIDE Świebodzice", "BONA FIDE"],
+        ["BUKS MDK MOSM I Bytom", "BUKS MDK MOSM"],
+        ["BKB I Bolesławiec", "BKB I"],
+        ["MICHALAK Kolonowskie", "MICHALAK"],
+        ["KS Konfeks I Legnica", "Konfeks I"],
+        ["ZTB 7TREFL Zawiercie", "7TREFL"]
+     ],
     "phases": [
         {
             "title": "26 stycznia, 20:00",
