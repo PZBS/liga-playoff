@@ -1,4 +1,5 @@
 {
+    "output": "playoff.html",
     "page": {
         "title": "II liga NW, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
