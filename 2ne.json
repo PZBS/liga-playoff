@@ -1,4 +1,5 @@
 {
+    "output": "playoff.html",
     "page": {
         "title": "II liga NE, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
@@ -28,13 +29,11 @@
     "phases": [
         {
             "title": "26 stycznia, 20:00",
-            "link": "nepo1runda1.html",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/2liga/ne/nepo1runda1.html",
             "dummies": [0, 2, 3, 6],
             "matches": [
                 {
                     "id": 1,
-                    "database": "nepo1",
-                    "round": 1,
                     "table": 1,
                     "teams": [
                         {"place": [2]},
@@ -43,34 +42,26 @@
                 },
                 {
                     "id": 2,
-                    "database": "nepo1_",
-                    "round": 1,
-                    "table": 2,
                     "teams": [
                         {"place": [7]},
                         {"place": [9]}
                     ],
                     "winner": [7, 8],
-                    "score": [183.4, 64],
+                    "score": [183.4, 64.0],
                     "link": "http://brydz.meritum-gda.pl/2018/playoff/IILigarunda1.html"
                 },
                 {
                     "id": 3,
-                    "database": "nepo1_",
-                    "round": 1,
-                    "table": 3,
                     "teams": [
                         {"place": [8]},
                         {"place": [10]}
                     ],
                     "winner": [7, 8],
-                    "score": [151.7, 93],
+                    "score": [151.7, 93.0],
                     "link": "http://brydz.meritum-gda.pl/2018/playoff/IILigarunda1.html"
                 },
                 {
                     "id": 4,
-                    "database": "nepo1",
-                    "round": 1,
                     "table": 4,
                     "teams": [
                         {"place": [11]},
@@ -79,8 +70,6 @@
                 },
                 {
                     "id": 5,
-                    "database": "nepo1",
-                    "round": 1,
                     "table": 5,
                     "teams": [
                         {"place": [12]},
@@ -91,13 +80,11 @@
         },
         {
             "title": "27 stycznia, 19:30",
-            "link": "nepo2runda1.html",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/2liga/ne/nepo2runda1.html",
             "dummies": [0],
             "matches": [
                 {
                     "id": 6,
-                    "database": "nepo2",
-                    "round": 1,
                     "table": 1,
                     "teams": [
                         {"loser": [1]},
@@ -107,8 +94,6 @@
                 },
                 {
                     "id": 7,
-                    "database": "nepo2",
-                    "round": 1,
                     "table": 2,
                     "teams": [
                         {"place": [4]},
@@ -118,8 +103,6 @@
                 },
                 {
                     "id": 8,
-                    "database": "nepo2",
-                    "round": 1,
                     "table": 3,
                     "teams": [
                         {"loser": [2]},
@@ -129,8 +112,6 @@
                 },
                 {
                     "id": 9,
-                    "database": "nepo2",
-                    "round": 1,
                     "table": 4,
                     "teams": [
                         {"loser": [3]},
@@ -140,8 +121,6 @@
                 },
                 {
                     "id": 10,
-                    "database": "nepo2",
-                    "round": 1,
                     "table": 5,
                     "teams": [
                         {"place": [15]},
@@ -151,8 +130,6 @@
                 },
                 {
                     "id": 11,
-                    "database": "nepo2",
-                    "round": 1,
                     "table": 6,
                     "teams": [
                         {"place": [16]},
@@ -164,13 +141,9 @@
         },
         {
             "title": "V zjazd",
-            "link": "#",
             "matches": [
                 {
                     "id": 12,
-                    "database": "nepo3",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"place": [1]},
                         {"winner": [6, 7]}
@@ -178,9 +151,6 @@
                 },
                 {
                     "id": 13,
-                    "database": "nepo3",
-                    "round": 1,
-                    "table": 2,
                     "teams": [
                         {"winner": [1]},
                         {"winner": [6, 7]}
@@ -188,9 +158,6 @@
                 },
                 {
                     "id": 14,
-                    "database": "nesp",
-                    "round": 1,
-                    "table": 3,
                     "teams": [
                         {"loser": [8]},
                         {"winner": [10, 11]}
@@ -200,9 +167,6 @@
                 },
                 {
                     "id": 15,
-                    "database": "nesp",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"loser": [9]},
                         {"winner": [10, 11]}
@@ -214,14 +178,10 @@
         },
         {
             "title": "V zjazd",
-            "link": "#",
             "dummies": [2, 3],
             "matches": [
                 {
                     "id": 16,
-                    "database": "ii_ne_po_4",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"winner": [12, 13]},
                         {"winner": [12, 13]}
@@ -231,9 +191,6 @@
                 },
                 {
                     "id": 17,
-                    "database": "ii_ne_po_4",
-                    "round": 1,
-                    "table": 2,
                     "teams": [
                         {"loser": [12, 13]},
                         {"loser": [12, 13]}

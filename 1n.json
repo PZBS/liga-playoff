@@ -1,4 +1,5 @@
 {
+    "output": "playoff.html",
     "page": {
         "title": "I liga N, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
@@ -28,13 +29,11 @@
     "phases": [
         {
             "title": "26 stycznia, 20:00",
-            "link": "npo1runda1.html",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/n/npo1runda1.html",
             "dummies": [0, 2, 3, 7],
             "matches": [
                 {
                     "id": 1,
-                    "database": "1npo1",
-                    "round": 1,
                     "table": 1,
                     "teams": [
                         {"place": [2]},
@@ -43,8 +42,6 @@
                 },
                 {
                     "id": 2,
-                    "database": "1npo1",
-                    "round": 1,
                     "table": 3,
                     "teams": [
                         {"place": [7]},
@@ -54,8 +51,6 @@
                 },
                 {
                     "id": 3,
-                    "database": "1npo1",
-                    "round": 1,
                     "table": 2,
                     "teams": [
                         {"place": [8]},
@@ -65,8 +60,6 @@
                 },
                 {
                     "id": 4,
-                    "database": "1npo1",
-                    "round": 1,
                     "table": 4,
                     "teams": [
                         {"place": [11]},
@@ -75,8 +68,6 @@
                 },
                 {
                     "id": 5,
-                    "database": "1npo1",
-                    "round": 1,
                     "table": 5,
                     "teams": [
                         {"place": [12]},
@@ -87,13 +78,11 @@
         },
         {
             "title": "27 stycznia, 19:30",
-            "link": "npo2runda1.html",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/n/npo2runda1.html",
             "dummies": [0],
             "matches": [
                 {
                     "id": 6,
-                    "database": "1npo2",
-                    "round": 1,
                     "table": 1,
                     "teams": [
                         {"loser": [1]},
@@ -103,8 +92,6 @@
                 },
                 {
                     "id": 7,
-                    "database": "1npo2",
-                    "round": 1,
                     "table": 2,
                     "teams": [
                         {"place": [4]},
@@ -114,8 +101,6 @@
                 },
                 {
                     "id": 8,
-                    "database": "1npo2",
-                    "round": 1,
                     "table": 3,
                     "teams": [
                         {"loser": [2]},
@@ -125,8 +110,6 @@
                 },
                 {
                     "id": 9,
-                    "database": "1npo2",
-                    "round": 1,
                     "table": 4,
                     "teams": [
                         {"loser": [3]},
@@ -136,8 +119,6 @@
                 },
                 {
                     "id": 10,
-                    "database": "1npo2",
-                    "round": 1,
                     "table": 5,
                     "teams": [
                         {"place": [15]},
@@ -147,8 +128,6 @@
                 },
                 {
                     "id": 11,
-                    "database": "1npo2",
-                    "round": 1,
                     "table": 6,
                     "teams": [
                         {"place": [16]},
@@ -160,13 +139,9 @@
         },
         {
             "title": "V zjazd",
-            "link": "#",
             "matches": [
                 {
                     "id": 12,
-                    "database": "i_n_po_3",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"place": [1]},
                         {"winner": [6, 7]}
@@ -174,9 +149,6 @@
                 },
                 {
                     "id": 13,
-                    "database": "i_n_po_3",
-                    "round": 1,
-                    "table": 2,
                     "teams": [
                         {"winner": [1]},
                         {"winner": [6, 7]}
@@ -184,9 +156,6 @@
                 },
                 {
                     "id": 14,
-                    "database": "i_n_po_3",
-                    "round": 1,
-                    "table": 3,
                     "teams": [
                         {"loser": [8]},
                         {"winner": [10, 11]}
@@ -196,9 +165,6 @@
                 },
                 {
                     "id": 15,
-                    "database": "i_n_po_baraz",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"loser": [9]},
                         {"winner": [10, 11]}
@@ -210,14 +176,10 @@
         },
         {
             "title": "V zjazd",
-            "link": "#",
             "dummies": [2, 3],
             "matches": [
                 {
                     "id": 16,
-                    "database": "i_n_po_4",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"winner": [12, 13]},
                         {"winner": [12, 13]}
@@ -227,9 +189,6 @@
                 },
                 {
                     "id": 17,
-                    "database": "i_n_po_4",
-                    "round": 1,
-                    "table": 2,
                     "teams": [
                         {"loser": [12, 13]},
                         {"loser": [12, 13]}

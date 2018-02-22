@@ -1,4 +1,5 @@
 {
+    "output": "playoff.html",
     "page": {
         "title": "Polish Premier League, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
@@ -7,33 +8,16 @@
         "height": 80,
         "margin": 60
     },
-    "teams": [
-        ["Konkret Chełmno", "Konkret"],
-        ["KS AZS Wratislavia I WR", "AZS Wratislavia"],
-        ["Bridge24.pl", "Bridge24.pl"],
-        ["CONNECTOR Poznań", "Connector"],
-        ["SPS Construction Kielce", "SPS"],
-        ["KONSTANTA Bielsko-Biała", "Konstanta"],
-        ["Skobud Tarnobrzeg", "Skobud"],
-        ["SYNERGIA Lublin", "Synergia"],
-        ["TB Silesia I Gliwice", "Silesia"],
-        ["SYNIS Opole", "Synis"],
-        ["Ilanka 1 Rzepin", "Ilanka"],
-        ["KDK I Kutno", "KDK"],
-        ["ANDRZEJKI Gdańsk", "Andrzejki"],
-        ["MKS MAZOVIA Mińsk Mazowiecki", "Mazovia"],
-        ["RAL VYTAS Poznań", "RAL"],
-        ["ZOIM & FIORI Szczecin", "ZOIM"]
-     ],
+    "teams": {
+        "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/eliga1718leaderb.html"
+    },
     "phases": [
         {
             "title": "26 stycznia 19:00",
-            "link": "eliga1718p1runda1.html",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/eliga1718p1runda1.html",
             "matches": [
                 {
                     "id": 1,
-                    "database": "eliga1718p1",
-                    "round": 1,
                     "table": 1,
                     "teams": [
                         {"place": [1]},
@@ -42,8 +26,6 @@
                 },
                 {
                     "id": 2,
-                    "database": "eliga1718p1",
-                    "round": 1,
                     "table": 2,
                     "teams": [
                         {"place": [2]},
@@ -52,8 +34,6 @@
                 },
                 {
                     "id": 3,
-                    "database": "eliga1718p1",
-                    "round": 1,
                     "table": 3,
                     "teams": [
                         {"place": [5]},
@@ -63,8 +43,6 @@
                 },
                 {
                     "id": 4,
-                    "database": "eliga1718p1",
-                    "round": 1,
                     "table": 4,
                     "teams": [
                         {"place": [6]},
@@ -74,8 +52,6 @@
                 },
                 {
                     "id": 5,
-                    "database": "eliga1718p1",
-                    "round": 1,
                     "table": 5,
                     "teams": [
                         {"place": [9]},
@@ -85,8 +61,6 @@
                 },
                 {
                     "id": 6,
-                    "database": "eliga1718p1",
-                    "round": 1,
                     "table": 6,
                     "teams": [
                         {"place": [10]},
@@ -96,8 +70,6 @@
                 },
                 {
                     "id": 7,
-                    "database": "eliga1718p1",
-                    "round": 1,
                     "table": 7,
                     "teams": [
                         {"place": [13]},
@@ -106,8 +78,6 @@
                 },
                 {
                     "id": 8,
-                    "database": "eliga1718p1",
-                    "round": 1,
                     "table": 8,
                     "teams": [
                         {"place": [15]},
@@ -119,13 +89,11 @@
         },
         {
             "title": "27 stycznia 19:30",
-            "link": "eliga1718p2runda1.html",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/eliga1718p2runda1.html",
             "dummies": [0, 3, 4, 5],
             "matches": [
                 {
                     "id": 9,
-                    "database": "eliga1718p2",
-                    "round": 1,
                     "table": 1,
                     "teams": [
                         {"loser": [1]},
@@ -135,8 +103,6 @@
                 },
                 {
                     "id": 10,
-                    "database": "eliga1718p2",
-                    "round": 1,
                     "table": 2,
                     "teams": [
                         {"loser": [2]},
@@ -146,8 +112,6 @@
                 },
                 {
                     "id": 11,
-                    "database": "eliga1718p2",
-                    "round": 1,
                     "table": 3,
                     "teams": [
                         {"loser": [7]},
@@ -159,13 +123,9 @@
         },
         {
             "title": "Final Four",
-            "link": "#",
             "matches": [
                 {
                     "id": 12,
-                    "database": "eklasa_ff",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"winner": [1, 2, 9, 10]},
                         {"winner": [1, 2, 9, 10]}
@@ -173,9 +133,6 @@
                 },
                 {
                     "id": 13,
-                    "database": "eklasa_ff",
-                    "round": 1,
-                    "table": 2,
                     "teams": [
                         {"winner": [1, 2, 9, 10]},
                         {"winner": [1, 2, 9, 10]}
@@ -183,9 +140,6 @@
                 },
                 {
                     "id": 14,
-                    "database": "e1617_kdk_azs",
-                    "round": 1,
-                    "table": 1,
                     "teams": [
                         {"loser": [5]},
                         {"winner": [7, 11]}
@@ -194,9 +148,6 @@
                 },
                 {
                     "id": 15,
-                    "database": "eklasa_3",
-                    "round": 1,
-                    "table": 2,
                     "teams": [
                         {"loser": [6]},
                         {"winner": [7, 11]}
@@ -207,14 +158,10 @@
         },
         {
             "title": "Finał / o 3. miejsce",
-            "link": "#",
             "dummies": [2, 3],
             "matches": [
                 {
                     "id": 16,
-                    "database": "eklasa_ff",
-                    "round": 2,
-                    "table": 1,
                     "teams": [
                         {"winner": [12, 13]},
                         {"winner": [12, 13]}
@@ -224,9 +171,6 @@
                 },
                 {
                     "id": 17,
-                    "database": "eklasa_ff",
-                    "round": 2,
-                    "table": 2,
                     "teams": [
                         {"loser": [12, 13]},
                         {"loser": [12, 13]}
