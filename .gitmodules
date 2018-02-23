@@ -1,0 +1,3 @@
+[submodule "scripts/jfrteamy-playoff"]
+	path = scripts/jfrteamy-playoff
+	url = https://github.com/emkael/jfrteamy-playoff.git
