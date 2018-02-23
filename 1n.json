@@ -145,14 +145,18 @@
                     "teams": [
                         {"place": [1]},
                         {"winner": [6, 7]}
-                    ]
+                    ],
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/n/npo3runda1.html",
+                    "table": 1
                 },
                 {
                     "id": 13,
                     "teams": [
                         {"winner": [1]},
                         {"winner": [6, 7]}
-                    ]
+                    ],
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/n/npo3runda1.html",
+                    "table": 2
                 },
                 {
                     "id": 14,
