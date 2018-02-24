@@ -184,6 +184,7 @@
         {
             "title": "V zjazd",
             "dummies": [2, 3],
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/2liga/sw/swpo4runda1.html",
             "matches": [
                 {
                     "id": 16,
@@ -192,7 +193,8 @@
                         {"winner": [13]}
                     ],
                     "winner": [1],
-                    "loser": [2]
+                    "loser": [2],
+                    "table": 1
                 },
                 {
                     "id": 17,
@@ -201,7 +203,8 @@
                         {"loser": [13]}
                     ],
                     "winner": [3],
-                    "loser": [4]
+                    "loser": [4],
+                    "table": 2
                 }
             ]
         }
