@@ -193,7 +193,9 @@
                         {"winner": [13]}
                     ],
                     "winner": [1],
-                    "loser": [2]
+                    "loser": [2],
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/n/npo4runda1.html",
+                    "table": 1
                 },
                 {
                     "id": 17,
