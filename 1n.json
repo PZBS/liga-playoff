@@ -176,7 +176,9 @@
                         {"winner": [10, 11]}
                     ],
                     "winner": [11, 12],
-                    "loser": [13, 14]
+                    "loser": [13, 14],
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/n/nsp2runda1.html",
+                    "table": 1
                 }
             ]
         },
