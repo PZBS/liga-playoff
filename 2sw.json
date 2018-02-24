@@ -146,8 +146,7 @@
                         {"place": [1]},
                         {"winner": [6, 7]}
                     ],
-                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/2liga/sw/swpo3runda1.html",
-                    "table": 1
+                    "scores": {"1": 0, "4": 0}
                 },
                 {
                     "id": 13,
