@@ -3,7 +3,7 @@
     "page": {
         "title": "I liga N, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
-        "refresh": 30,
+        "refresh": 0,
         "width": 200,
         "height": 80,
         "margin": 60
