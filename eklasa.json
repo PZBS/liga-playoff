@@ -146,7 +146,8 @@
                     ],
                     "winner": [11, 12],
                     "loser": [13, 14],
-                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/kutno_kzurunda1.html"
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/kutno_kzurunda1.html",
+                    "table": 1
                 },
                 {
                     "id": 15,
