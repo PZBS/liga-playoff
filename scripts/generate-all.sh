@@ -16,11 +16,11 @@ generate_playoff () {
     echo "Done"
 }
 
-generate_playoff eklasa.json ekstraklasa/playoff.html
-generate_playoff 1n.json 1liga/n/playoff.html
-generate_playoff 1s.json 1liga/s/playoff.html
-generate_playoff 2nw.json 2liga/nw/playoff.html
-generate_playoff 2ne.json 2liga/ne/playoff.html
-generate_playoff 2se.json 2liga/se/playoff.html
-generate_playoff 2sw.json 2liga/sw/playoff.html
+generate_playoff eklasa ekstraklasa/playoff.html
+generate_playoff 1n 1liga/n/playoff.html
+generate_playoff 1s 1liga/s/playoff.html
+generate_playoff 2nw 2liga/nw/playoff.html
+generate_playoff 2ne 2liga/ne/playoff.html
+generate_playoff 2se 2liga/se/playoff.html
+generate_playoff 2sw 2liga/sw/playoff.html
 
