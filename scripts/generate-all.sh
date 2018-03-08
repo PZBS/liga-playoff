@@ -4,24 +4,23 @@ set -e
 cd "$(dirname "$0")"/jfrteamy-playoff
 python=venv/bin/python
 
-# level = 1 or 2
-# group = "n" or "nw" or "se" or ...
 generate_playoff () {
     rm -f playoff.html
-    level=$1
-    group=$2
-    echo "Generating $level$group..."
-    $python playoff.py ../../$level$group.json
-    echo "Uploading $level$group..."
-    scp playoff.html pzbs:~/liga/${level}liga/$group/playoff.html
+    filename=$1
+    ftp_path=$2
+    echo "Generating $filename to $ftp_path..."
+    $python playoff.py ../../$filename.json
+    echo "Uploading to $ftp_path..."
+    scp playoff.html pzbs:~/liga/$ftp_path
     rm -f playoff.html
     echo "Done"
 }
 
-generate_playoff 1 n
-generate_playoff 1 s
-generate_playoff 2 nw
-generate_playoff 2 ne
-generate_playoff 2 se
-generate_playoff 2 sw
+generate_playoff eklasa.json ekstraklasa/playoff.html
+generate_playoff 1n.json 1liga/n/playoff.html
+generate_playoff 1s.json 1liga/s/playoff.html
+generate_playoff 2nw.json 2liga/nw/playoff.html
+generate_playoff 2ne.json 2liga/ne/playoff.html
+generate_playoff 2se.json 2liga/se/playoff.html
+generate_playoff 2sw.json 2liga/sw/playoff.html
 
