@@ -155,8 +155,8 @@
                         {"winner": [7, 11]}
                     ],
                     "loser": [13, 14],
-                    "score": {"10": 13.6, "15": 0.0},
-                    "running": 0
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/synis-ral/srrunda1.html",
+                    "table": 1
                 }
             ]
         },
