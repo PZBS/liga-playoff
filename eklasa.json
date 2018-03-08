@@ -3,7 +3,7 @@
     "page": {
         "title": "Polish Premier League, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
-        "refresh": 0,
+        "refresh": 60,
         "width": 350,
         "height": 80,
         "margin": 60
