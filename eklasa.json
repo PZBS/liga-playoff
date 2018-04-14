@@ -144,6 +144,7 @@
                         {"loser": [5]},
                         {"winner": [7, 11]}
                     ],
+		    "winner": [11, 12],
                     "loser": [13, 14],
                     "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/kutno_kzurunda1.html",
                     "table": 1
@@ -154,6 +155,7 @@
                         {"loser": [6]},
                         {"winner": [7, 11]}
                     ],
+		    "winner": [11, 12],
                     "loser": [13, 14],
                     "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/synis-ral/srrunda1.html",
                     "table": 1
