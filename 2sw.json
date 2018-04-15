@@ -41,20 +41,20 @@
                     ]
                 },
                 {
-                    "id": 3,
-                    "table": 2,
-                    "teams": [
-                        {"place": [7]},
-                        {"place": [10]}
-                    ],
-                    "winner": [7, 8]
-                },
-                {
                     "id": 2,
                     "table": 3,
                     "teams": [
                         {"place": [8]},
                         {"place": [9]}
+                    ],
+                    "winner": [7, 8]
+                },
+                {
+                    "id": 3,
+                    "table": 2,
+                    "teams": [
+                        {"place": [7]},
+                        {"place": [10]}
                     ],
                     "winner": [7, 8]
                 },
