@@ -11,6 +11,23 @@
     "teams": {
 		"link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/s/srrleaderb.html"
 	},
+    "position_styles": [
+        {
+            "class": "promotion",
+            "positions": [1, 2],
+            "caption": "Awans do Ekstraklasy 2018/19"
+        },
+        {
+            "class": "repechage",
+            "positions": [3],
+            "caption": "Baraże"
+        },
+        {
+            "class": "relegation",
+            "positions": [12, 13, 14, 15, 16],
+            "caption": "Spadek do II ligi 2018/19"
+        }
+    ],
     "phases": [
         {
             "title": "26 stycznia, 20:00",

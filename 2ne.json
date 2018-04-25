@@ -25,7 +25,24 @@
         ["Amado Trans Olsztyn", "Amado Trans"],
         ["Dolina Narwi MOSiR Łomża", "Dolina Narwi"],
         ["Akademia Brydża AZS UW Warszawa", "AZS UW"]
-     ],
+    ],
+    "position_styles": [
+        {
+            "class": "promotion",
+            "positions": [1, 2],
+            "caption": "Awans do I ligi 2018/19"
+        },
+        {
+            "class": "repechage",
+            "positions": [3, 11, 12],
+            "caption": "Baraże"
+        },
+        {
+            "class": "relegation",
+            "positions": [13, 14, 15, 16],
+            "caption": "Spadek do III ligi 2018/19"
+        }
+    ],
     "phases": [
         {
             "title": "26 stycznia, 20:00",

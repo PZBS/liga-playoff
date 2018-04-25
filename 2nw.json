@@ -11,6 +11,23 @@
     "teams": {
         "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/2liga/nw/nwrrleaderb.html"
     },
+    "position_styles": [
+        {
+            "class": "promotion",
+            "positions": [1, 2, 3],
+            "caption": "Awans do I ligi 2018/19"
+        },
+        {
+            "class": "repechage",
+            "positions": [12],
+            "caption": "Baraże"
+        },
+        {
+            "class": "relegation",
+            "positions": [13, 14, 15, 16],
+            "caption": "Spadek do III ligi 2018/19"
+        }
+    ],
     "phases": [
         {
             "title": "26 stycznia, 20:00",
