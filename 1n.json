@@ -33,11 +33,6 @@
             "caption": "Awans do Ekstraklasy 2018/19"
         },
         {
-            "class": "repechage",
-            "positions": [11],
-            "caption": "Baraże"
-        },
-        {
             "class": "relegation",
             "positions": [12, 13, 14, 15, 16],
             "caption": "Spadek do II ligi 2018/19"
