@@ -8,6 +8,15 @@
         "height": 80,
         "margin": 60
     },
+    "i18n": {
+        "SCORE": "score",
+        "FINAL_STANDINGS": "final standings",
+        "STANDINGS_PLACE": "place",
+        "STANDINGS_TEAM": "team",
+        "STANDINGS_CAPTIONS": "colour code",
+        "FOOTER_GENERATED": "page generated at",
+        "SWISS_DEFAULT_LABEL": "%d&nbsp;place tournament"
+    },
     "teams": {
         "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/eliga1718leaderb.html"
     },
@@ -15,22 +24,22 @@
         {
             "class": "promotion",
             "positions": [1],
-            "caption": "Drużynowy Mistrz Polski 2011/18"
+            "caption": "National Team Champions 2017/18"
         },
         {
             "class": "repechage",
             "positions": [11],
-            "caption": "Baraże"
+            "caption": "Repechage"
         },
         {
             "class": "relegation",
             "positions": [12, 13, 14, 15, 16],
-            "caption": "Spadek do I ligi 2018/19"
+            "caption": "Relegation to First Division 2018/19"
         }
     ],
     "phases": [
         {
-            "title": "26 stycznia 19:00",
+            "title": "January 26, 19:00",
             "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/eliga1718p1runda1.html",
             "matches": [
                 {
@@ -105,7 +114,7 @@
             ]
         },
         {
-            "title": "27 stycznia 19:30",
+            "title": "January 27, 19:30",
             "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/eliga1718p2runda1.html",
             "dummies": [0, 3, 4, 5],
             "matches": [
