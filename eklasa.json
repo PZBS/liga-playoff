@@ -123,20 +123,23 @@
         },
         {
             "title": "Final Four",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/ekspfrunda1.html",
             "matches": [
                 {
                     "id": 12,
                     "teams": [
                         {"winner": [1, 2, 9, 10]},
                         {"winner": [1, 2, 9, 10]}
-                    ]
+                    ],
+                    "table": 1
                 },
                 {
                     "id": 13,
                     "teams": [
                         {"winner": [1, 2, 9, 10]},
                         {"winner": [1, 2, 9, 10]}
-                    ]
+                    ],
+                    "table": 2
                 },
                 {
                     "id": 14,
