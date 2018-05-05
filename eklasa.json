@@ -172,8 +172,8 @@
                 {
                     "id": 16,
                     "teams": [
-                        {"winner": [12, 13]},
-                        {"winner": [12, 13]}
+                        {"winner": [12]},
+                        {"winner": [13]}
                     ],
                     "winner": [1],
                     "loser": [2]
@@ -181,8 +181,8 @@
                 {
                     "id": 17,
                     "teams": [
-                        {"loser": [12, 13]},
-                        {"loser": [12, 13]}
+                        {"loser": [12]},
+                        {"loser": [13]}
                     ],
                     "winner": [3],
                     "loser": [4]
