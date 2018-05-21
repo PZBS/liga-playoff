@@ -18,13 +18,8 @@
             "caption": "Awans do I ligi 2018/19"
         },
         {
-            "class": "repechage",
-            "positions": [11, 12],
-            "caption": "Baraże"
-        },
-        {
             "class": "relegation",
-            "positions": [13, 14, 15, 16],
+            "positions": [12, 13, 14, 15, 16],
             "caption": "Spadek do III ligi 2018/19"
         }
     ],
