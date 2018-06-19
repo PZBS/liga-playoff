@@ -163,6 +163,7 @@
                         {"loser": [8]},
                         {"winner": [10, 11]}
                     ],
+		    "winner": [11],
                     "loser": [13, 14],
                     "score": {"11": 137.3, "14": 137}
                 },
@@ -172,6 +173,7 @@
                         {"loser": [9]},
                         {"winner": [10, 11]}
                     ],
+		    "winner": [11],
                     "loser": [13, 14],
                     "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/2liga/sw/swsp2runda1.html",
                     "table": 1
