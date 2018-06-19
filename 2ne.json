@@ -34,12 +34,12 @@
         },
         {
             "class": "repechage",
-            "positions": [11],
+            "positions": [],
             "caption": "Baraże"
         },
         {
             "class": "relegation",
-            "positions": [12, 13, 14, 15, 16],
+            "positions": [11, 12, 13, 14, 15, 16],
             "caption": "Spadek do III ligi 2018/19"
         }
     ],
