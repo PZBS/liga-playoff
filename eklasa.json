@@ -4,7 +4,7 @@
         "title": "Polish Premier League, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "refresh": 60,
-        "width": 350,
+        "width": 250,
         "height": 80,
         "margin": 60
     },
@@ -135,20 +135,23 @@
         },
         {
             "title": "Final Four",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/ekspfrunda1.html",
             "matches": [
                 {
                     "id": 12,
                     "teams": [
                         {"winner": [1, 2, 9, 10]},
                         {"winner": [1, 2, 9, 10]}
-                    ]
+                    ],
+                    "table": 1
                 },
                 {
                     "id": 13,
                     "teams": [
                         {"winner": [1, 2, 9, 10]},
                         {"winner": [1, 2, 9, 10]}
-                    ]
+                    ],
+                    "table": 2
                 },
                 {
                     "id": 14,
@@ -176,13 +179,15 @@
         },
         {
             "title": "Finał / o 3. miejsce",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/eksfirunda1.html",
             "dummies": [2, 3],
             "matches": [
                 {
                     "id": 16,
+                    "table": 1,
                     "teams": [
-                        {"winner": [12, 13]},
-                        {"winner": [12, 13]}
+                        {"winner": [12]},
+                        {"winner": [13]}
                     ],
                     "winner": [1],
                     "loser": [2]
@@ -190,11 +195,12 @@
                 {
                     "id": 17,
                     "teams": [
-                        {"loser": [12, 13]},
-                        {"loser": [12, 13]}
+                        {"loser": [12]},
+                        {"loser": [13]}
                     ],
                     "winner": [3],
-                    "loser": [4]
+                    "loser": [4],
+                    "score": {"1": 76.2, "2": 139}
                 }
             ]
         }
