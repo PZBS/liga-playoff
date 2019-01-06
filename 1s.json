@@ -1,5 +1,5 @@
 {
-    "output": "c:\\xampp\\htdocs\\18liga1s\\playoff.html",
+    "output": "playoff.html",
     "page": {
         "title": "I liga S, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
@@ -35,8 +35,13 @@
         },
         {
             "class": "repechage",
-            "positions": [3, 11, 12],
-            "caption": "Baraże"
+            "positions": [3],
+            "caption": "Baraże o Ekstraklasę 2019/20"
+        },
+        {
+            "class": "repechage",
+            "positions": [11, 12],
+            "caption": "Baraże o I ligę 2019/20"
         },
         {
             "class": "relegation",

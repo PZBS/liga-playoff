@@ -4,220 +4,207 @@
         "title": "I liga N, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "refresh": 0,
-        "width": 200,
-        "height": 80,
-        "margin": 60
+        "width": 250,
+        "height": 70,
+        "margin": 80,
+        "finishing_position_indicators": 1,
+        "team_boxes": {
+            "label_length_limit": 25,
+            "predict_teams": 1
+        }
     },
-    "teams": [
-        ["SYNTEX", "Syntex", "olsztyn.png"],
-        ["Objectivity KS AZS Wratislavia III", "Objectivity", "wroclaw.png"],
-        ["BIOPAX.PL AZS UZ", "BIOPAX", "zielonagora.png"],
-        ["COMFORT SA KSAZ Wratislavia IV/VII", "COMFORT", "wroclaw.png"],
-        ["GRICON STARKA Poznań", "GRICON", "poznan.png"],
-        ["DĄBRÓWKA NAUKABRYDŻA.PL Poznań", "DĄBRÓWKA", "poznan.png"],
-        ["VĘGORIA WCK Węgorzewo", "VĘGORIA", "wegorzewo.png"],
-        ["KTB Konin", "KTB", "konin.png"],
-        ["KART-EL Gorzów Wlkp.", "KART-EL", "gorzow.png"],
-        ["UKB KLEKS Szamotuły", "KLEKS", "szamotuly.png"],
-        ["ELEKTROWNIA Żelichowo", "ELEKTROWNIA", "zelichowo.png"],
-        ["UNIA WINKHAUS Leszno", "UNIA", "leszno.png"],
-        ["LKS PIAST Sieradz", "PIAST", "sieradz.png"],
-        ["CHEMIK Bydgoszcz", "CHEMIK", "bydgoszcz.png"],
-        ["DARLES SANTERM Gdańsk", "DARLES SANTERM", "gdansk.png"],
-        ["BLACKWOOD Gdańsk", "BLACKWOOD", "gdansk.png"]
-    ],
+    "canvas": {
+        "box_positioning": {
+            "5": 30,
+            "6": 150,
+            "7": 350,
+            "8": 200,
+            "9": 91,
+            "15": 710,
+            "16": 890
+        }
+    },
+    "teams": {
+		"link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/1liga/n/nrrleaderb.html"
+	},
     "position_styles": [
         {
             "class": "promotion",
-            "positions": [1, 2, 3],
-            "caption": "Awans do Ekstraklasy 2018/19"
+            "positions": [1, 2],
+            "caption": "Awans do Ekstraklasy 2019/20"
+        },
+        {
+            "class": "repechage",
+            "positions": [3],
+            "caption": "Baraże o Ekstraklasę 2019/20"
+        },
+        {
+            "class": "repechage",
+            "positions": [11, 12],
+            "caption": "Baraże o I ligę 2019/20"
         },
         {
             "class": "relegation",
-            "positions": [12, 13, 14, 15, 16],
-            "caption": "Spadek do II ligi 2018/19"
+            "positions": [13, 14, 15, 16],
+            "caption": "Spadek do II ligi 2019/20"
         }
     ],
     "phases": [
         {
-            "title": "26 stycznia, 20:00",
-            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/n/npo1runda1.html",
-            "dummies": [0, 2, 3, 7],
+            "title": "1 lutego 2019, 20:00",
             "matches": [
                 {
                     "id": 1,
                     "table": 1,
                     "teams": [
-                        {"place": [2]},
-                        {"place": [3]}
+                        {"place": [1]},
+                        {"place": [3, 4]}
                     ]
                 },
                 {
                     "id": 2,
-                    "table": 3,
-                    "teams": [
-                        {"place": [7]},
-                        {"place": [10]}
-                    ],
-                    "winner": [7, 8]
-                },
-                {
-                    "id": 3,
                     "table": 2,
                     "teams": [
-                        {"place": [8]},
-                        {"place": [9]}
-                    ],
-                    "winner": [7, 8]
+                        {"place": [2]},
+                        {"place": [3, 4]}
+                    ]
                 },
                 {
                     "id": 4,
                     "table": 4,
                     "teams": [
-                        {"place": [11]},
-                        {"place": [13]}
-                    ]
+                        {"place": [6]},
+                        {"place": [7, 8]}
+                    ],
+                    "loser": [7, 8]
                 },
                 {
-                    "id": 5,
+                    "id": 3,
+                    "table": 3,
+                    "teams": [
+                        {"place": [5]},
+                        {"place": [7, 8]}
+                    ],
+                    "loser": [7, 8]
+                },
+                {
+                    "id": 11,
                     "table": 5,
                     "teams": [
-                        {"place": [12]},
-                        {"place": [14]}
-                    ]
+                        {"place": [9]},
+                        {"place": [11, 12]}
+                    ],
+                    "winner": [9, 10]
+                },
+                {
+                    "id": 12,
+                    "table": 6,
+                    "teams": [
+                        {"place": [10]},
+                        {"place": [11, 12]}
+                    ],
+                    "winner": [9, 10]
+                },
+                {
+                    "id": 14,
+                    "table": 8,
+                    "teams": [
+                        {"place": [14]},
+                        {"place": [15, 16]}
+                    ],
+                    "loser": [15, 16]
+                },
+                {
+                    "id": 13,
+                    "table": 7,
+                    "teams": [
+                        {"place": [13]},
+                        {"place": [15, 16]}
+                    ],
+                    "loser": [15, 16]
                 }
             ]
         },
         {
-            "title": "27 stycznia, 19:30",
-            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/n/npo2runda1.html",
-            "dummies": [0],
+            "title": "2 lutego 2019, 19:30",
+            "dummies": [3, 4, 7],
             "matches": [
                 {
-                    "id": 6,
+                    "id": 5,
                     "table": 1,
                     "teams": [
+                        {"winner": [1]},
+                        {"winner": [2]}
+                    ],
+                    "winner": [1]
+                },
+                {
+                    "id": 6,
+                    "table": 2,
+                    "teams": [
                         {"loser": [1]},
-                        {"place": [5,6]}
+                        {"winner": [4]}
                     ],
                     "loser": [5, 6]
                 },
                 {
                     "id": 7,
-                    "table": 2,
+                    "table": 3,
                     "teams": [
-                        {"place": [4]},
-                        {"place": [5,6]}
+                        {"loser": [2]},
+                        {"winner": [3]}
                     ],
                     "loser": [5, 6]
                 },
                 {
-                    "id": 8,
-                    "table": 3,
-                    "teams": [
-                        {"loser": [2]},
-                        {"winner": [4, 5]}
-                    ],
-                    "winner": [9, 10]
-                },
-                {
-                    "id": 9,
+                    "id": 15,
                     "table": 4,
                     "teams": [
-                        {"loser": [3]},
-                        {"winner": [4, 5]}
+                        {"loser": [11]},
+                        {"winner": [14]}
                     ],
-                    "winner": [9, 10]
+                    "winner": [11, 12],
+                    "loser": [13, 14]
                 },
-                {
-                    "id": 10,
-                    "table": 5,
-                    "teams": [
-                        {"place": [15]},
-                        {"loser": [4, 5]}
-                    ],
-                    "loser": [15, 16]
-                },
-                {
-                    "id": 11,
-                    "table": 6,
-                    "teams": [
-                        {"place": [16]},
-                        {"loser": [4, 5]}
-                    ],
-                    "loser": [15, 16]
-                }
-            ]
-        },
-        {
-            "title": "V zjazd",
-            "matches": [
-                {
-                    "id": 12,
-                    "teams": [
-                        {"place": [1]},
-                        {"winner": [6, 7]}
-                    ],
-                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/n/npo3runda1.html",
-                    "table": 1
-                },
-                {
-                    "id": 13,
-                    "teams": [
-                        {"winner": [1]},
-                        {"winner": [6, 7]}
-                    ],
-                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/n/npo3runda1.html",
-                    "table": 2
-                },
-                {
-                    "id": 14,
-                    "teams": [
-                        {"loser": [8]},
-                        {"winner": [10, 11]}
-                    ],
-                    "winner": [11],
-                    "loser": [13, 14],
-                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/n/nsp1runda1.html",
-                    "table": 1
-                },
-                {
-                    "id": 15,
-                    "teams": [
-                        {"loser": [9]},
-                        {"winner": [10, 11]}
-                    ],
-                    "winner": [12],
-                    "loser": [13, 14],
-                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/n/nsp2runda1.html",
-                    "table": 1
-                }
-            ]
-        },
-        {
-            "title": "V zjazd",
-            "dummies": [2, 3],
-            "matches": [
                 {
                     "id": 16,
-                    "teams": [
-                        {"winner": [12]},
-                        {"winner": [13]}
-                    ],
-                    "winner": [1],
-                    "loser": [2],
-                    "score": {"1": 0, "2": 1}
-                },
-                {
-                    "id": 17,
+                    "table": 5,
                     "teams": [
                         {"loser": [12]},
-                        {"loser": [13]}
+                        {"winner": [13]}
                     ],
-                    "winner": [3],
-                    "loser": [4],
-                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/1liga/n/npo4runda1.html",
-                    "table": 1
+                    "winner": [11, 12],
+                    "loser": [13, 14]
+                }
+            ]
+        },
+        {
+            "title": "22 lutego 2019, 20:00",
+            "dummies": [0, 2, 3, 4, 5, 6, 7],
+            "matches": [
+                {
+                    "id": 8,
+                    "table": 1,
+                    "teams": [
+                        {"winner": [6]},
+                        {"winner": [7]}
+                    ],
+                    "loser": [4]
+                }
+            ]
+        },
+        {
+            "title": "23 lutego 2019, 19:30",
+            "dummies": [0, 2, 3, 4, 5, 6, 7],
+            "matches": [
+                {
+                    "id": 9,
+                    "teams": [
+                        {"loser": [5]},
+                        {"winner": [8]}
+                    ],
+                    "winner": [2],
+                    "loser": [3]
                 }
             ]
         }
