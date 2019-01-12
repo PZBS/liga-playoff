@@ -92,7 +92,7 @@
                     "table": 5,
                     "teams": [
                         {"place": [9]},
-                        {"place": [11, 12]}
+                        {"place": [12]}
                     ],
                     "winner": [9, 10]
                 },
@@ -101,7 +101,7 @@
                     "table": 6,
                     "teams": [
                         {"place": [10]},
-                        {"place": [11, 12]}
+                        {"place": [11]}
                     ],
                     "winner": [9, 10]
                 },

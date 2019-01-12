@@ -58,7 +58,7 @@
                     "table": 1,
                     "teams": [
                         {"place": [1]},
-                        {"place": [3, 4]}
+                        {"place": [4]}
                     ]
                 },
                 {
@@ -66,7 +66,7 @@
                     "table": 2,
                     "teams": [
                         {"place": [2]},
-                        {"place": [3, 4]}
+                        {"place": [3]}
                     ]
                 },
                 {
@@ -74,7 +74,7 @@
                     "table": 4,
                     "teams": [
                         {"place": [6]},
-                        {"place": [7, 8]}
+                        {"place": [7]}
                     ],
                     "loser": [7, 8]
                 },
@@ -83,7 +83,7 @@
                     "table": 3,
                     "teams": [
                         {"place": [5]},
-                        {"place": [7, 8]}
+                        {"place": [8]}
                     ],
                     "loser": [7, 8]
                 },
@@ -92,7 +92,7 @@
                     "table": 5,
                     "teams": [
                         {"place": [9]},
-                        {"place": [11, 12]}
+                        {"place": [11]}
                     ],
                     "winner": [9, 10]
                 },
@@ -101,7 +101,7 @@
                     "table": 6,
                     "teams": [
                         {"place": [10]},
-                        {"place": [11, 12]}
+                        {"place": [12]}
                     ],
                     "winner": [9, 10]
                 },
