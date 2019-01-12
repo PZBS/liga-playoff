@@ -74,7 +74,7 @@
                     "table": 4,
                     "teams": [
                         {"place": [6]},
-                        {"place": [7, 8]}
+                        {"place": [7]}
                     ],
                     "loser": [7, 8]
                 },
@@ -83,7 +83,7 @@
                     "table": 3,
                     "teams": [
                         {"place": [5]},
-                        {"place": [7, 8]}
+                        {"place": [8]}
                     ],
                     "loser": [7, 8]
                 },

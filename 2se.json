@@ -74,7 +74,7 @@
                     "table": 4,
                     "teams": [
                         {"place": [6]},
-                        {"place": [7, 8]}
+                        {"place": [7]}
                     ],
                     "loser": [7, 8]
                 },
@@ -83,7 +83,7 @@
                     "table": 3,
                     "teams": [
                         {"place": [5]},
-                        {"place": [7, 8]}
+                        {"place": [8]}
                     ],
                     "loser": [7, 8]
                 },
@@ -110,7 +110,7 @@
                     "table": 8,
                     "teams": [
                         {"place": [14]},
-                        {"place": [15, 16]}
+                        {"place": [15]}
                     ],
                     "loser": [15, 16]
                 },
@@ -119,7 +119,7 @@
                     "table": 7,
                     "teams": [
                         {"place": [13]},
-                        {"place": [15, 16]}
+                        {"place": [16]}
                     ],
                     "loser": [15, 16]
                 }
