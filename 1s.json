@@ -114,18 +114,22 @@
                     "table": 8,
                     "teams": [
                         {"place": [14]},
-                        {"place": [15, 16]}
+                        {"place": [15]}
                     ],
-                    "loser": [15, 16]
+                    "loser": [15, 16],
+                    "score": [4.368, 0.0],
+                    "running": 0
                 },
                 {
                     "id": 13,
                     "table": 7,
                     "teams": [
                         {"place": [13]},
-                        {"place": [15, 16]}
+                        {"place": [16]}
                     ],
-                    "loser": [15, 16]
+                    "loser": [15, 16],
+                    "score": [21.008, 0.0],
+                    "running": 0
                 }
             ]
         },

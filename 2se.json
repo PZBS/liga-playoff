@@ -58,16 +58,20 @@
                     "table": 1,
                     "teams": [
                         {"place": [1]},
-                        {"place": [3, 4]}
-                    ]
+                        {"place": [4]}
+                    ],
+                    "score": [19.272, 0.0],
+                    "running": 0
                 },
                 {
                     "id": 2,
                     "table": 2,
                     "teams": [
                         {"place": [2]},
-                        {"place": [3, 4]}
-                    ]
+                        {"place": [3]}
+                    ],
+                    "score": [7.964, 0.0],
+                    "running": 0
                 },
                 {
                     "id": 4,
