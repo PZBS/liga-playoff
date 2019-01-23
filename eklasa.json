@@ -1,194 +1,245 @@
 {
     "output": "playoff.html",
     "page": {
-        "title": "Polish Premier League, play-off",
+        "title": "Polish Premier League 2018/19, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
-        "refresh": 60,
-        "width": 250,
-        "height": 80,
-        "margin": 60
+        "refresh": 0,
+        "width": 260,
+        "height": 70,
+        "margin": 70,
+        "finishing_position_indicators": 1,
+        "team_boxes": {
+            "label_length_limit": 25,
+            "predict_teams": 1
+        }
+    },
+    "canvas": {
+        "box_positioning": {
+            "4": 240,
+            "5": 360,
+            "6": 70,
+            "7": 190,
+            "8": 70,
+            "9": 190,
+            "15": 890,
+            "16": 660,
+            "17": 780
+        }
+    },
+    "i18n": {
+        "SCORE": "score",
+        "FINAL_STANDINGS": "final standings",
+        "STANDINGS_PLACE": "place",
+        "STANDINGS_TEAM": "team",
+        "STANDINGS_CAPTIONS": "color key",
+        "FOOTER_GENERATED": "page generated",
+        "DETERMINED_TEAMS": "Teams certain to play this phase:",
+        "POSSIBLE_TEAMS": "Teams from currently running matches of the previous phase:"
     },
     "teams": {
-        "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/eliga1718leaderb.html"
-    },
+		"link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/rrleaderb.html"
+	},
+    "position_styles": [
+        {
+            "class": "gold",
+            "positions": [1],
+            "caption": "2018/19 Polish Team Champion"
+        },
+        {
+            "class": "silver",
+            "positions": [2],
+            "caption": "2018/19 Polish Team Runner-up"
+        },
+        {
+            "class": "bronze",
+            "positions": [3],
+            "caption": "2018/19 Polish Team 2nd Runner-up"
+        },
+        {
+            "class": "repechage",
+            "positions": [11, 12],
+            "caption": "Repechage for 2019/20 Premier League"
+        },
+        {
+            "class": "relegation",
+            "positions": [13, 14, 15, 16],
+            "caption": "Relegation to 2019/20 First Division"
+        }
+    ],
     "phases": [
         {
-            "title": "26 stycznia 19:00",
-            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/eliga1718p1runda1.html",
+            "title": "February 1st, 2019, 20:00",
+            "dummies": [0],
             "matches": [
                 {
                     "id": 1,
                     "table": 1,
                     "teams": [
-                        {"place": [1]},
-                        {"place": [4]}
-                    ]
+                        {"place": [2]},
+                        {"place": [3]}
+                    ],
+                    "score": [1.932, 0.0],
+                    "running": 0
                 },
                 {
                     "id": 2,
                     "table": 2,
                     "teams": [
-                        {"place": [2]},
-                        {"place": [3]}
-                    ]
+                        {"place": [5]},
+                        {"place": [7]}
+                    ],
+                    "score": [2.412, 0.0],
+                    "running": 0
                 },
                 {
                     "id": 3,
                     "table": 3,
                     "teams": [
-                        {"place": [5]},
-                        {"place": [7]}
-                    ],
-                    "loser": [7, 8]
-                },
-                {
-                    "id": 4,
-                    "table": 4,
-                    "teams": [
                         {"place": [6]},
                         {"place": [8]}
                     ],
-                    "loser": [7, 8]
+                    "loser": [7, 8],
+                    "score": [3.112, 0.0],
+                    "running": 0
                 },
                 {
-                    "id": 5,
+                    "id": 11,
                     "table": 5,
                     "teams": [
                         {"place": [9]},
-                        {"place": [12]}
+                        {"place": [11]}
                     ],
-                    "winner": [9, 10]
+                    "winner": [9, 10],
+                    "score": [1.828, 0.0],
+                    "running": 0
                 },
                 {
-                    "id": 6,
+                    "id": 12,
                     "table": 6,
                     "teams": [
                         {"place": [10]},
-                        {"place": [11]}
+                        {"place": [12]}
                     ],
-                    "winner": [9, 10]
+                    "winner": [9, 10],
+                    "score": [2.02, 0.0],
+                    "running": 0
                 },
                 {
-                    "id": 7,
+                    "id": 13,
                     "table": 7,
                     "teams": [
                         {"place": [13]},
                         {"place": [14]}
-                    ]
+                    ],
+                    "score": [0.276, 0.0],
+                    "running": 0
                 },
                 {
-                    "id": 8,
+                    "id": 14,
                     "table": 8,
                     "teams": [
                         {"place": [15]},
                         {"place": [16]}
                     ],
+                    "score": [7.856, 0.0],
+                    "running": 0,
                     "loser": [16]
                 }
             ]
         },
         {
-            "title": "27 stycznia 19:30",
-            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/eliga1718p2runda1.html",
-            "dummies": [0, 3, 4, 5],
+            "title": "February 2nd, 2019, 19:30",
             "matches": [
                 {
-                    "id": 9,
+                    "id": 4,
                     "table": 1,
                     "teams": [
                         {"loser": [1]},
-                        {"winner": [3, 4]}
+                        {"winner": [2, 3]}
                     ],
                     "loser": [5, 6]
                 },
                 {
-                    "id": 10,
+                    "id": 5,
                     "table": 2,
                     "teams": [
-                        {"loser": [2]},
-                        {"winner": [3, 4]}
+                        {"place": [4]},
+                        {"winner": [2, 3]}
                     ],
                     "loser": [5, 6]
                 },
                 {
-                    "id": 11,
+                    "id": 15,
                     "table": 3,
                     "teams": [
-                        {"loser": [7]},
-                        {"winner": [8]}
+                        {"loser": [13]},
+                        {"winner": [14]}
                     ],
                     "loser": [15]
                 }
             ]
         },
         {
-            "title": "Final Four",
-            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/ekspfrunda1.html",
+            "title": "Semifinals",
             "matches": [
                 {
-                    "id": 12,
+                    "id": 7,
+                    "table": 2,
                     "teams": [
-                        {"winner": [1, 2, 9, 10]},
-                        {"winner": [1, 2, 9, 10]}
-                    ],
-                    "table": 1
+                        {"winner": [1]},
+                        {"winner": [4, 5]}
+                    ]
                 },
                 {
-                    "id": 13,
+                    "id": 6,
+                    "table": 1,
                     "teams": [
-                        {"winner": [1, 2, 9, 10]},
-                        {"winner": [1, 2, 9, 10]}
-                    ],
-                    "table": 2
+                        {"place": [1]},
+                        {"winner": [4, 5]}
+                    ]
                 },
                 {
-                    "id": 14,
+                    "id": 16,
+                    "table": 3,
                     "teams": [
-                        {"loser": [5]},
-                        {"winner": [7, 11]}
+                        {"loser": [11]},
+                        {"winner": [13, 15]}
                     ],
-		    "winner": [11, 12],
-                    "loser": [13, 14],
-                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/kutno_kzurunda1.html",
-                    "table": 1
+                    "winner": [11, 12],
+                    "loser": [13, 14]
                 },
                 {
-                    "id": 15,
+                    "id": 17,
+                    "table": 4,
                     "teams": [
-                        {"loser": [6]},
-                        {"winner": [7, 11]}
+                        {"loser": [12]},
+                        {"winner": [13, 15]}
                     ],
-		    "winner": [11, 12],
-                    "loser": [13, 14],
-                    "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/synis-ral/srrunda1.html",
-                    "table": 1
+                    "winner": [11, 12],
+                    "loser": [13, 14]
                 }
             ]
         },
         {
-            "title": "Finał / o 3. miejsce",
-            "link": "http://www.pzbs.pl/wyniki/liga/liga2017-18/ekstraklasa/eksfirunda1.html",
-            "dummies": [2, 3],
+            "title": "Finals",
             "matches": [
                 {
-                    "id": 16,
-                    "table": 1,
+                    "id": 8,
                     "teams": [
-                        {"winner": [12]},
-                        {"winner": [13]}
+                        {"winner": [6]},
+                        {"winner": [7]}
                     ],
                     "winner": [1],
                     "loser": [2]
                 },
                 {
-                    "id": 17,
+                    "id": 9,
                     "teams": [
-                        {"loser": [12]},
-                        {"loser": [13]}
+                        {"loser": [6]},
+                        {"loser": [7]}
                     ],
                     "winner": [3],
-                    "loser": [4],
-                    "score": {"1": 76.2, "2": 139}
+                    "loser": [4]
                 }
             ]
         }
