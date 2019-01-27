@@ -74,6 +74,7 @@
                 {
                     "id": 1,
                     "table": 1,
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/po1arunda1.html",
                     "teams": [
                         {"place": [2]},
                         {"place": [3]}
@@ -84,6 +85,7 @@
                 {
                     "id": 2,
                     "table": 2,
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/po1arunda1.html",
                     "teams": [
                         {"place": [5]},
                         {"place": [7]}
@@ -93,7 +95,8 @@
                 },
                 {
                     "id": 3,
-                    "table": 3,
+                    "table": 1,
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/po1crunda1.html",
                     "teams": [
                         {"place": [6]},
                         {"place": [8]}
@@ -104,7 +107,8 @@
                 },
                 {
                     "id": 11,
-                    "table": 5,
+                    "table": 3,
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/po1arunda1.html",
                     "teams": [
                         {"place": [9]},
                         {"place": [11]}
@@ -115,7 +119,8 @@
                 },
                 {
                     "id": 12,
-                    "table": 6,
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/po1brunda1.html",
+                    "table": 1,
                     "teams": [
                         {"place": [10]},
                         {"place": [12]}
@@ -126,7 +131,8 @@
                 },
                 {
                     "id": 13,
-                    "table": 7,
+                    "table": 2,
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/po1brunda1.html",
                     "teams": [
                         {"place": [13]},
                         {"place": [14]}
@@ -136,7 +142,8 @@
                 },
                 {
                     "id": 14,
-                    "table": 8,
+                    "table": 3,
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/po1brunda1.html",
                     "teams": [
                         {"place": [15]},
                         {"place": [16]}
