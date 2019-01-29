@@ -76,7 +76,7 @@
                 },
                 {
                     "id": 4,
-                    "table": 4,
+                    "table": 1,
                     "teams": [
                         {"place": [6]},
                         {"place": [7]}
@@ -97,7 +97,7 @@
                 },
                 {
                     "id": 11,
-                    "table": 5,
+                    "table": 4,
                     "teams": [
                         {"place": [9]},
                         {"place": [11]}
@@ -108,7 +108,7 @@
                 },
                 {
                     "id": 12,
-                    "table": 6,
+                    "table": 5,
                     "teams": [
                         {"place": [10]},
                         {"place": [12]}
@@ -119,7 +119,7 @@
                 },
                 {
                     "id": 14,
-                    "table": 8,
+                    "table": 7,
                     "teams": [
                         {"place": [14]},
                         {"place": [16]}
@@ -130,7 +130,7 @@
                 },
                 {
                     "id": 13,
-                    "table": 7,
+                    "table": 6,
                     "teams": [
                         {"place": [13]},
                         {"place": [15]}
