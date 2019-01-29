@@ -52,7 +52,7 @@
     "phases": [
         {
             "title": "1 lutego 2019, 20:00",
-            "link": "nepo1runda1.html",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/2liga/ne/nepo1runda1.html",
             "matches": [
                 {
                     "id": 1,
@@ -82,7 +82,7 @@
                         {"place": [7]}
                     ],
                     "loser": [7, 8],
-                    "link": "190126po/190126porunda1.html"
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/2liga/ne/190126po/190126porunda1.html"
                 },
                 {
                     "id": 3,
