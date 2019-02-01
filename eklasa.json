@@ -3,7 +3,7 @@
     "page": {
         "title": "Polish Premier League 2018/19, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
-        "refresh": 0,
+        "refresh": 1,
         "width": 260,
         "height": 70,
         "margin": 70,
