@@ -166,7 +166,8 @@
                         {"loser": [1]},
                         {"winner": [2, 3]}
                     ],
-                    "loser": [5, 6]
+                    "loser": [5, 6],
+                    "link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/po2arunda1.html"
                 },
                 {
                     "id": 5,
