@@ -158,7 +158,7 @@
                 },
                 {
                     "id": 6,
-                    "table": 2,
+                    "table": 1,
                     "teams": [
                         {"loser": [1]},
                         {"winner": [3, 4]}
@@ -167,7 +167,7 @@
                 },
                 {
                     "id": 7,
-                    "table": 3,
+                    "table": 2,
                     "teams": [
                         {"loser": [2]},
                         {"winner": [3, 4]}
@@ -176,7 +176,7 @@
                 },
                 {
                     "id": 15,
-                    "table": 4,
+                    "table": 3,
                     "teams": [
                         {"loser": [11]},
                         {"winner": [13, 14]}
@@ -186,7 +186,7 @@
                 },
                 {
                     "id": 16,
-                    "table": 5,
+                    "table": 4,
                     "teams": [
                         {"loser": [12]},
                         {"winner": [13, 14]}
