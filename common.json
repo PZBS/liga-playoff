@@ -1,7 +1,0 @@
-{
-    "goniec": {
-        "enabled": 0,
-        "host": "localhost",
-        "port": 8090
-    }
-}
