@@ -4,7 +4,7 @@
         "title": "II liga SE, play-off",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "refresh": 60,
-        "width": 250,
+        "width": 280,
         "height": 70,
         "margin": 80,
         "finishing_position_indicators": 1,
@@ -160,7 +160,7 @@
                     "table": 2,
                     "teams": [
                         {"loser": [1]},
-                        {"winner": [4]}
+                        {"winner": [3, 4]}
                     ],
                     "loser": [5, 6]
                 },
@@ -169,7 +169,7 @@
                     "table": 3,
                     "teams": [
                         {"loser": [2]},
-                        {"winner": [3]}
+                        {"winner": [3, 4]}
                     ],
                     "loser": [5, 6]
                 },
@@ -178,7 +178,7 @@
                     "table": 4,
                     "teams": [
                         {"loser": [11]},
-                        {"winner": [14]}
+                        {"winner": [13, 14]}
                     ],
                     "winner": [11, 12],
                     "loser": [13, 14]
@@ -188,7 +188,7 @@
                     "table": 5,
                     "teams": [
                         {"loser": [12]},
-                        {"winner": [13]}
+                        {"winner": [13, 14]}
                     ],
                     "winner": [11, 12],
                     "loser": [13, 14]
