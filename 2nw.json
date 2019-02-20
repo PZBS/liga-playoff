@@ -207,7 +207,9 @@
                         {"winner": [6]},
                         {"winner": [7]}
                     ],
-                    "loser": [4]
+                    "loser": [4],
+                    "score": [1.0, 0.0],
+                    "running": 0
                 }
             ]
         },
