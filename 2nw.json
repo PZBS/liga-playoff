@@ -223,7 +223,9 @@
                         {"winner": [8]}
                     ],
                     "winner": [2],
-                    "loser": [3]
+                    "loser": [3],
+		    "score": [4.9, 0.0],
+		    "running": 0
                 }
             ]
         }
