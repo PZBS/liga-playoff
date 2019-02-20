@@ -213,7 +213,8 @@
                 },
                 {
                     "id": 16,
-                    "table": 3,
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/po3runda1.html",
+                    "table": 1,
                     "teams": [
                         {"loser": [11]},
                         {"winner": [13, 15]}
