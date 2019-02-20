@@ -198,6 +198,7 @@
         },
         {
             "title": "22 lutego 2019, 20:00",
+            "link": "http://pzbs.pl/wyniki/liga/liga2018-19/wspolne/starpo3runda1.html",
             "dummies": [0, 2, 3, 4, 5, 6, 7],
             "matches": [
                 {
@@ -207,9 +208,7 @@
                         {"winner": [6]},
                         {"winner": [7]}
                     ],
-                    "loser": [4],
-                    "score": [13.9, 0.0],
-                    "running": 0
+                    "loser": [4]
                 }
             ]
         },
