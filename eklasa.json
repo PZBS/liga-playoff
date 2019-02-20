@@ -187,7 +187,7 @@
                     "teams": [
                         {"loser": [13]},
                         {"winner": [14]}
-                    ],
+                    ]
                     "loser": [15],
                     "link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/po2brunda1.html"
                 }
@@ -233,7 +233,9 @@
                     ],
                     "selected_teams": [-1, 1],
                     "winner": [11, 12],
-                    "loser": [13, 14]
+                    "loser": [13, 14],
+                    "score": [3.8, 0.0],
+                    "running": 0,
                 }
             ]
         },
