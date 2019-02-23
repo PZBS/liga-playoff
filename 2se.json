@@ -27,7 +27,7 @@
     "teams": {
 		"link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/2liga/se/serrleaderb.html"
 	},
-    "teams_aliases": {
+    "team_aliases": {
         "SKÓR-BUT Eko-Różanka Łęczna" : ["SKÓR-BUT Eko Różanka Łęczna"]
     },
     "position_styles": [
