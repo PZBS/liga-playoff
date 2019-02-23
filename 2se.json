@@ -214,10 +214,12 @@
         },
         {
             "title": "23 lutego 2019, 19:30",
+            "link": "http://pzbs.pl/wyniki/liga/liga2018-19/wspolne/starpo3runda1.html",
             "dummies": [0, 2, 3, 4, 5, 6, 7],
             "matches": [
                 {
                     "id": 9,
+                    "table": "2",
                     "teams": [
                         {"loser": [5]},
                         {"winner": [8]}
