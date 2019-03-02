@@ -219,6 +219,7 @@
             "matches": [
                 {
                     "id": 9,
+                    "table": 1,
                     "teams": [
                         {"loser": [5]},
                         {"winner": [8]}
