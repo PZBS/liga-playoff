@@ -193,6 +193,7 @@
         },
         {
             "title": "Semifinals",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/sfrunda1.html",
             "matches": [
                 {
                     "id": 7,
@@ -224,7 +225,7 @@
                 },
                 {
                     "id": 17,
-		    "link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/190329barazrunda1.html",
+		            "link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/190329barazrunda1.html",
                     "table": 1,
                     "teams": [
                         {"loser": [12]},
@@ -237,9 +238,11 @@
         },
         {
             "title": "Finals",
+            "link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/frunda1.html",
             "matches": [
                 {
                     "id": 8,
+                    "table": 1,
                     "teams": [
                         {"winner": [6]},
                         {"winner": [7]}
@@ -249,6 +252,7 @@
                 },
                 {
                     "id": 9,
+                    "table": 2,
                     "teams": [
                         {"loser": [6]},
                         {"loser": [7]}
