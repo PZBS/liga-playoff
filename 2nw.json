@@ -24,9 +24,24 @@
             "16": 890
         }
     },
-    "teams": {
-		"link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/2liga/nw/nwrrleaderb.html"
-	},
+    "teams": [
+	["UNIA WINKHAUS Leszno", "UNIA WINKHAUS Leszno", "leszno.png"],
+	["ANNEBERG Zielona Góra", "ANNEBERG Zielona Góra", "zielona.png"],
+	["STB Słupsk", "STB Słupsk", "slupsk.png"],
+	["TRZYNASTKA Szczecin", "TRZYNASTKA Szczecin", "szczecin.png"],
+	["DĄBRÓWKA MM Poznań", "DĄBRÓWKA MM Poznań", "poznan.png"],
+	["GSBS GOMAD Gorzów Wielkopolski", "GSBS GOMAD Gorzów Wlkp", "gorzow.png"],
+	["CHEMIK Bydgoszcz", "CHEMIK Bydgoszcz", "bydgoszcz.png"],
+	["BIN Aleksandrów Kujawski", "BIN Aleksandrów Kujawski", "aleksandrow.png"],
+	["FLUX MEDICAL Boguniewo", "FLUX MEDICAL Boguniewo", "boguniewo.png"],
+	["PIONIER Entuzjaści Szczecin", "PIONIER Entuzjaści", "szczecin.png"],
+	["I LOVE BRIDGE Gorzów Wielkopolski", "I LOVE BRIDGE Gorzów Wlkp", "gorzow.png"],
+	["INSTALKO SBS MIĘDZYRZECZ", "INSTALKO SBS MIĘDZYRZECZ", "miedzyrzecz.png"],
+	["MLKS Solec Kujawski", "MLKS Solec Kujawski", "solec.png"],
+	["ADMIRA PAB Poznań", "ADMIRA PAB Poznań", "poznan.png"],
+	["TENISPOINT Chemik Bydgoszcz", "TENISPOINT Chemik Bydgosz", "bydgoszcz.png"],
+	["BTG Bydgoszcz", "BTG Bydgoszcz", "bydgoszcz.png"]
+    ],
     "position_styles": [
         {
             "class": "promotion",
