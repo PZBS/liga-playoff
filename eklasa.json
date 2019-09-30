@@ -220,7 +220,7 @@
                         {"winner": [13, 15]}
                     ],
                     "selected_teams": [-1, 0],
-                    "winner": [11, 12],
+                    "winner": [12],
                     "loser": [13, 14]
                 },
                 {
@@ -231,7 +231,7 @@
                         {"loser": [12]},
                         {"winner": [13, 15]}
                     ],
-                    "winner": [11, 12],
+                    "winner": [11],
                     "loser":  [13, 14]
                 }
             ]
