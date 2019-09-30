@@ -37,9 +37,24 @@
         "DETERMINED_TEAMS": "Teams certain to play this phase:",
         "POSSIBLE_TEAMS": "Teams from currently running matches of the previous phase:"
     },
-    "teams": {
-		"link": "http://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/rrleaderb.html"
-	},
+    "teams": [
+	["BRIDGE24.PL", "BRIDGE24.PL"],
+	["CONNECTOR Poznań", "CONNECTOR"],
+	["ERA KS AZS Wratislavia I WR", "ERA Wratislavia"],
+	["ESBS VITAS Elbląg", "VITAS Elbląg"],
+	["Diebold Nixdorf Cracovia", "CRACOVIA"],
+	["Skobud JOKER Tarnobrzeg", "SKOBUD"],
+	["OBJECTIVITY KS AZS Wratislavia III", "OBJECTIVITY"],
+	["LKS KASZTELAN KONKRET Chełmno", "KONKRET"],
+	["SYNTEX ŁĄCZNOŚĆ Łowicz", "SYNTEX"],
+	["TB Silesia I Gliwice", "SILESIA"],
+	["SPS CONSTRUCTION Kielce", "SPS CONSTRUCTION"],
+	["ILANKA 1 Rzepin", "ILANKA"],
+	["SYNERGIA Lublin", "SYNERGIA"],
+	["Elektromontaż JOKER Rzeszów", "ELEKTROMONTAŻ"],
+	["BSBS KONSTANTA Bielsko-Biała", "KONSTANTA"],
+	["AJ SYNIS DIAMENT Opole", "AJ SYNIS DIAMENT"]
+    ],
     "position_styles": [
         {
             "class": "gold",
@@ -216,11 +231,11 @@
                     "link": "https://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/po3runda1.html",
                     "table": 1,
                     "teams": [
-                        {"loser": [11]},
+                        {"loser": [11, 12]},
                         {"winner": [13, 15]}
                     ],
                     "selected_teams": [-1, 0],
-                    "winner": [12],
+                    "winner": [11, 12],
                     "loser": [13, 14]
                 },
                 {
@@ -231,7 +246,7 @@
                         {"loser": [12]},
                         {"winner": [13, 15]}
                     ],
-                    "winner": [11],
+                    "winner": [11, 12],
                     "loser":  [13, 14]
                 }
             ]
