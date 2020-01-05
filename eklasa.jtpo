@@ -1,0 +1,423 @@
+{
+    "page": {
+        "team_boxes": {
+            "predict_teams": 1, 
+            "name_prefix": "&nbsp;&nbsp;", 
+            "label_separator": " / ", 
+            "label_ellipsis": "(...)", 
+            "label_length_limit": 25, 
+            "sort_eligible_first": 1, 
+            "name_separator": "<br />", 
+            "label_placeholder": "??"
+        }, 
+        "height": 80, 
+        "width": 250, 
+        "starting_position_indicators": "1", 
+        "margin": 60, 
+        "finishing_position_indicators": "1", 
+        "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>", 
+        "refresh": 0, 
+        "title": "Polish Premier League 2019/20 - play-off"
+    }, 
+    "canvas": {
+        "box_positioning": {
+            "11": 60, 
+            "10": 900, 
+            "13": 650, 
+            "12": 150, 
+            "15": 60, 
+            "14": 760, 
+            "16": 150, 
+            "1": 80, 
+            "9": 280
+        }, 
+        "winner_colour": "#00ff00", 
+        "winner_h_offset": 5, 
+        "winner_v_offset": -10, 
+        "loser_colour": "#ff0000", 
+        "loser_h_offset": 20, 
+        "loser_v_offset": 10, 
+        "place_winner_colour": "#00dddd", 
+        "place_winner_h_offset": 10, 
+        "place_winner_v_offset": 2, 
+        "place_loser_colour": "#dddd00", 
+        "place_loser_h_offset": 15, 
+        "place_loser_v_offset": 9, 
+        "finish_winner_colour": "#00ff00", 
+        "finish_winner_h_offset": 5, 
+        "finish_winner_v_offset": -10, 
+        "finish_loser_colour": "#ff0000", 
+        "finish_loser_h_offset": 20, 
+        "finish_loser_v_offset": 10
+    }, 
+    "position_styles": [], 
+    "goniec": {
+        "enabled": 0
+    }, 
+    "phases": [
+        {
+            "title": "31st January 2020", 
+            "dummies": [
+                0
+            ], 
+            "matches": [
+                {
+                    "id": 1, 
+                    "teams": [
+                        {
+                            "place": [
+                                2
+                            ]
+                        }, 
+                        {
+                            "place": [
+                                3
+                            ]
+                        }
+                    ], 
+                    "table": 1
+                }, 
+                {
+                    "id": 2, 
+                    "teams": [
+                        {
+                            "place": [
+                                5
+                            ]
+                        }, 
+                        {
+                            "place": [
+                                7, 
+                                8
+                            ]
+                        }
+                    ], 
+                    "loser": [
+                        7, 
+                        8
+                    ], 
+                    "table": 1
+                }, 
+                {
+                    "id": 3, 
+                    "teams": [
+                        {
+                            "place": [
+                                6
+                            ]
+                        }, 
+                        {
+                            "place": [
+                                7, 
+                                8
+                            ]
+                        }
+                    ], 
+                    "loser": [
+                        7, 
+                        8
+                    ], 
+                    "table": 1
+                }, 
+                {
+                    "id": 4, 
+                    "teams": [
+                        {
+                            "place": [
+                                9
+                            ]
+                        }, 
+                        {
+                            "place": [
+                                11, 
+                                12
+                            ]
+                        }
+                    ], 
+                    "winner": [
+                        9, 
+                        10
+                    ], 
+                    "table": 1
+                }, 
+                {
+                    "id": 5, 
+                    "teams": [
+                        {
+                            "place": [
+                                10
+                            ]
+                        }, 
+                        {
+                            "place": [
+                                11, 
+                                12
+                            ]
+                        }
+                    ], 
+                    "winner": [
+                        9, 
+                        10
+                    ], 
+                    "table": 1
+                }, 
+                {
+                    "id": 6, 
+                    "teams": [
+                        {
+                            "place": [
+                                13
+                            ]
+                        }, 
+                        {
+                            "place": [
+                                14
+                            ]
+                        }
+                    ], 
+                    "table": 1
+                }, 
+                {
+                    "id": 7, 
+                    "teams": [
+                        {
+                            "place": [
+                                15
+                            ]
+                        }, 
+                        {
+                            "place": [
+                                16
+                            ]
+                        }
+                    ], 
+                    "loser": [
+                        16
+                    ], 
+                    "table": 1
+                }
+            ]
+        }, 
+        {
+            "title": "1st February 2020", 
+            "matches": [
+                {
+                    "id": 8, 
+                    "teams": [
+                        {
+                            "loser": [
+                                1
+                            ]
+                        }, 
+                        {
+                            "winner": [
+                                2, 
+                                3
+                            ]
+                        }
+                    ], 
+                    "loser": [
+                        5, 
+                        6
+                    ], 
+                    "table": 1
+                }, 
+                {
+                    "id": 9, 
+                    "teams": [
+                        {
+                            "place": [
+                                4
+                            ]
+                        }, 
+                        {
+                            "winner": [
+                                2, 
+                                3
+                            ]
+                        }
+                    ], 
+                    "loser": [
+                        5, 
+                        6
+                    ], 
+                    "table": 1
+                }, 
+                {
+                    "id": 10, 
+                    "teams": [
+                        {
+                            "loser": [
+                                6
+                            ]
+                        }, 
+                        {
+                            "winner": [
+                                7
+                            ]
+                        }
+                    ], 
+                    "loser": [
+                        15
+                    ], 
+                    "table": 1
+                }
+            ]
+        }, 
+        {
+            "title": "Semifinals", 
+            "matches": [
+                {
+                    "id": 11, 
+                    "teams": [
+                        {
+                            "place": [
+                                1
+                            ]
+                        }, 
+                        {
+                            "winner": [
+                                8, 
+                                9
+                            ]
+                        }
+                    ], 
+                    "table": 1
+                }, 
+                {
+                    "id": 12, 
+                    "teams": [
+                        {
+                            "winner": [
+                                1
+                            ]
+                        }, 
+                        {
+                            "winner": [
+                                8, 
+                                9
+                            ]
+                        }
+                    ], 
+                    "table": 1
+                }, 
+                {
+                    "id": 13, 
+                    "teams": [
+                        {
+                            "loser": [
+                                4
+                            ]
+                        }, 
+                        {
+                            "winner": [
+                                6, 
+                                10
+                            ]
+                        }
+                    ], 
+                    "winner": [
+                        11, 
+                        12
+                    ], 
+                    "loser": [
+                        13, 
+                        14
+                    ], 
+                    "table": 1
+                }, 
+                {
+                    "id": 14, 
+                    "teams": [
+                        {
+                            "loser": [
+                                5
+                            ]
+                        }, 
+                        {
+                            "winner": [
+                                6, 
+                                10
+                            ]
+                        }
+                    ], 
+                    "winner": [
+                        11, 
+                        12
+                    ], 
+                    "loser": [
+                        13, 
+                        14
+                    ], 
+                    "table": 1
+                }
+            ]
+        }, 
+        {
+            "title": "Finals", 
+            "matches": [
+                {
+                    "id": 15, 
+                    "teams": [
+                        {
+                            "winner": [
+                                11
+                            ]
+                        }, 
+                        {
+                            "winner": [
+                                12
+                            ]
+                        }
+                    ], 
+                    "winner": [
+                        1
+                    ], 
+                    "loser": [
+                        2
+                    ], 
+                    "table": 1
+                }, 
+                {
+                    "id": 16, 
+                    "teams": [
+                        {
+                            "loser": [
+                                11
+                            ]
+                        }, 
+                        {
+                            "loser": [
+                                12
+                            ]
+                        }
+                    ], 
+                    "winner": [
+                        3
+                    ], 
+                    "loser": [
+                        4
+                    ], 
+                    "table": 1
+                }
+            ]
+        }
+    ], 
+    "team_aliases": {}, 
+    "teams": {
+        "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/rrleaderb.html", 
+        "ties": []
+    }, 
+    "output": "output.html", 
+    "i18n": {
+        "STANDINGS_CAPTIONS": "legenda", 
+        "FOOTER_GENERATED": "strona wygenerowana", 
+        "FINAL_STANDINGS": "klasyfikacja końcowa", 
+        "STANDINGS_TEAM": "drużyna", 
+        "DETERMINED_TEAMS": "Drużyny z pewnym miejscem w tej fazie:", 
+        "SCORE": "wynik", 
+        "POSSIBLE_TEAMS": "Drużyny z trwających meczów poprzedniej fazy:", 
+        "STANDINGS_PLACE": "miejsce", 
+        "SWISS_DEFAULT_LABEL": "Turniej o&nbsp;%d.&nbsp;miejsce"
+    }
+}
