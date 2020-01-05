@@ -3,16 +3,17 @@ set -e
 
 cd "$(dirname "$0")"/jfrteamy-playoff
 python=venv/bin/python
+output_file=output.html
 
 generate_playoff () {
-    rm -f playoff.html
+    rm -f $output_file
     filename=$1
     ftp_path=$2
     echo "Generating $filename to $ftp_path..."
-    $python playoff.py ../../$filename.json
+    $python playoff.py ../../$filename.jtpo
     echo "Uploading to $ftp_path..."
-    scp playoff.html pzbs:~/liga/$ftp_path
-    rm -f playoff.html
+    scp $output_file pzbs:~/liga/$ftp_path
+    rm -f $output_file
     echo "Done"
 }
 
