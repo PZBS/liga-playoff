@@ -38,11 +38,11 @@
         "place_loser_h_offset": 15, 
         "place_loser_v_offset": 9, 
         "finish_winner_colour": "#00ff00", 
-        "finish_winner_h_offset": 5, 
-        "finish_winner_v_offset": -10, 
+        "finish_winner_h_offset": 15, 
+        "finish_winner_v_offset": -2, 
         "finish_loser_colour": "#ff0000", 
-        "finish_loser_h_offset": 20, 
-        "finish_loser_v_offset": 10
+        "finish_loser_h_offset": 10, 
+        "finish_loser_v_offset": 2
     }, 
     "position_styles": [
         {
