@@ -101,6 +101,10 @@
                             ]
                         }
                     ], 
+                    "selected_teams": [
+                        -1, 
+                        1
+                    ], 
                     "table": 1
                 }, 
                 {
@@ -117,6 +121,10 @@
                                 4
                             ]
                         }
+                    ], 
+                    "selected_teams": [
+                        -1, 
+                        0
                     ], 
                     "table": 1
                 }, 
@@ -181,6 +189,10 @@
                         9, 
                         10
                     ], 
+                    "selected_teams": [
+                        -1, 
+                        0
+                    ], 
                     "table": 1
                 }, 
                 {
@@ -201,6 +213,10 @@
                     "winner": [
                         9, 
                         10
+                    ], 
+                    "selected_teams": [
+                        -1, 
+                        1
                     ], 
                     "table": 1
                 }, 
