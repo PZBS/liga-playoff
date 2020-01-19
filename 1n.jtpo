@@ -189,6 +189,10 @@
                         9, 
                         10
                     ], 
+                    "selected_teams": [
+                        -1, 
+                        1
+                    ], 
                     "table": 1
                 }, 
                 {
@@ -209,6 +213,10 @@
                     "winner": [
                         9, 
                         10
+                    ], 
+                    "selected_teams": [
+                        -1, 
+                        0
                     ], 
                     "table": 1
                 }, 
@@ -231,6 +239,10 @@
                         15, 
                         16
                     ], 
+                    "selected_teams": [
+                        -1, 
+                        0
+                    ], 
                     "table": 1
                 }, 
                 {
@@ -251,6 +263,10 @@
                     "loser": [
                         15, 
                         16
+                    ], 
+                    "selected_teams": [
+                        -1, 
+                        1
                     ], 
                     "table": 1
                 }
