@@ -180,6 +180,7 @@
                 }, 
                 {
                     "id": 5, 
+                    "link": "http://www.solecki.pila.pl/brydz/live/200118/#000OO000001001001000000000", 
                     "teams": [
                         {
                             "place": [
@@ -459,7 +460,14 @@
             ]
         }
     ], 
-    "team_aliases": {}, 
+    "team_aliases": {
+        "TKB PAAK Bydgoszcz": [
+            "PAAK"
+        ], 
+        "FLUX MEDICAL Boguniewo": [
+            "FLUX"
+        ]
+    }, 
     "teams": {
         "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/nw/nwrrleaderb.html", 
         "ties": []
