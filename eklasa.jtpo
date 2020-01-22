@@ -50,7 +50,47 @@
         "finish_loser_h_offset": 20, 
         "finish_loser_v_offset": 10
     }, 
-    "position_styles": [], 
+    "position_styles": [
+        {
+            "positions": [
+                1
+            ], 
+            "class": "gold", 
+            "caption": "2019/20 Polish Team Champion"
+        }, 
+        {
+            "positions": [
+                2
+            ], 
+            "class": "silver", 
+            "caption": "2019/20 Polish Team Runner-up"
+        }, 
+        {
+            "positions": [
+                3
+            ], 
+            "class": "bronze", 
+            "caption": "2019/20 Polish Team 2nd Runner-up"
+        }, 
+        {
+            "positions": [
+                11, 
+                12
+            ], 
+            "class": "repechage", 
+            "caption": "Repechage for 2020/21 Premier League"
+        }, 
+        {
+            "positions": [
+                13, 
+                14, 
+                15, 
+                16
+            ], 
+            "class": "relegation", 
+            "caption": "Relegation to 2020/21 First Division"
+        }
+    ], 
     "goniec": {
         "enabled": 0
     }, 

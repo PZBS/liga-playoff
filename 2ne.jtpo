@@ -57,7 +57,7 @@
             "positions": [
                 3
             ], 
-            "class": "promotion-repechage", 
+            "class": "repechage", 
             "caption": "Baraż o awans"
         }, 
         {
@@ -65,7 +65,7 @@
                 11, 
                 12
             ], 
-            "class": "relegation-repechage", 
+            "class": "repechage", 
             "caption": "Baraż o utrzymanie"
         }, 
         {

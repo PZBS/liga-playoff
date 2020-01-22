@@ -17,7 +17,7 @@
         "finishing_position_indicators": "1", 
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>", 
         "refresh": 0, 
-        "title": "II liga NW, play-off"
+        "title": "II liga NE, play-off"
     }, 
     "canvas": {
         "box_positioning": {
@@ -57,7 +57,7 @@
             "positions": [
                 3
             ], 
-            "class": "promotion-repechage", 
+            "class": "repechage", 
             "caption": "Baraż o awans"
         }, 
         {
@@ -65,7 +65,7 @@
                 11, 
                 12
             ], 
-            "class": "relegation-repechage", 
+            "class": "repechage", 
             "caption": "Baraż o utrzymanie"
         }, 
         {
@@ -460,14 +460,7 @@
             ]
         }
     ], 
-    "team_aliases": {
-        "TKB PAAK Bydgoszcz": [
-            "PAAK"
-        ], 
-        "FLUX MEDICAL Boguniewo": [
-            "FLUX"
-        ]
-    }, 
+    "team_aliases": {}, 
     "teams": {
         "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/nw/nwrrleaderb.html", 
         "ties": []
