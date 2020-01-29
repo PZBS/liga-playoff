@@ -85,6 +85,7 @@
     "phases": [
         {
             "title": "31 stycznia 2020, 20:00", 
+            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/sw/swpo1brunda1.html",
             "matches": [
                 {
                     "id": 1, 
@@ -126,7 +127,7 @@
                         -1, 
                         0
                     ], 
-                    "table": 1
+                    "table": 2
                 }, 
                 {
                     "id": 3, 
@@ -177,7 +178,7 @@
                         -1, 
                         0
                     ], 
-                    "table": 1
+                    "table": 3
                 }, 
                 {
                     "id": 5, 
@@ -202,7 +203,7 @@
                         -1, 
                         0
                     ], 
-                    "table": 1
+                    "table": 4
                 }, 
                 {
                     "id": 6, 
@@ -227,7 +228,7 @@
                         -1, 
                         1
                     ], 
-                    "table": 1
+                    "table": 5
                 }, 
                 {
                     "id": 7, 
@@ -252,7 +253,7 @@
                         -1, 
                         1
                     ], 
-                    "table": 1
+                    "table": 6
                 }, 
                 {
                     "id": 8, 
@@ -277,7 +278,7 @@
                         -1, 
                         0
                     ], 
-                    "table": 1
+                    "table": 7
                 }
             ]
         }, 

@@ -85,6 +85,7 @@
     "phases": [
         {
             "title": "31 stycznia 2020, 20:00", 
+            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/1liga/s/spo1runda1.html",
             "matches": [
                 {
                     "id": 1, 
@@ -126,7 +127,7 @@
                         -1, 
                         1
                     ], 
-                    "table": 1
+                    "table": 2
                 }, 
                 {
                     "id": 3, 
@@ -151,7 +152,7 @@
                         -1, 
                         0
                     ], 
-                    "table": 1
+                    "table": 3
                 }, 
                 {
                     "id": 4, 
@@ -176,7 +177,7 @@
                         -1, 
                         1
                     ], 
-                    "table": 1
+                    "table": 4
                 }, 
                 {
                     "id": 5, 
@@ -201,7 +202,7 @@
                         -1, 
                         1
                     ], 
-                    "table": 1
+                    "table": 5
                 }, 
                 {
                     "id": 6, 
@@ -226,7 +227,7 @@
                         -1, 
                         0
                     ], 
-                    "table": 1
+                    "table": 6
                 }, 
                 {
                     "id": 7, 
@@ -251,7 +252,7 @@
                         -1, 
                         0
                     ], 
-                    "table": 1
+                    "table": 7
                 }, 
                 {
                     "id": 8, 
@@ -276,7 +277,7 @@
                         -1, 
                         1
                     ], 
-                    "table": 1
+                    "table": 8
                 }
             ]
         }, 

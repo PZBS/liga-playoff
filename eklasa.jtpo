@@ -115,6 +115,7 @@
                             ]
                         }
                     ], 
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1arunda1.html",
                     "table": 1
                 }, 
                 {
@@ -231,7 +232,8 @@
                             ]
                         }
                     ], 
-                    "table": 1
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1arunda1.html",
+                    "table": 2
                 }, 
                 {
                     "id": 7, 
@@ -250,7 +252,8 @@
                     "loser": [
                         16
                     ], 
-                    "table": 1
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1arunda1.html",
+                    "table": 3
                 }
             ]
         }, 
