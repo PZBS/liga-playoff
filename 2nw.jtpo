@@ -12,12 +12,12 @@
         }, 
         "height": 80, 
         "width": 250, 
-        "starting_position_indicators": "1", 
+        "starting_position_indicators": 1, 
         "margin": 60, 
-        "finishing_position_indicators": "1", 
+        "finishing_position_indicators": 1, 
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>", 
         "refresh": 0, 
-        "title": "II liga NE, play-off"
+        "title": "II liga NW, play-off"
     }, 
     "canvas": {
         "box_positioning": {
@@ -85,10 +85,11 @@
     "phases": [
         {
             "title": "31 stycznia 2020, 20:00", 
-            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/nw/nwpo1runda1.html",
+            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/nw/nwpo1runda1.html", 
             "matches": [
                 {
                     "id": 1, 
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/nw/nwpo1runda1.html", 
                     "teams": [
                         {
                             "place": [
@@ -110,6 +111,7 @@
                 }, 
                 {
                     "id": 2, 
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/nw/nwpo1runda1.html", 
                     "teams": [
                         {
                             "place": [
@@ -131,6 +133,7 @@
                 }, 
                 {
                     "id": 3, 
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/nw/nwpo1runda1.html", 
                     "teams": [
                         {
                             "place": [
@@ -156,6 +159,7 @@
                 }, 
                 {
                     "id": 4, 
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/nw/nwpo1runda1.html", 
                     "teams": [
                         {
                             "place": [
@@ -207,6 +211,7 @@
                 }, 
                 {
                     "id": 6, 
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/nw/nwpo1runda1.html", 
                     "teams": [
                         {
                             "place": [
@@ -232,6 +237,7 @@
                 }, 
                 {
                     "id": 7, 
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/nw/nwpo1runda1.html", 
                     "teams": [
                         {
                             "place": [
@@ -257,6 +263,7 @@
                 }, 
                 {
                     "id": 8, 
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/nw/nwpo1runda1.html", 
                     "teams": [
                         {
                             "place": [
@@ -469,7 +476,14 @@
             ]
         }
     ], 
-    "team_aliases": {}, 
+    "team_aliases": {
+        "TKB PAAK Bydgoszcz": [
+            "PAAK"
+        ], 
+        "FLUX MEDICAL Boguniewo": [
+            "FLUX"
+        ]
+    }, 
     "teams": {
         "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/nw/nwrrleaderb.html", 
         "ties": []
