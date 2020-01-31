@@ -110,6 +110,7 @@
                 },
                 {
                     "id": 2,
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/1liga/s/spo1brunda1.html",
                     "teams": [
                         {
                             "place": [
@@ -127,7 +128,7 @@
                         -1,
                         1
                     ],
-                    "table": 2
+                    "table": 1
                 },
                 {
                     "id": 3,
