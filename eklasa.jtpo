@@ -284,6 +284,7 @@
                         6
                     ], 
                     "selected_teams": [-1, 1],
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po2arunda1.html",
                     "table": 1
                 }, 
                 {
@@ -325,7 +326,8 @@
                     "loser": [
                         15
                     ], 
-                    "table": 1
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po2arunda1.html",
+                    "table": 2
                 }
             ]
         }, 
