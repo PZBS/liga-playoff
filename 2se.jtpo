@@ -23,7 +23,8 @@
         "box_positioning": {
             "11": 240, 
             "10": 120, 
-            "14": 140
+            "14": 140,
+            "12": 680
         }, 
         "winner_colour": "#00ff00", 
         "winner_h_offset": 5, 
