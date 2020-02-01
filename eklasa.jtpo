@@ -5,7 +5,7 @@
             "name_prefix": "&nbsp;&nbsp;", 
             "label_separator": " / ", 
             "label_ellipsis": "(...)", 
-            "label_length_limit": 25, 
+            "label_length_limit": 22, 
             "sort_eligible_first": 1, 
             "name_separator": "<br />", 
             "label_placeholder": "??"
