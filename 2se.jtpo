@@ -284,6 +284,7 @@
         }, 
         {
             "title": "1 lutego 2020, 19:30", 
+            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/se/sepo2runda1.html",
             "dummies": [
                 3, 
                 4, 
@@ -328,7 +329,7 @@
                         5, 
                         6
                     ], 
-                    "table": 1
+                    "table": 2
                 }, 
                 {
                     "id": 11, 
@@ -349,7 +350,7 @@
                         5, 
                         6
                     ], 
-                    "table": 1
+                    "table": 3
                 }, 
                 {
                     "id": 12, 
@@ -374,7 +375,7 @@
                         13, 
                         14
                     ], 
-                    "table": 1
+                    "table": 4
                 }, 
                 {
                     "id": 13, 
@@ -399,7 +400,7 @@
                         13, 
                         14
                     ], 
-                    "table": 1
+                    "table": 5
                 }
             ]
         }, 
