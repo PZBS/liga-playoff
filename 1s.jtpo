@@ -435,7 +435,9 @@
                     "loser": [
                         4
                     ],
-                    "table": 1
+                    "table": 1,
+                    "score": [14.9, 0.0],
+                    "running": 0
                 }
             ]
         },
