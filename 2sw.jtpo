@@ -407,6 +407,7 @@
         }, 
         {
             "title": "14 lutego 2020, 20:00", 
+            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/sw/po34/0/index.html#000OO000001001001000000000",
             "dummies": [
                 0, 
                 2, 
@@ -433,7 +434,6 @@
                     "loser": [
                         4
                     ], 
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/sw/po34/0/index.html#000OO000001001001000000000",
                     "table": 1
                 }
             ]
@@ -474,7 +474,7 @@
     ], 
     "team_aliases": {
         "OBJECTIVITY KS AZS Wratislavia VI": ["OBJECTIVITY KS AZS WRATISLAVIA VI"],
-        "DDK II Brzeziny Śląskie": ["DDK II BRZEZINY ŚLĄSKIE"],
+        "DDK II Brzeziny Śląskie": ["DDK II BRZEZINY ŚLĄSKIE"]
     }, 
     "teams": {
         "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/sw/swrrleaderb.html", 
