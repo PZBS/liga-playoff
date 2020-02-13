@@ -406,6 +406,7 @@
         }, 
         {
             "title": "14 lutego 2020, 20:00", 
+            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/wspolne/po3runda1.html",
             "dummies": [
                 0, 
                 2, 
@@ -432,7 +433,7 @@
                     "loser": [
                         4
                     ], 
-                    "table": 1
+                    "table": 2
                 }
             ]
         }, 
