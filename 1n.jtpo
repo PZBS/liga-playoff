@@ -472,7 +472,10 @@
             ]
         }
     ], 
-    "team_aliases": {}, 
+    "team_aliases": {
+        "INVENIO SZLEM Dzierżoniów": ["INVENIO SZLEM DZIERŻONIÓW"],
+        "ILANKA 1 Rzepin": ["ILANKA I RZEPIN"]
+    }, 
     "teams": {
         "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/1liga/n/nrrleaderb.html", 
         "ties": []
