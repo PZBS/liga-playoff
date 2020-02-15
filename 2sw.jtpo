@@ -440,6 +440,7 @@
         }, 
         {
             "title": "15 lutego 2020, 19:30", 
+            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/sw/po34/1/index.html#000OO003001000000000000000",
             "dummies": [
                 1, 
                 2, 
@@ -467,7 +468,6 @@
                     "loser": [
                         3
                     ], 
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/sw/po34/1/index.html#000OO003001000000000000000",
                     "table": 1
                 }
             ]
