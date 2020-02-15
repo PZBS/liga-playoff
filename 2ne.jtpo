@@ -432,7 +432,9 @@
                     "loser": [
                         4
                     ], 
-                    "table": 1
+                    "table": 1,
+                    "score": [60.9, 43],
+                    "running": 36
                 }
             ]
         }, 
