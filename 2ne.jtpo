@@ -466,7 +466,9 @@
                     "loser": [
                         3
                     ], 
-                    "table": 1
+                    "table": 1,
+                    "score": [29.7, 75],
+                    "running": 24
                 }
             ]
         }
