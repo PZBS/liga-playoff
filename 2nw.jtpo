@@ -446,6 +446,7 @@
         }, 
         {
             "title": "15 lutego 2020, 19:30", 
+            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/nw/nwpo4runda1.html",
             "dummies": [
                 1, 
                 2, 
@@ -484,6 +485,12 @@
         ], 
         "FLUX MEDICAL Boguniewo": [
             "FLUX"
+        ],
+        "JANTAR Toruń": [
+            "JANTAR TORUŃ"
+        ],
+        "KB KONTRA Koszalin": [
+            "KB KONTRA KOSZALIN"
         ]
     }, 
     "teams": {
