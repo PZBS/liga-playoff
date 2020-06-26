@@ -1,493 +1,495 @@
 {
     "page": {
         "team_boxes": {
-            "predict_teams": 1, 
-            "name_prefix": "&nbsp;&nbsp;", 
-            "label_separator": " / ", 
-            "label_ellipsis": "(...)", 
-            "label_length_limit": 22, 
-            "sort_eligible_first": 1, 
-            "name_separator": "<br />", 
+            "predict_teams": 1,
+            "name_prefix": "&nbsp;&nbsp;",
+            "label_separator": " / ",
+            "label_ellipsis": "(...)",
+            "label_length_limit": 22,
+            "sort_eligible_first": 1,
+            "name_separator": "<br />",
             "label_placeholder": "??"
-        }, 
-        "height": 80, 
-        "width": 250, 
-        "starting_position_indicators": "1", 
-        "margin": 60, 
-        "finishing_position_indicators": "1", 
-        "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>", 
-        "refresh": 0, 
+        },
+        "height": 80,
+        "width": 250,
+        "starting_position_indicators": "1",
+        "margin": 60,
+        "finishing_position_indicators": "1",
+        "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
+        "refresh": 60,
         "title": "Polish Premier League 2019/20 - play-off"
-    }, 
+    },
     "canvas": {
         "box_positioning": {
-            "11": 60, 
-            "10": 900, 
-            "13": 670, 
-            "12": 150, 
-            "15": 60, 
-            "14": 780, 
-            "16": 150, 
-            "1": 80, 
+            "11": 60,
+            "10": 900,
+            "13": 670,
+            "12": 150,
+            "15": 60,
+            "14": 780,
+            "16": 150,
+            "1": 80,
             "9": 280
-        }, 
-        "winner_colour": "#00ff00", 
-        "winner_h_offset": 5, 
-        "winner_v_offset": -10, 
-        "loser_colour": "#ff0000", 
-        "loser_h_offset": 20, 
-        "loser_v_offset": 10, 
-        "place_winner_colour": "#00dddd", 
-        "place_winner_h_offset": 10, 
-        "place_winner_v_offset": 2, 
-        "place_loser_colour": "#dddd00", 
-        "place_loser_h_offset": 15, 
-        "place_loser_v_offset": 9, 
-        "finish_winner_colour": "#00ff00", 
-        "finish_winner_h_offset": 5, 
-        "finish_winner_v_offset": -10, 
-        "finish_loser_colour": "#ff0000", 
-        "finish_loser_h_offset": 20, 
+        },
+        "winner_colour": "#00ff00",
+        "winner_h_offset": 5,
+        "winner_v_offset": -10,
+        "loser_colour": "#ff0000",
+        "loser_h_offset": 20,
+        "loser_v_offset": 10,
+        "place_winner_colour": "#00dddd",
+        "place_winner_h_offset": 10,
+        "place_winner_v_offset": 2,
+        "place_loser_colour": "#dddd00",
+        "place_loser_h_offset": 15,
+        "place_loser_v_offset": 9,
+        "finish_winner_colour": "#00ff00",
+        "finish_winner_h_offset": 5,
+        "finish_winner_v_offset": -10,
+        "finish_loser_colour": "#ff0000",
+        "finish_loser_h_offset": 20,
         "finish_loser_v_offset": 10
-    }, 
+    },
     "position_styles": [
         {
             "positions": [
                 1
-            ], 
-            "class": "gold", 
+            ],
+            "class": "gold",
             "caption": "2019/20 Polish Team Champion"
-        }, 
+        },
         {
             "positions": [
                 2
-            ], 
-            "class": "silver", 
+            ],
+            "class": "silver",
             "caption": "2019/20 Polish Team Runner-up"
-        }, 
+        },
         {
             "positions": [
                 3
-            ], 
-            "class": "bronze", 
+            ],
+            "class": "bronze",
             "caption": "2019/20 Polish Team 2nd Runner-up"
-        }, 
+        },
         {
             "positions": [
-                11, 
+                11,
                 12
-            ], 
-            "class": "repechage", 
+            ],
+            "class": "repechage",
             "caption": "Repechage for 2020/21 Premier League"
-        }, 
+        },
         {
             "positions": [
-                13, 
-                14, 
-                15, 
+                13,
+                14,
+                15,
                 16
-            ], 
-            "class": "relegation", 
+            ],
+            "class": "relegation",
             "caption": "Relegation to 2020/21 First Division"
         }
-    ], 
+    ],
     "goniec": {
         "enabled": 0
-    }, 
+    },
     "phases": [
         {
-            "title": "31st January 2020", 
+            "title": "31st January 2020",
             "dummies": [
                 0
-            ], 
+            ],
             "matches": [
                 {
-                    "id": 1, 
+                    "id": 1,
                     "teams": [
                         {
                             "place": [
                                 2
                             ]
-                        }, 
+                        },
                         {
                             "place": [
                                 3
                             ]
                         }
-                    ], 
+                    ],
                     "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1arunda1.html",
                     "table": 1
-                }, 
+                },
                 {
-                    "id": 2, 
+                    "id": 2,
                     "teams": [
                         {
                             "place": [
                                 5
                             ]
-                        }, 
+                        },
                         {
                             "place": [
-                                7, 
+                                7,
                                 8
                             ]
                         }
-                    ], 
+                    ],
                     "loser": [
-                        7, 
+                        7,
                         8
-                    ], 
+                    ],
                     "selected_teams": [
-                        -1, 
+                        -1,
                         1
-                    ], 
+                    ],
                     "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1brunda1.html",
                     "table": 1
-                }, 
+                },
                 {
-                    "id": 3, 
+                    "id": 3,
                     "teams": [
                         {
                             "place": [
                                 6
                             ]
-                        }, 
+                        },
                         {
                             "place": [
-                                7, 
+                                7,
                                 8
                             ]
                         }
-                    ], 
+                    ],
                     "loser": [
-                        7, 
+                        7,
                         8
-                    ], 
+                    ],
                     "selected_teams": [
-                        -1, 
+                        -1,
                         0
-                    ], 
+                    ],
                     "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1crunda1.html",
                     "table": 1
-                }, 
+                },
                 {
-                    "id": 4, 
+                    "id": 4,
                     "teams": [
                         {
                             "place": [
                                 9
                             ]
-                        }, 
+                        },
                         {
                             "place": [
-                                11, 
+                                11,
                                 12
                             ]
                         }
-                    ], 
+                    ],
                     "winner": [
-                        9, 
+                        9,
                         10
-                    ], 
+                    ],
                     "selected_teams": [
-                        -1, 
+                        -1,
                         1
-                    ], 
+                    ],
                     "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1drunda1.html",
                     "table": 1
-                }, 
+                },
                 {
-                    "id": 5, 
+                    "id": 5,
                     "teams": [
                         {
                             "place": [
                                 10
                             ]
-                        }, 
+                        },
                         {
                             "place": [
-                                11, 
+                                11,
                                 12
                             ]
                         }
-                    ], 
+                    ],
                     "winner": [
-                        9, 
+                        9,
                         10
-                    ], 
+                    ],
                     "selected_teams": [
-                        -1, 
+                        -1,
                         0
-                    ], 
+                    ],
                     "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1erunda1.html",
                     "table": 1
-                }, 
+                },
                 {
-                    "id": 6, 
+                    "id": 6,
                     "teams": [
                         {
                             "place": [
                                 13
                             ]
-                        }, 
+                        },
                         {
                             "place": [
                                 14
                             ]
                         }
-                    ], 
+                    ],
                     "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1arunda1.html",
                     "table": 2
-                }, 
+                },
                 {
-                    "id": 7, 
+                    "id": 7,
                     "teams": [
                         {
                             "place": [
                                 15
                             ]
-                        }, 
+                        },
                         {
                             "place": [
                                 16
                             ]
                         }
-                    ], 
+                    ],
                     "loser": [
                         16
-                    ], 
+                    ],
                     "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1arunda1.html",
                     "table": 3
                 }
             ]
-        }, 
+        },
         {
-            "title": "1st February 2020", 
+            "title": "1st February 2020",
             "matches": [
                 {
-                    "id": 8, 
+                    "id": 8,
                     "teams": [
                         {
                             "loser": [
                                 1
                             ]
-                        }, 
+                        },
                         {
                             "winner": [
-                                2, 
+                                2,
                                 3
                             ]
                         }
-                    ], 
+                    ],
                     "loser": [
-                        5, 
+                        5,
                         6
-                    ], 
+                    ],
                     "selected_teams": [-1, 1],
                     "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po2arunda1.html",
                     "table": 1
-                }, 
+                },
                 {
-                    "id": 9, 
+                    "id": 9,
                     "teams": [
                         {
                             "place": [
                                 4
                             ]
-                        }, 
+                        },
                         {
                             "winner": [
-                                2, 
+                                2,
                                 3
                             ]
                         }
-                    ], 
+                    ],
                     "loser": [
-                        5, 
+                        5,
                         6
-                    ], 
+                    ],
                     "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po2brunda1.html",
                     "table": 1
-                }, 
+                },
                 {
-                    "id": 10, 
+                    "id": 10,
                     "teams": [
                         {
                             "loser": [
                                 6
                             ]
-                        }, 
+                        },
                         {
                             "winner": [
                                 7
                             ]
                         }
-                    ], 
+                    ],
                     "loser": [
                         15
-                    ], 
+                    ],
                     "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po2arunda1.html",
                     "table": 2
                 }
             ]
-        }, 
+        },
         {
-            "title": "Semifinals", 
+            "title": "Semifinals",
             "matches": [
                 {
-                    "id": 11, 
+                    "id": 11,
                     "teams": [
                         {
                             "place": [
                                 1
                             ]
-                        }, 
+                        },
                         {
                             "winner": [
-                                8, 
+                                8,
                                 9
                             ]
                         }
-                    ], 
+                    ],
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/sfrunda1.html",
                     "table": 1
-                }, 
+                },
                 {
-                    "id": 12, 
+                    "id": 12,
                     "teams": [
                         {
                             "winner": [
                                 1
                             ]
-                        }, 
+                        },
                         {
                             "winner": [
-                                8, 
+                                8,
                                 9
                             ]
                         }
-                    ], 
-                    "table": 1
-                }, 
+                    ],
+                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/sfrunda1.html",
+                    "table": 2
+                },
                 {
-                    "id": 13, 
+                    "id": 13,
                     "teams": [
                         {
                             "loser": [
                                 4
                             ]
-                        }, 
+                        },
                         {
                             "winner": [
-                                6, 
+                                6,
                                 10
                             ]
                         }
-                    ], 
+                    ],
                     "winner": [
-                        11, 
+                        11,
                         12
-                    ], 
+                    ],
                     "loser": [
-                        13, 
+                        13,
                         14
-                    ], 
+                    ],
                     "selected_teams": [-1, 0],
                     "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po3runda1.html",
                     "table": 1
-                }, 
+                },
                 {
-                    "id": 14, 
+                    "id": 14,
                     "teams": [
                         {
                             "loser": [
                                 5
                             ]
-                        }, 
+                        },
                         {
                             "winner": [
-                                6, 
+                                6,
                                 10
                             ]
                         }
-                    ], 
+                    ],
                     "winner": [
-                        11, 
+                        11,
                         12
-                    ], 
+                    ],
                     "loser": [
-                        13, 
+                        13,
                         14
-                    ], 
+                    ],
                     "selected_teams": [-1, 1],
                     "table": 1
                 }
             ]
-        }, 
+        },
         {
-            "title": "Finals", 
+            "title": "Finals",
             "matches": [
                 {
-                    "id": 15, 
+                    "id": 15,
                     "teams": [
                         {
                             "winner": [
                                 11
                             ]
-                        }, 
+                        },
                         {
                             "winner": [
                                 12
                             ]
                         }
-                    ], 
+                    ],
                     "winner": [
                         1
-                    ], 
+                    ],
                     "loser": [
                         2
-                    ], 
+                    ],
                     "table": 1
-                }, 
+                },
                 {
-                    "id": 16, 
+                    "id": 16,
                     "teams": [
                         {
                             "loser": [
                                 11
                             ]
-                        }, 
+                        },
                         {
                             "loser": [
                                 12
                             ]
                         }
-                    ], 
+                    ],
                     "winner": [
                         3
-                    ], 
+                    ],
                     "loser": [
                         4
-                    ], 
+                    ],
                     "table": 1
                 }
             ]
         }
-    ], 
-    "team_aliases": {}, 
+    ],
+    "team_aliases": {},
     "teams": {
-        "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/rrleaderb.html", 
+        "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/rrleaderb.html",
         "ties": []
-    }, 
-    "output": "output.html", 
+    },
+    "output": "output.html",
     "i18n": {
-        "STANDINGS_CAPTIONS": "legenda", 
-        "FOOTER_GENERATED": "strona wygenerowana", 
-        "FINAL_STANDINGS": "klasyfikacja końcowa", 
-        "STANDINGS_TEAM": "drużyna", 
-        "DETERMINED_TEAMS": "Drużyny z pewnym miejscem w tej fazie:", 
-        "SCORE": "wynik", 
-        "POSSIBLE_TEAMS": "Drużyny z trwających meczów poprzedniej fazy:", 
-        "STANDINGS_PLACE": "miejsce", 
+        "STANDINGS_CAPTIONS": "legenda",
+        "FOOTER_GENERATED": "strona wygenerowana",
+        "FINAL_STANDINGS": "klasyfikacja końcowa",
+        "STANDINGS_TEAM": "drużyna",
+        "DETERMINED_TEAMS": "Drużyny z pewnym miejscem w tej fazie:",
+        "SCORE": "wynik",
+        "POSSIBLE_TEAMS": "Drużyny z trwających meczów poprzedniej fazy:",
+        "STANDINGS_PLACE": "miejsce",
         "SWISS_DEFAULT_LABEL": "Turniej o&nbsp;%d.&nbsp;miejsce"
     }
 }
