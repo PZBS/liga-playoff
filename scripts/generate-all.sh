@@ -12,7 +12,7 @@ generate_playoff () {
     echo "Generating $filename to $ftp_path..."
     $python playoff.py ../../$filename.jtpo
     echo "Uploading to $ftp_path..."
-    scp $output_file pzbs:~/liga/$ftp_path
+    scp $output_file playoff@webserver.pzbs.pl:~/liga/$ftp_path
     rm -f $output_file
     echo "Done"
 }
@@ -24,4 +24,3 @@ generate_playoff 2nw 2liga/nw/playoff.html
 generate_playoff 2ne 2liga/ne/playoff.html
 generate_playoff 2se 2liga/se/playoff.html
 generate_playoff 2sw 2liga/sw/playoff.html
-
