@@ -480,6 +480,9 @@
         "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/1liga/s/srrleaderb.html",
         "ties": []
     },
+    "custom_final_order": [
+        "VĘGORIA WCK Węgorzewo", "SKÓR-BUT Eko-Różanka Łęczna"
+    ],
     "output": "output.html",
     "i18n": {
         "STANDINGS_CAPTIONS": "legenda",

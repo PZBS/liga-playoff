@@ -1,492 +1,495 @@
 {
     "page": {
         "team_boxes": {
-            "predict_teams": 1, 
-            "name_prefix": "&nbsp;&nbsp;", 
-            "label_separator": " / ", 
-            "label_ellipsis": "(...)", 
-            "label_length_limit": 25, 
-            "sort_eligible_first": 1, 
-            "name_separator": "<br />", 
+            "predict_teams": 1,
+            "name_prefix": "&nbsp;&nbsp;",
+            "label_separator": " / ",
+            "label_ellipsis": "(...)",
+            "label_length_limit": 25,
+            "sort_eligible_first": 1,
+            "name_separator": "<br />",
             "label_placeholder": "??"
-        }, 
-        "height": 80, 
-        "width": 250, 
-        "starting_position_indicators": "1", 
-        "margin": 60, 
-        "finishing_position_indicators": "1", 
-        "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>", 
-        "refresh": 0, 
+        },
+        "height": 80,
+        "width": 250,
+        "starting_position_indicators": "1",
+        "margin": 60,
+        "finishing_position_indicators": "1",
+        "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
+        "refresh": 0,
         "title": "II liga NE, play-off"
-    }, 
+    },
     "canvas": {
         "box_positioning": {
-            "11": 240, 
-            "10": 120, 
+            "11": 240,
+            "10": 120,
             "14": 140,
             "12": 680
-        }, 
-        "winner_colour": "#00ff00", 
-        "winner_h_offset": 5, 
-        "winner_v_offset": -10, 
-        "loser_colour": "#ff0000", 
-        "loser_h_offset": 20, 
-        "loser_v_offset": 10, 
-        "place_winner_colour": "#00dddd", 
-        "place_winner_h_offset": 10, 
-        "place_winner_v_offset": 2, 
-        "place_loser_colour": "#dddd00", 
-        "place_loser_h_offset": 15, 
-        "place_loser_v_offset": 9, 
-        "finish_winner_colour": "#00ff00", 
-        "finish_winner_h_offset": 15, 
-        "finish_winner_v_offset": -2, 
-        "finish_loser_colour": "#ff0000", 
-        "finish_loser_h_offset": 10, 
+        },
+        "winner_colour": "#00ff00",
+        "winner_h_offset": 5,
+        "winner_v_offset": -10,
+        "loser_colour": "#ff0000",
+        "loser_h_offset": 20,
+        "loser_v_offset": 10,
+        "place_winner_colour": "#00dddd",
+        "place_winner_h_offset": 10,
+        "place_winner_v_offset": 2,
+        "place_loser_colour": "#dddd00",
+        "place_loser_h_offset": 15,
+        "place_loser_v_offset": 9,
+        "finish_winner_colour": "#00ff00",
+        "finish_winner_h_offset": 15,
+        "finish_winner_v_offset": -2,
+        "finish_loser_colour": "#ff0000",
+        "finish_loser_h_offset": 10,
         "finish_loser_v_offset": 2
-    }, 
+    },
     "position_styles": [
         {
             "positions": [
-                1, 
+                1,
                 2
-            ], 
-            "class": "promotion", 
+            ],
+            "class": "promotion",
             "caption": "Awans do I ligi 2020/21"
-        }, 
+        },
         {
             "positions": [
                 3
-            ], 
-            "class": "repechage", 
+            ],
+            "class": "repechage",
             "caption": "Baraż o awans"
-        }, 
+        },
         {
             "positions": [
-                11, 
+                11,
                 12
-            ], 
-            "class": "repechage", 
+            ],
+            "class": "repechage",
             "caption": "Baraż o utrzymanie"
-        }, 
+        },
         {
             "positions": [
-                13, 
-                14, 
-                15, 
+                13,
+                14,
+                15,
                 16
-            ], 
-            "class": "relegation", 
+            ],
+            "class": "relegation",
             "caption": "Spadek do III ligi 2020/21"
         }
-    ], 
+    ],
     "goniec": {
         "enabled": 0
-    }, 
+    },
     "phases": [
         {
-            "title": "31 stycznia 2020, 20:00", 
+            "title": "31 stycznia 2020, 20:00",
             "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/ne/nepo1runda1.html",
             "matches": [
                 {
-                    "id": 1, 
+                    "id": 1,
                     "teams": [
                         {
                             "place": [
                                 1
                             ]
-                        }, 
+                        },
                         {
                             "place": [
-                                3, 
+                                3,
                                 4
                             ]
                         }
-                    ], 
+                    ],
                     "selected_teams": [
-                        -1, 
+                        -1,
                         1
-                    ], 
+                    ],
                     "table": 1
-                }, 
+                },
                 {
-                    "id": 2, 
+                    "id": 2,
                     "teams": [
                         {
                             "place": [
                                 2
                             ]
-                        }, 
+                        },
                         {
                             "place": [
-                                3, 
+                                3,
                                 4
                             ]
                         }
-                    ], 
+                    ],
                     "selected_teams": [
-                        -1, 
+                        -1,
                         0
-                    ], 
+                    ],
                     "table": 2
-                }, 
+                },
                 {
-                    "id": 3, 
+                    "id": 3,
                     "teams": [
                         {
                             "place": [
                                 5
                             ]
-                        }, 
+                        },
                         {
                             "place": [
-                                7, 
+                                7,
                                 8
                             ]
                         }
-                    ], 
+                    ],
                     "loser": [
-                        7, 
+                        7,
                         8
-                    ], 
+                    ],
                     "selected_teams": [
-                        -1, 
+                        -1,
                         0
-                    ], 
+                    ],
                     "table": 3
-                }, 
+                },
                 {
-                    "id": 4, 
+                    "id": 4,
                     "teams": [
                         {
                             "place": [
                                 6
                             ]
-                        }, 
+                        },
                         {
                             "place": [
-                                7, 
+                                7,
                                 8
                             ]
                         }
-                    ], 
+                    ],
                     "loser": [
-                        7, 
+                        7,
                         8
-                    ], 
+                    ],
                     "selected_teams": [
-                        -1, 
+                        -1,
                         1
-                    ], 
+                    ],
                     "table": 4
-                }, 
+                },
                 {
-                    "id": 5, 
+                    "id": 5,
                     "teams": [
                         {
                             "place": [
                                 9
                             ]
-                        }, 
+                        },
                         {
                             "place": [
-                                11, 
+                                11,
                                 12
                             ]
                         }
-                    ], 
+                    ],
                     "winner": [
-                        9, 
+                        9,
                         10
-                    ], 
+                    ],
                     "selected_teams": [
-                        -1, 
+                        -1,
                         0
-                    ], 
+                    ],
                     "table": 5
-                }, 
+                },
                 {
-                    "id": 6, 
+                    "id": 6,
                     "teams": [
                         {
                             "place": [
                                 10
                             ]
-                        }, 
+                        },
                         {
                             "place": [
-                                11, 
+                                11,
                                 12
                             ]
                         }
-                    ], 
+                    ],
                     "winner": [
-                        9, 
+                        9,
                         10
-                    ], 
+                    ],
                     "selected_teams": [
-                        -1, 
+                        -1,
                         1
-                    ], 
+                    ],
                     "table": 6
-                }, 
+                },
                 {
-                    "id": 7, 
+                    "id": 7,
                     "teams": [
                         {
                             "place": [
                                 13
                             ]
-                        }, 
+                        },
                         {
                             "place": [
-                                15, 
+                                15,
                                 16
                             ]
                         }
-                    ], 
+                    ],
                     "loser": [
-                        15, 
+                        15,
                         16
-                    ], 
+                    ],
                     "selected_teams": [
-                        -1, 
+                        -1,
                         1
-                    ], 
+                    ],
                     "table": 7
-                }, 
+                },
                 {
-                    "id": 8, 
+                    "id": 8,
                     "teams": [
                         {
                             "place": [
                                 14
                             ]
-                        }, 
+                        },
                         {
                             "place": [
-                                15, 
+                                15,
                                 16
                             ]
                         }
-                    ], 
+                    ],
                     "loser": [
-                        15, 
+                        15,
                         16
-                    ], 
+                    ],
                     "selected_teams": [
-                        -1, 
+                        -1,
                         0
-                    ], 
+                    ],
                     "table": 8
                 }
             ]
-        }, 
+        },
         {
-            "title": "1 lutego 2020, 19:30", 
+            "title": "1 lutego 2020, 19:30",
             "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/ne/nepo2runda1.html",
             "dummies": [
-                3, 
-                4, 
+                3,
+                4,
                 7
-            ], 
+            ],
             "matches": [
                 {
-                    "id": 9, 
+                    "id": 9,
                     "teams": [
                         {
                             "winner": [
                                 1
                             ]
-                        }, 
+                        },
                         {
                             "winner": [
                                 2
                             ]
                         }
-                    ], 
+                    ],
                     "winner": [
                         1
-                    ], 
+                    ],
                     "table": 1
-                }, 
+                },
                 {
-                    "id": 10, 
+                    "id": 10,
                     "teams": [
                         {
                             "loser": [
                                 1
                             ]
-                        }, 
+                        },
                         {
                             "winner": [
-                                3, 
+                                3,
                                 4
                             ]
                         }
-                    ], 
+                    ],
                     "loser": [
-                        5, 
+                        5,
                         6
-                    ], 
+                    ],
                     "table": 2
-                }, 
+                },
                 {
-                    "id": 11, 
+                    "id": 11,
                     "teams": [
                         {
                             "loser": [
                                 2
                             ]
-                        }, 
+                        },
                         {
                             "winner": [
-                                3, 
+                                3,
                                 4
                             ]
                         }
-                    ], 
+                    ],
                     "loser": [
-                        5, 
+                        5,
                         6
-                    ], 
+                    ],
                     "table": 3
-                }, 
+                },
                 {
-                    "id": 12, 
+                    "id": 12,
                     "teams": [
                         {
                             "loser": [
                                 5
                             ]
-                        }, 
+                        },
                         {
                             "winner": [
-                                7, 
+                                7,
                                 8
                             ]
                         }
-                    ], 
+                    ],
                     "winner": [
-                        11, 
+                        11,
                         12
-                    ], 
+                    ],
                     "loser": [
-                        13, 
+                        13,
                         14
-                    ], 
+                    ],
                     "table": 4
-                }, 
+                },
                 {
-                    "id": 13, 
+                    "id": 13,
                     "teams": [
                         {
                             "loser": [
                                 6
                             ]
-                        }, 
+                        },
                         {
                             "winner": [
-                                7, 
+                                7,
                                 8
                             ]
                         }
-                    ], 
+                    ],
                     "winner": [
-                        11, 
+                        11,
                         12
-                    ], 
+                    ],
                     "loser": [
-                        13, 
+                        13,
                         14
-                    ], 
+                    ],
                     "table": 5
                 }
             ]
-        }, 
+        },
         {
-            "title": "14 lutego 2020, 20:00", 
+            "title": "14 lutego 2020, 20:00",
             "dummies": [
-                0, 
-                2, 
-                3, 
-                4, 
-                5, 
+                0,
+                2,
+                3,
+                4,
+                5,
                 6
-            ], 
+            ],
             "matches": [
                 {
-                    "id": 14, 
+                    "id": 14,
                     "teams": [
                         {
                             "winner": [
                                 10
                             ]
-                        }, 
+                        },
                         {
                             "winner": [
                                 11
                             ]
                         }
-                    ], 
+                    ],
                     "loser": [
                         4
-                    ], 
+                    ],
                     "table": 1,
                     "score": [99.9, 93]
                 }
             ]
-        }, 
+        },
         {
-            "title": "15 lutego 2020, 19:30", 
+            "title": "15 lutego 2020, 19:30",
             "dummies": [
-                1, 
-                2, 
-                3, 
+                1,
+                2,
+                3,
                 4
-            ], 
+            ],
             "matches": [
                 {
-                    "id": 15, 
+                    "id": 15,
                     "teams": [
                         {
                             "loser": [
                                 9
                             ]
-                        }, 
+                        },
                         {
                             "winner": [
                                 14
                             ]
                         }
-                    ], 
+                    ],
                     "winner": [
                         2
-                    ], 
+                    ],
                     "loser": [
                         3
-                    ], 
+                    ],
                     "table": 1,
                     "score": [66.7, 138]
                 }
             ]
         }
-    ], 
-    "team_aliases": {}, 
+    ],
+    "team_aliases": {},
     "teams": {
-        "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/ne/nerrleaderb.html", 
+        "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/ne/nerrleaderb.html",
         "ties": []
-    }, 
-    "output": "output.html", 
+    },
+    "custom_final_order": [
+        "STB BC SUDOVIA INTERNATIONAL", "DOLINA NARWI Łomża"
+    ],
+    "output": "output.html",
     "i18n": {
-        "STANDINGS_CAPTIONS": "legenda", 
-        "FOOTER_GENERATED": "strona wygenerowana", 
-        "FINAL_STANDINGS": "klasyfikacja końcowa", 
-        "STANDINGS_TEAM": "drużyna", 
-        "DETERMINED_TEAMS": "Drużyny z pewnym miejscem w tej fazie:", 
-        "SCORE": "wynik", 
-        "POSSIBLE_TEAMS": "Drużyny z trwających meczów poprzedniej fazy:", 
-        "STANDINGS_PLACE": "miejsce", 
+        "STANDINGS_CAPTIONS": "legenda",
+        "FOOTER_GENERATED": "strona wygenerowana",
+        "FINAL_STANDINGS": "klasyfikacja końcowa",
+        "STANDINGS_TEAM": "drużyna",
+        "DETERMINED_TEAMS": "Drużyny z pewnym miejscem w tej fazie:",
+        "SCORE": "wynik",
+        "POSSIBLE_TEAMS": "Drużyny z trwających meczów poprzedniej fazy:",
+        "STANDINGS_PLACE": "miejsce",
         "SWISS_DEFAULT_LABEL": "Turniej o&nbsp;%d.&nbsp;miejsce"
     }
 }
