@@ -17,7 +17,7 @@
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "refresh": 60,
-        "title": "Polish Premier League 2019/20 - play-off"
+        "title": "Polish Premier League 2020/21 - play-off"
     },
     "canvas": {
         "box_positioning": {
@@ -56,21 +56,21 @@
                 1
             ],
             "class": "gold",
-            "caption": "2019/20 Polish Team Champion"
+            "caption": "2020/21 Polish Team Champion"
         },
         {
             "positions": [
                 2
             ],
             "class": "silver",
-            "caption": "2019/20 Polish Team Runner-up"
+            "caption": "2020/21 Polish Team Runner-up"
         },
         {
             "positions": [
                 3
             ],
             "class": "bronze",
-            "caption": "2019/20 Polish Team 2nd Runner-up"
+            "caption": "2020/21 Polish Team 2nd Runner-up"
         },
         {
             "positions": [
@@ -78,7 +78,7 @@
                 12
             ],
             "class": "repechage",
-            "caption": "Repechage for 2020/21 Premier League"
+            "caption": "Repechage for 2021/22 Premier League"
         },
         {
             "positions": [
@@ -88,7 +88,7 @@
                 16
             ],
             "class": "relegation",
-            "caption": "Relegation to 2020/21 First Division"
+            "caption": "Relegation to 2021/22 First Division"
         }
     ],
     "goniec": {
@@ -96,7 +96,7 @@
     },
     "phases": [
         {
-            "title": "31st January 2020",
+            "title": "11th June 2021",
             "dummies": [
                 0
             ],
@@ -115,7 +115,7 @@
                             ]
                         }
                     ],
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1arunda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1runda1.html",
                     "table": 1
                 },
                 {
@@ -137,12 +137,8 @@
                         7,
                         8
                     ],
-                    "selected_teams": [
-                        -1,
-                        1
-                    ],
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1brunda1.html",
-                    "table": 1
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1runda1.html",
+                    "table": 2
                 },
                 {
                     "id": 3,
@@ -163,12 +159,8 @@
                         7,
                         8
                     ],
-                    "selected_teams": [
-                        -1,
-                        0
-                    ],
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1crunda1.html",
-                    "table": 1
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1runda1.html",
+                    "table": 3
                 },
                 {
                     "id": 4,
@@ -189,12 +181,8 @@
                         9,
                         10
                     ],
-                    "selected_teams": [
-                        -1,
-                        1
-                    ],
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1drunda1.html",
-                    "table": 1
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1runda1.html",
+                    "table": 4
                 },
                 {
                     "id": 5,
@@ -215,12 +203,8 @@
                         9,
                         10
                     ],
-                    "selected_teams": [
-                        -1,
-                        0
-                    ],
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1erunda1.html",
-                    "table": 1
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1runda1.html",
+                    "table": 5
                 },
                 {
                     "id": 6,
@@ -236,8 +220,8 @@
                             ]
                         }
                     ],
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1arunda1.html",
-                    "table": 2
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1runda1.html",
+                    "table": 6
                 },
                 {
                     "id": 7,
@@ -256,13 +240,13 @@
                     "loser": [
                         16
                     ],
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po1arunda1.html",
-                    "table": 3
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1runda1.html",
+                    "table": 7
                 }
             ]
         },
         {
-            "title": "1st February 2020",
+            "title": "12th June 2021",
             "matches": [
                 {
                     "id": 8,
@@ -283,8 +267,7 @@
                         5,
                         6
                     ],
-                    "selected_teams": [-1, 1],
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po2arunda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po2runda1.html",
                     "table": 1
                 },
                 {
@@ -306,8 +289,8 @@
                         5,
                         6
                     ],
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po2brunda1.html",
-                    "table": 1
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po2runda1.html",
+                    "table": 2
                 },
                 {
                     "id": 10,
@@ -326,8 +309,8 @@
                     "loser": [
                         15
                     ],
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po2arunda1.html",
-                    "table": 2
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po2runda1.html",
+                    "table": 3
                 }
             ]
         },
@@ -349,7 +332,7 @@
                             ]
                         }
                     ],
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/sfrunda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/sfrunda1.html",
                     "table": 1
                 },
                 {
@@ -367,7 +350,7 @@
                             ]
                         }
                     ],
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/sfrunda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/sfrunda1.html",
                     "table": 2
                 },
                 {
@@ -393,8 +376,7 @@
                         13,
                         14
                     ],
-                    "selected_teams": [-1, 0],
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/po3runda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po3runda1.html",
                     "table": 1
                 },
                 {
@@ -420,10 +402,8 @@
                         13,
                         14
                     ],
-                    "selected_teams": [-1, 1],
-                    "table": 1,
-                    "score": [161.8, 71],
-                    "finished": 1
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po3runda1.html",
+                    "table": 2
                 }
             ]
         },
@@ -450,7 +430,7 @@
                     "loser": [
                         2
                     ],
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/frunda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/frunda1.html",
                     "table": 1
                 },
                 {
@@ -473,7 +453,7 @@
                     "loser": [
                         4
                     ],
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/f3runda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/f3runda1.html",
                     "table": 1
                 }
             ]
@@ -481,7 +461,7 @@
     ],
     "team_aliases": {},
     "teams": {
-        "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/ekstraklasa/rrleaderb.html",
+        "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/rrleaderb.html",
         "ties": []
     },
     "output": "output.html",
