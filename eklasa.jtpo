@@ -464,7 +464,7 @@
         "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/rrleaderb.html",
         "ties": []
     },
-    "output": "output.html",
+    "output": "output/ekstraklasa/playoff.html",
     "i18n": {
         "STANDINGS_CAPTIONS": "legenda",
         "FOOTER_GENERATED": "strona wygenerowana",
