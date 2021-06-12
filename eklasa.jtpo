@@ -97,6 +97,7 @@
     "phases": [
         {
             "title": "11th June 2021",
+            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1arunda1.html",
             "dummies": [
                 0
             ],
@@ -115,7 +116,6 @@
                             ]
                         }
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1runda1.html",
                     "table": 1
                 },
                 {
@@ -137,8 +137,8 @@
                         7,
                         8
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1runda1.html",
-                    "table": 2
+                    "table": 2,
+                    "selected_teams": [-1, 1]
                 },
                 {
                     "id": 3,
@@ -159,8 +159,8 @@
                         7,
                         8
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1runda1.html",
-                    "table": 3
+                    "table": 3,
+                    "selected_teams": [-1, 0]
                 },
                 {
                     "id": 4,
@@ -181,8 +181,9 @@
                         9,
                         10
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1runda1.html",
-                    "table": 4
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1crunda1.html",
+                    "table": 1,
+                    "selected_teams": [-1, 0]
                 },
                 {
                     "id": 5,
@@ -203,8 +204,9 @@
                         9,
                         10
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1runda1.html",
-                    "table": 5
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1brunda1.html",
+                    "table": 1,
+                    "selected_teams": [-1, 1]
                 },
                 {
                     "id": 6,
@@ -220,8 +222,8 @@
                             ]
                         }
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1runda1.html",
-                    "table": 6
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1brunda1.html",
+                    "table": 2
                 },
                 {
                     "id": 7,
@@ -240,13 +242,13 @@
                     "loser": [
                         16
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1runda1.html",
-                    "table": 7
+                    "table": 4
                 }
             ]
         },
         {
             "title": "12th June 2021",
+            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po2arunda1.html",
             "matches": [
                 {
                     "id": 8,
@@ -267,7 +269,7 @@
                         5,
                         6
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po2runda1.html",
+                    "selected_teams": [-1, 1],
                     "table": 1
                 },
                 {
@@ -289,7 +291,7 @@
                         5,
                         6
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po2runda1.html",
+                    "selected_teams": [-1, 0],
                     "table": 2
                 },
                 {
@@ -309,8 +311,8 @@
                     "loser": [
                         15
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po2runda1.html",
-                    "table": 3
+                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po2brunda1.html",
+                    "table": 1
                 }
             ]
         },
@@ -466,14 +468,14 @@
     },
     "output": "output/ekstraklasa/playoff.html",
     "i18n": {
-        "STANDINGS_CAPTIONS": "legenda",
-        "FOOTER_GENERATED": "strona wygenerowana",
-        "FINAL_STANDINGS": "klasyfikacja końcowa",
-        "STANDINGS_TEAM": "drużyna",
-        "DETERMINED_TEAMS": "Drużyny z pewnym miejscem w tej fazie:",
-        "SCORE": "wynik",
-        "POSSIBLE_TEAMS": "Drużyny z trwających meczów poprzedniej fazy:",
-        "STANDINGS_PLACE": "miejsce",
-        "SWISS_DEFAULT_LABEL": "Turniej o&nbsp;%d.&nbsp;miejsce"
+        "STANDINGS_CAPTIONS": "colour key",
+        "FOOTER_GENERATED": "page generated at",
+        "FINAL_STANDINGS": "final standings",
+        "STANDINGS_TEAM": "team",
+        "DETERMINED_TEAMS": "Teams guaranteed to play this phase:",
+        "SCORE": "score",
+        "POSSIBLE_TEAMS": "Teams from ongoing matches of the previous phase:",
+        "STANDINGS_PLACE": "place",
+        "SWISS_DEFAULT_LABEL": "%dth place tournament"
     }
 }
