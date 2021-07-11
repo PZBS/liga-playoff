@@ -52,7 +52,7 @@
                 2
             ],
             "class": "promotion",
-            "caption": "Awans do Ekstraklasy 2020/21"
+            "caption": "Awans do Ekstraklasy 2021/22"
         },
         {
             "positions": [
@@ -77,7 +77,7 @@
                 16
             ],
             "class": "relegation",
-            "caption": "Spadek do II ligi 2020/21"
+            "caption": "Spadek do II ligi 2021/22"
         }
     ],
     "goniec": {
@@ -85,8 +85,8 @@
     },
     "phases": [
         {
-            "title": "31 stycznia 2020, 20:00",
-            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/1liga/s/spo1runda1.html",
+            "title": "3 września 2021, 20:00",
+            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/1liga/s/spo1runda1.html",
             "matches": [
                 {
                     "id": 1,
@@ -105,13 +105,12 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        -1
                     ],
                     "table": 1
                 },
                 {
                     "id": 2,
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/1liga/s/spo1brunda1.html",
                     "teams": [
                         {
                             "place": [
@@ -127,13 +126,12 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        -1
                     ],
-                    "table": 1
+                    "table": 2
                 },
                 {
                     "id": 3,
-                    "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/1liga/s/spo1a.jpg",
                     "teams": [
                         {
                             "place": [
@@ -153,10 +151,9 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        -1
                     ],
-                    "score": [154.2, 215],
-                    "running": -1
+                    "table": 3
                 },
                 {
                     "id": 4,
@@ -179,7 +176,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        -1
                     ],
                     "table": 4
                 },
@@ -204,7 +201,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        -1
                     ],
                     "table": 5
                 },
@@ -229,7 +226,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        -1
                     ],
                     "table": 6
                 },
@@ -254,7 +251,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        -1
                     ],
                     "table": 7
                 },
@@ -279,15 +276,15 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        -1
                     ],
                     "table": 8
                 }
             ]
         },
         {
-            "title": "1 lutego 2020, 19:30",
-            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/1liga/s/spo2runda1.html",
+            "title": "4 września 2021, 19:30",
+            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/1liga/s/spo2runda1.html",
             "dummies": [
                 3,
                 4,
@@ -408,8 +405,8 @@
             ]
         },
         {
-            "title": "14 lutego 2020, 20:00",
-            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/wspolne/po3runda1.html",
+            "title": "V zjazd",
+            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/1liga/s/spo3runda1.html",
             "dummies": [
                 0,
                 2,
@@ -441,8 +438,8 @@
             ]
         },
         {
-            "title": "15 lutego 2020, 19:30",
-            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/wspolne/po4runda1.html",
+            "title": "V zjazd",
+            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/1liga/s/spo4runda1.html",
             "dummies": [
                 1,
                 2,
@@ -477,13 +474,12 @@
     ],
     "team_aliases": {},
     "teams": {
-        "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/1liga/s/srrleaderb.html",
+        "link": "https://wyniki.pzbs.pl/liga/liga2020-21/1liga/s/srrleaderb.html",
         "ties": []
     },
     "custom_final_order": [
-        "VĘGORIA WCK Węgorzewo", "SKÓR-BUT Eko-Różanka Łęczna"
     ],
-    "output": "output.html",
+    "output": "output/1liga/s/playoff.html",
     "i18n": {
         "STANDINGS_CAPTIONS": "legenda",
         "FOOTER_GENERATED": "strona wygenerowana",

@@ -24,7 +24,8 @@
             "11": 240,
             "10": 120,
             "14": 140,
-            "12": 680
+            "12": 750,
+            "13": 880
         },
         "winner_colour": "#00ff00",
         "winner_h_offset": 5,
@@ -52,7 +53,7 @@
                 2
             ],
             "class": "promotion",
-            "caption": "Awans do I ligi 2020/21"
+            "caption": "Awans do I ligi 2021/22"
         },
         {
             "positions": [
@@ -73,11 +74,10 @@
             "positions": [
                 13,
                 14,
-                15,
-                16
+                15
             ],
             "class": "relegation",
-            "caption": "Spadek do III ligi 2020/21"
+            "caption": "Spadek do III ligi 2021/22"
         }
     ],
     "goniec": {
@@ -85,8 +85,8 @@
     },
     "phases": [
         {
-            "title": "31 stycznia 2020, 20:00",
-            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/ne/nepo1runda1.html",
+            "title": "3 września 2021, 20:00",
+            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/ne/nepo1runda1.html",
             "matches": [
                 {
                     "id": 1,
@@ -105,7 +105,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        -1
                     ],
                     "table": 1
                 },
@@ -126,7 +126,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        -1
                     ],
                     "table": 2
                 },
@@ -151,7 +151,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        -1
                     ],
                     "table": 3
                 },
@@ -176,7 +176,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        -1
                     ],
                     "table": 4
                 },
@@ -201,7 +201,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        -1
                     ],
                     "table": 5
                 },
@@ -226,34 +226,9 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        -1
                     ],
                     "table": 6
-                },
-                {
-                    "id": 7,
-                    "teams": [
-                        {
-                            "place": [
-                                13
-                            ]
-                        },
-                        {
-                            "place": [
-                                15,
-                                16
-                            ]
-                        }
-                    ],
-                    "loser": [
-                        15,
-                        16
-                    ],
-                    "selected_teams": [
-                        -1,
-                        1
-                    ],
-                    "table": 7
                 },
                 {
                     "id": 8,
@@ -265,26 +240,24 @@
                         },
                         {
                             "place": [
-                                15,
-                                16
+                                15
                             ]
                         }
                     ],
                     "loser": [
-                        15,
-                        16
+                        15
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        -1
                     ],
-                    "table": 8
+                    "table": 7
                 }
             ]
         },
         {
-            "title": "1 lutego 2020, 19:30",
-            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/ne/nepo2runda1.html",
+            "title": "4 września 2021, 19:30",
+            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/ne/nepo2runda1.html",
             "dummies": [
                 3,
                 4,
@@ -361,8 +334,10 @@
                             ]
                         },
                         {
+                            "place": [
+                                13
+                            ],
                             "winner": [
-                                7,
                                 8
                             ]
                         }
@@ -386,8 +361,10 @@
                             ]
                         },
                         {
+                            "place": [
+                                13
+                            ],
                             "winner": [
-                                7,
                                 8
                             ]
                         }
@@ -405,7 +382,8 @@
             ]
         },
         {
-            "title": "14 lutego 2020, 20:00",
+            "title": "V zjazd",
+            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/ne/nepo3runda1.html",
             "dummies": [
                 0,
                 2,
@@ -432,13 +410,13 @@
                     "loser": [
                         4
                     ],
-                    "table": 1,
-                    "score": [99.9, 93]
+                    "table": 1
                 }
             ]
         },
         {
-            "title": "15 lutego 2020, 19:30",
+            "title": "V zjazd",
+            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/ne/nepo4runda1.html",
             "dummies": [
                 1,
                 2,
@@ -466,21 +444,19 @@
                     "loser": [
                         3
                     ],
-                    "table": 1,
-                    "score": [66.7, 138]
+                    "table": 1
                 }
             ]
         }
     ],
     "team_aliases": {},
     "teams": {
-        "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/ne/nerrleaderb.html",
+        "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/ne/nerrleaderb.html",
         "ties": []
     },
     "custom_final_order": [
-        "STB BC SUDOVIA INTERNATIONAL", "DOLINA NARWI Łomża"
     ],
-    "output": "output.html",
+    "output": "output/2liga/ne/playoff.html",
     "i18n": {
         "STANDINGS_CAPTIONS": "legenda",
         "FOOTER_GENERATED": "strona wygenerowana",
