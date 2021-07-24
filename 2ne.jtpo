@@ -105,8 +105,9 @@
                     ],
                     "selected_teams": [
                         -1,
-                        -1
+                        0
                     ],
+                    "link": "http://czaja.pzbs.pl/wyniki/2021/liga/esk2runda1.html",
                     "table": 1
                 },
                 {
@@ -126,7 +127,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        -1
+                        1
                     ],
                     "table": 2
                 },
@@ -151,7 +152,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        -1
+                        1
                     ],
                     "table": 3
                 },
@@ -176,7 +177,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        -1
+                        0
                     ],
                     "table": 4
                 },
