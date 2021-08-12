@@ -151,7 +151,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        -1
+                        1
                     ],
                     "table": 3
                 },
@@ -176,7 +176,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        -1
+                        0
                     ],
                     "table": 4
                 },
@@ -201,7 +201,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        -1
+                        1
                     ],
                     "table": 5
                 },
@@ -226,7 +226,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        -1
+                        0
                     ],
                     "table": 6
                 },

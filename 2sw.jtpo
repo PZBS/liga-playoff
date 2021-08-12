@@ -153,7 +153,8 @@
                         -1,
                         1
                     ],
-                    "table": 3
+                    "link": "http://www.slzbs.slaskdatacenter.pl/protokoly/01/liga/21/lib_prerunda1.html",
+                    "table": 1
                 },
                 {
                     "id": 4,
@@ -201,7 +202,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        -1
+                        0
                     ],
                     "table": 5
                 },
@@ -226,7 +227,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        -1
+                        1
                     ],
                     "table": 6
                 },
@@ -449,7 +450,11 @@
             ]
         }
     ],
-    "team_aliases": {},
+    "team_aliases": {
+        "LIBERTY DDK II Brzeziny Śląskie": [
+            "LIBERTY DDK II BRZEZINY ŚLĄSKIE"
+        ]
+    },
     "teams": {
         "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/sw/swrrleaderb.html",
         "ties": []
