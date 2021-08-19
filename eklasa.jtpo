@@ -379,7 +379,8 @@
                         14
                     ],
                     "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po3runda1.html",
-                    "table": 1
+                    "table": 1,
+                    "selected_teams": [-1, 0]
                 },
                 {
                     "id": 14,
@@ -405,7 +406,8 @@
                         14
                     ],
                     "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po3runda1.html",
-                    "table": 2
+                    "table": 2,
+                    "selected_teams": [-1, 1]
                 }
             ]
         },
