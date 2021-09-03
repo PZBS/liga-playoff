@@ -16,7 +16,7 @@
         "margin": 60,
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
-        "refresh": 0,
+        "refresh": 60,
         "title": "II liga NE, play-off"
     },
     "canvas": {
@@ -129,7 +129,7 @@
                         -1,
                         1
                     ],
-                    "table": 2
+                    "table": 1
                 },
                 {
                     "id": 3,
@@ -154,7 +154,7 @@
                         -1,
                         1
                     ],
-                    "table": 3
+                    "table": 2
                 },
                 {
                     "id": 4,
@@ -179,7 +179,7 @@
                         -1,
                         0
                     ],
-                    "table": 4
+                    "table": 3
                 },
                 {
                     "id": 5,
@@ -204,7 +204,7 @@
                         -1,
                         1
                     ],
-                    "table": 5
+                    "table": 4
                 },
                 {
                     "id": 6,
@@ -225,11 +225,10 @@
                         9,
                         10
                     ],
-                    "selected_teams": [
-                        -1,
-                        0
-                    ],
-                    "table": 6
+                    "selected_teams": [-1, 0],
+                    "link": "#",
+                    "score": [112.2, 167.0],
+                    "running": -1
                 },
                 {
                     "id": 8,
@@ -252,7 +251,7 @@
                         -1,
                         -1
                     ],
-                    "table": 7
+                    "table": 5
                 }
             ]
         },
