@@ -376,7 +376,10 @@
                         13,
                         14
                     ],
-                    "table": 4
+                    "link": "#",
+                    "selected_teams": [-1, 1],
+                    "score": [0.1, 0.0],
+                    "running": -1
                 },
                 {
                     "id": 13,
@@ -401,7 +404,10 @@
                         13,
                         14
                     ],
-                    "table": 5
+                    "link": "#",
+                    "selected_teams": [-1, 0],
+                    "score": [0.0, 0.1],
+                    "running": -1
                 }
             ]
         },
@@ -434,7 +440,9 @@
                     "loser": [
                         4
                     ],
-                    "table": 1
+                    "table": 1,
+                    "score": [2.9, 0.0],
+                    "running": 0
                 }
             ]
         },
