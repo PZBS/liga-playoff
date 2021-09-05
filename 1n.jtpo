@@ -16,6 +16,7 @@
         "margin": 60,
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
+        "favicon": "images/pzbs.ico",
         "refresh": 60,
         "title": "I liga N, play-off"
     },

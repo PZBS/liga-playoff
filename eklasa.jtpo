@@ -16,7 +16,8 @@
         "margin": 60,
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
-        "refresh": 60,
+        "favicon": "images/pzbs.ico",
+        "refresh": 0,
         "title": "Polish Premier League 2020/21 - play-off"
     },
     "canvas": {
