@@ -458,6 +458,12 @@
     "team_aliases": {
         "LIBERTY DDK II Brzeziny Śląskie": [
             "LIBERTY DDK II BRZEZINY ŚLĄSKIE"
+        ],
+        "Bluerefrigeration KS AZS Wratislavia II": [
+            "Bluerefrigeration AZS VIII Wratislavia"
+        ],
+        "CKR Wschowa I": [
+            "CKiR Wschowa"
         ]
     },
     "teams": {
