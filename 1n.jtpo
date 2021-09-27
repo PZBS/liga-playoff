@@ -17,7 +17,7 @@
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "favicon": "images/pzbs.ico",
-        "refresh": 60,
+        "refresh": 0,
         "title": "I liga N, play-off"
     },
     "canvas": {
@@ -53,7 +53,7 @@
                 2
             ],
             "class": "promotion",
-            "caption": "Awans do Ekstraklasy 2020/21"
+            "caption": "Awans do Ekstraklasy 2021/22"
         },
         {
             "positions": [
@@ -78,7 +78,7 @@
                 16
             ],
             "class": "relegation",
-            "caption": "Spadek do II ligi 2020/21"
+            "caption": "Spadek do II ligi 2021/22"
         }
     ],
     "goniec": {
@@ -86,8 +86,8 @@
     },
     "phases": [
         {
-            "title": "31 stycznia 2020, 20:00",
-            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/1liga/n/npo1runda1.html",
+            "title": "17 września 2021, 20:00",
+            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/1liga/n/npo1runda1.html",
             "matches": [
                 {
                     "id": 1,
@@ -106,7 +106,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        1
                     ],
                     "table": 1
                 },
@@ -127,7 +127,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        0
                     ],
                     "table": 2
                 },
@@ -152,7 +152,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        1
                     ],
                     "table": 3
                 },
@@ -177,7 +177,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        0
                     ],
                     "table": 4
                 },
@@ -252,7 +252,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        1
                     ],
                     "table": 7
                 },
@@ -277,15 +277,15 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        0
                     ],
                     "table": 8
                 }
             ]
         },
         {
-            "title": "1 lutego 2020, 19:30",
-            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/1liga/n/npo2runda1.html",
+            "title": "18 września 2021, 19:30",
+            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/1liga/n/npo2runda1.html",
             "dummies": [
                 3,
                 4,
@@ -406,7 +406,7 @@
             ]
         },
         {
-            "title": "14 lutego 2020, 20:00",
+            "title": "",
             "dummies": [
                 0,
                 2,
@@ -432,15 +432,12 @@
                     ],
                     "loser": [
                         4
-                    ],
-                    "table": 1,
-                    "score": [91, 107.7]
+                    ]
                 }
             ]
         },
         {
-            "title": "15 lutego 2020, 19:30",
-            "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/2liga/sw/po34/0/index.html#000OO000001001001000000000",
+            "title": "",
             "dummies": [
                 1,
                 2,
@@ -467,21 +464,18 @@
                     ],
                     "loser": [
                         3
-                    ],
-                    "table": 2
+                    ]
                 }
             ]
         }
     ],
     "team_aliases": {
-        "INVENIO SZLEM Dzierżoniów": ["INVENIO SZLEM DZIERŻONIÓW"],
-        "ILANKA 1 Rzepin": ["ILANKA I RZEPIN"]
     },
     "teams": {
-        "link": "https://www.pzbs.pl/wyniki/liga/liga2019-20/1liga/n/nrrleaderb.html",
+        "link": "https://wyniki.pzbs.pl/liga/liga2020-21/1liga/n/nrrleaderb.html",
         "ties": []
     },
-    "output": "output.html",
+    "output": "output/1liga/n/playoff.html",
     "i18n": {
         "STANDINGS_CAPTIONS": "legenda",
         "FOOTER_GENERATED": "strona wygenerowana",
