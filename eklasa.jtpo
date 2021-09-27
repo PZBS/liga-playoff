@@ -469,7 +469,11 @@
             ]
         }
     ],
-    "team_aliases": {},
+    "team_aliases": {
+        "ŁĄCZNOŚĆ Olsztyn": [
+            "Łączność Olsztyn"
+        ]
+    },
     "teams": {
         "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/rrleaderb.html",
         "ties": []
