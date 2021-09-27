@@ -17,7 +17,7 @@
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "favicon": "images/pzbs.ico",
-        "refresh": 0,
+        "refresh": 60,
         "title": "II liga NE, play-off"
     },
     "canvas": {
@@ -416,9 +416,8 @@
                     "loser": [
                         4
                     ],
-                    "table": 1,
-                    "score": [8.8, 0.0],
-                    "running": 0
+                    "link": "http://akademiabrydza.pl/210927/play-off/#000OO000007001001000000000",
+                    "table": 1
                 }
             ]
         },
