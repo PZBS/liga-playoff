@@ -413,7 +413,7 @@
         },
         {
             "title": "V zjazd",
-            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/nw/nwpo3runda1.html",
+            "link": "http://rodziewicz-bielewicz.pl/wyniki/091021b1/#000OO000001001001000000000",
             "dummies": [
                 0,
                 2,
@@ -448,7 +448,7 @@
         },
         {
             "title": "V zjazd",
-            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/nw/nwpo4runda1.html",
+            "link": "http://rodziewicz-bielewicz.pl/wyniki/101021b2/#000OO000012001001000000000",
             "dummies": [
                 1,
                 2,
@@ -481,7 +481,18 @@
             ]
         }
     ],
-    "team_aliases": {},
+    "team_aliases": {
+        "MOSiR I Kostrzyn/Fundacja ILB": [
+            "MOSiR I Kostrzyn/Fundacja "
+        ],
+        "UNIA II Leszno": [
+            "UNIA II LESZNO"
+        ],
+        "KS KM IMPORT JAGIELLONKA": [
+            "KS KM IMPORT JAGIELLONKA ",
+            " KS KM IMPORT JAGIELLONKA "
+        ]
+    },
     "teams": {
         "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/nw/nwrrleaderb.html",
         "ties": []

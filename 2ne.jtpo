@@ -17,7 +17,7 @@
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "favicon": "images/pzbs.ico",
-        "refresh": 60,
+        "refresh": 0,
         "title": "II liga NE, play-off"
     },
     "canvas": {
@@ -382,8 +382,8 @@
                     ],
                     "link": "#",
                     "selected_teams": [-1, 1],
-                    "score": [1.7, 0.0],
-                    "running": 0
+                    "score": [1.7, 22.0],
+                    "running": -1
                 }
             ]
         },
@@ -423,7 +423,7 @@
         },
         {
             "title": "V zjazd",
-            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/ne/nepo4runda1.html",
+            "link": "https://www.pzbs.pl/wyniki/liga/liga2020-21/2liga/ne/nepo4runda1.html",
             "dummies": [
                 1,
                 2,

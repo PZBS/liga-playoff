@@ -387,7 +387,7 @@
         },
         {
             "title": "V zjazd",
-            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/sw/swpo3runda1.html",
+            "link": "https://www.brydz.online/tournaments/2liga/211008/#000OO000022001001000000000",
             "dummies": [
                 0,
                 2,
@@ -422,7 +422,7 @@
         },
         {
             "title": "V zjazd",
-            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/sw/swpo4runda1.html",
+            "link": "https://www.brydz.online/tournaments/2liga/211009/#000OO000011001001000000000",
             "dummies": [
                 1,
                 2,
@@ -464,6 +464,12 @@
         ],
         "CKR Wschowa I": [
             "CKiR Wschowa"
+        ],
+        "SYNIS Opole": [
+            "SYNIS OPOLE"
+        ],
+        "TURBO FLY-BACK": [
+            "TURBO-FLY BACK"
         ]
     },
     "teams": {

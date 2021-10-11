@@ -406,7 +406,8 @@
             ]
         },
         {
-            "title": "",
+            "title": "V zjazd",
+            "link": "https://pierniczek.e-kei.pl/Liga/2020_21/1Liga/sobota/sobrunda1.html",
             "dummies": [
                 0,
                 2,
@@ -432,12 +433,14 @@
                     ],
                     "loser": [
                         4
-                    ]
+                    ],
+                    "table": 1
                 }
             ]
         },
         {
-            "title": "",
+            "title": "V zjazd",
+            "link": "https://pierniczek.e-kei.pl/Liga/2020_21/1Liga/niedziela/nierunda1.html",
             "dummies": [
                 1,
                 2,
@@ -464,12 +467,22 @@
                     ],
                     "loser": [
                         3
-                    ]
+                    ],
+                    "table": 1
                 }
             ]
         }
     ],
     "team_aliases": {
+        "GTB SDK Tczew": [
+            "GTB SDK TCZEW"
+        ],
+        "EKO-TECH JANTAR Toruń": [
+            "EKO-TECH JANTAR TORUŃ"
+        ],
+        "AD Szczecin": [
+            "AD SZCZECIN"
+        ]
     },
     "teams": {
         "link": "https://wyniki.pzbs.pl/liga/liga2020-21/1liga/n/nrrleaderb.html",
