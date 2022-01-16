@@ -17,7 +17,7 @@
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "favicon": "images/pzbs.ico",
-        "refresh": 0,
+        "refresh": 60,
         "title": "I liga N, play-off"
     },
     "canvas": {
@@ -53,7 +53,7 @@
                 2
             ],
             "class": "promotion",
-            "caption": "Awans do Ekstraklasy 2021/22"
+            "caption": "Awans do Ekstraklasy 2022/23"
         },
         {
             "positions": [
@@ -75,10 +75,12 @@
                 13,
                 14,
                 15,
-                16
+                16,
+                17,
+                18
             ],
             "class": "relegation",
-            "caption": "Spadek do II ligi 2021/22"
+            "caption": "Spadek do II ligi 2022/23"
         }
     ],
     "goniec": {
@@ -86,8 +88,8 @@
     },
     "phases": [
         {
-            "title": "17 września 2021, 20:00",
-            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/1liga/n/npo1runda1.html",
+            "title": "18 lutego 2022, 20:00",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/1liga/n/npo1runda1.html",
             "matches": [
                 {
                     "id": 1,
@@ -106,7 +108,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        -1
                     ],
                     "table": 1
                 },
@@ -127,7 +129,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        -1
                     ],
                     "table": 2
                 },
@@ -154,7 +156,9 @@
                         -1,
                         1
                     ],
-                    "table": 3
+                    "table": 3,
+                    "score": [8.56, 0.0],
+                    "running": 0
                 },
                 {
                     "id": 4,
@@ -179,7 +183,9 @@
                         -1,
                         0
                     ],
-                    "table": 4
+                    "table": 4,
+                    "score": [2.22, 0.0],
+                    "running": 0
                 },
                 {
                     "id": 5,
@@ -202,7 +208,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        -1
                     ],
                     "table": 5
                 },
@@ -227,7 +233,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        -1
                     ],
                     "table": 6
                 },
@@ -252,7 +258,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        -1
                     ],
                     "table": 7
                 },
@@ -277,15 +283,15 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        -1
                     ],
                     "table": 8
                 }
             ]
         },
         {
-            "title": "18 września 2021, 19:30",
-            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/1liga/n/npo2runda1.html",
+            "title": "19 lutego 2022, 19:30",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/1liga/n/npo2runda1.html",
             "dummies": [
                 3,
                 4,
@@ -406,8 +412,8 @@
             ]
         },
         {
-            "title": "V zjazd",
-            "link": "https://pierniczek.e-kei.pl/Liga/2020_21/1Liga/sobota/sobrunda1.html",
+            "title": "play-off",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/1liga/n/npo3runda1.html",
             "dummies": [
                 0,
                 2,
@@ -431,16 +437,14 @@
                             ]
                         }
                     ],
-                    "loser": [
-                        4
-                    ],
+                    "loser": [4],
                     "table": 1
                 }
             ]
         },
         {
-            "title": "V zjazd",
-            "link": "https://pierniczek.e-kei.pl/Liga/2020_21/1Liga/niedziela/nierunda1.html",
+            "title": "o awans",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/1liga/n/npo4runda1.html",
             "dummies": [
                 1,
                 2,
@@ -474,19 +478,11 @@
         }
     ],
     "team_aliases": {
-        "GTB SDK Tczew": [
-            "GTB SDK TCZEW"
-        ],
-        "EKO-TECH JANTAR Toruń": [
-            "EKO-TECH JANTAR TORUŃ"
-        ],
-        "AD Szczecin": [
-            "AD SZCZECIN"
-        ]
     },
     "teams": {
-        "link": "https://wyniki.pzbs.pl/liga/liga2020-21/1liga/n/nrrleaderb.html",
-        "ties": []
+        "link": "https://wyniki.pzbs.pl/liga/liga2021-22/1liga/n/nrrleaderb.html",
+        "ties": [],
+        "final_positions": [17, 18]
     },
     "output": "output/1liga/n/playoff.html",
     "i18n": {

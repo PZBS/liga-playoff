@@ -17,8 +17,8 @@
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "favicon": "images/pzbs.ico",
-        "refresh": 0,
-        "title": "Polish Premier League 2020/21 - play-off"
+        "refresh": 60,
+        "title": "Polish Premier League 2021/22 - play-off"
     },
     "canvas": {
         "box_positioning": {
@@ -57,21 +57,21 @@
                 1
             ],
             "class": "gold",
-            "caption": "2020/21 Polish Team Champion"
+            "caption": "2021/22 Polish Team Champion"
         },
         {
             "positions": [
                 2
             ],
             "class": "silver",
-            "caption": "2020/21 Polish Team Runner-up"
+            "caption": "2021/22 Polish Team Runner-up"
         },
         {
             "positions": [
                 3
             ],
             "class": "bronze",
-            "caption": "2020/21 Polish Team 2nd Runner-up"
+            "caption": "2021/22 Polish Team 2nd Runner-up"
         },
         {
             "positions": [
@@ -79,7 +79,7 @@
                 12
             ],
             "class": "repechage",
-            "caption": "Repechage for 2021/22 Premier League"
+            "caption": "Repechage for 2022/23 Premier League"
         },
         {
             "positions": [
@@ -89,7 +89,7 @@
                 16
             ],
             "class": "relegation",
-            "caption": "Relegation to 2021/22 First Division"
+            "caption": "Relegation to 2022/23 First Division"
         }
     ],
     "goniec": {
@@ -97,8 +97,8 @@
     },
     "phases": [
         {
-            "title": "11th June 2021",
-            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1arunda1.html",
+            "title": "18th February 2022",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/po1runda1.html",
             "dummies": [
                 0
             ],
@@ -117,7 +117,9 @@
                             ]
                         }
                     ],
-                    "table": 1
+                    "table": 1,
+                    "score": [3.35, 0.0],
+                    "running": 0
                 },
                 {
                     "id": 2,
@@ -139,7 +141,7 @@
                         8
                     ],
                     "table": 2,
-                    "selected_teams": [-1, 1]
+                    "selected_teams": [-1, -1]
                 },
                 {
                     "id": 3,
@@ -161,7 +163,7 @@
                         8
                     ],
                     "table": 3,
-                    "selected_teams": [-1, 0]
+                    "selected_teams": [-1, -1]
                 },
                 {
                     "id": 4,
@@ -182,9 +184,8 @@
                         9,
                         10
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1crunda1.html",
-                    "table": 1,
-                    "selected_teams": [-1, 0]
+                    "table": 4,
+                    "selected_teams": [-1, -1]
                 },
                 {
                     "id": 5,
@@ -205,9 +206,8 @@
                         9,
                         10
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1brunda1.html",
-                    "table": 1,
-                    "selected_teams": [-1, 1]
+                    "table": 5,
+                    "selected_teams": [-1, -1]
                 },
                 {
                     "id": 6,
@@ -223,8 +223,9 @@
                             ]
                         }
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po1brunda1.html",
-                    "table": 2
+                    "table": 6,
+                    "score": [3.0, 0.0],
+                    "running": 0
                 },
                 {
                     "id": 7,
@@ -243,13 +244,15 @@
                     "loser": [
                         16
                     ],
-                    "table": 4
+                    "table": 8,
+                    "score": [0.65, 0.0],
+                    "running": 0
                 }
             ]
         },
         {
-            "title": "12th June 2021",
-            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po2arunda1.html",
+            "title": "19th February 2022",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-21/ekstraklasa/po2arunda1.html",
             "matches": [
                 {
                     "id": 8,
@@ -270,7 +273,7 @@
                         5,
                         6
                     ],
-                    "selected_teams": [-1, 1],
+                    "selected_teams": [-1, -1],
                     "table": 1
                 },
                 {
@@ -292,7 +295,7 @@
                         5,
                         6
                     ],
-                    "selected_teams": [-1, 0],
+                    "selected_teams": [-1, -1],
                     "table": 2
                 },
                 {
@@ -312,14 +315,13 @@
                     "loser": [
                         15
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po2brunda1.html",
-                    "table": 1
+                    "table": 3
                 }
             ]
         },
         {
             "title": "Semifinals",
-            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/sfrunda1.html",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/sfrunda1.html",
             "matches": [
                 {
                     "id": 11,
@@ -336,9 +338,8 @@
                             ]
                         }
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/sfrunda1.html",
                     "table": 1,
-                    "selected_teams": [-1, 1]
+                    "selected_teams": [-1, -1]
                 },
                 {
                     "id": 12,
@@ -355,9 +356,8 @@
                             ]
                         }
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/sfrunda1.html",
                     "table": 2,
-                    "selected_teams": [-1, 0]
+                    "selected_teams": [-1, -1]
                 },
                 {
                     "id": 13,
@@ -382,9 +382,9 @@
                         13,
                         14
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po3arunda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/po3runda1.html",
                     "table": 1,
-                    "selected_teams": [-1, 0]
+                    "selected_teams": [-1, -1]
                 },
                 {
                     "id": 14,
@@ -409,11 +409,9 @@
                         13,
                         14
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/po3brunda1.html",
-                    "table": 1,
-                    "selected_teams": [-1, 1],
-                    "score": [19.4, 0.0],
-                    "running": 0
+                    "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/po3runda1.html",
+                    "table": 2,
+                    "selected_teams": [-1, -1]
                 }
             ]
         },
@@ -440,7 +438,7 @@
                     "loser": [
                         2
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/frunda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/frunda1.html",
                     "table": 1
                 },
                 {
@@ -463,19 +461,16 @@
                     "loser": [
                         4
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/f3runda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/f3runda1.html",
                     "table": 1
                 }
             ]
         }
     ],
     "team_aliases": {
-        "ŁĄCZNOŚĆ Olsztyn": [
-            "Łączność Olsztyn"
-        ]
     },
     "teams": {
-        "link": "https://wyniki.pzbs.pl/liga/liga2020-21/ekstraklasa/rrleaderb.html",
+        "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/rrleaderb.html",
         "ties": []
     },
     "output": "output/ekstraklasa/playoff.html",

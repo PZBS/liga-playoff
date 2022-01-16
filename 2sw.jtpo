@@ -17,7 +17,7 @@
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "favicon": "images/pzbs.ico",
-        "refresh": 0,
+        "refresh": 60,
         "title": "II liga SW, play-off"
     },
     "canvas": {
@@ -25,8 +25,7 @@
             "11": 240,
             "10": 120,
             "14": 140,
-            "12": 750,
-            "13": 880
+            "12": 680
         },
         "winner_colour": "#00ff00",
         "winner_h_offset": 5,
@@ -54,7 +53,7 @@
                 2
             ],
             "class": "promotion",
-            "caption": "Awans do I ligi 2021/22"
+            "caption": "Awans do I ligi 2022/23"
         },
         {
             "positions": [
@@ -75,10 +74,11 @@
             "positions": [
                 13,
                 14,
-                15
+                15,
+                16
             ],
             "class": "relegation",
-            "caption": "Spadek do III ligi 2021/22"
+            "caption": "Spadek do III ligi 2022/23"
         }
     ],
     "goniec": {
@@ -86,8 +86,8 @@
     },
     "phases": [
         {
-            "title": "3 września 2021, 20:00",
-            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/sw/swpo1runda1.html",
+            "title": "18 lutego 2022, 20:00",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/2liga/sw/swpo1runda1.html",
             "matches": [
                 {
                     "id": 1,
@@ -106,7 +106,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        -1
                     ],
                     "table": 1
                 },
@@ -127,7 +127,7 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        -1
                     ],
                     "table": 2
                 },
@@ -154,8 +154,9 @@
                         -1,
                         1
                     ],
-                    "link": "http://www.slzbs.slaskdatacenter.pl/protokoly/01/liga/21/lib_prerunda1.html",
-                    "table": 1
+                    "table": 3,
+                    "score": [2.81, 0.0],
+                    "running": 0
                 },
                 {
                     "id": 4,
@@ -180,7 +181,9 @@
                         -1,
                         0
                     ],
-                    "table": 3
+                    "table": 4,
+                    "score": [0.9, 0.0],
+                    "running": 0
                 },
                 {
                     "id": 5,
@@ -203,11 +206,9 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        -1
                     ],
-                    "link": "#",
-                    "score": [161.2, 146.0],
-                    "running": -1
+                    "table": 5
                 },
                 {
                     "id": 6,
@@ -230,9 +231,34 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        -1
                     ],
-                    "table": 4
+                    "table": 6
+                },
+                {
+                    "id": 7,
+                    "teams": [
+                        {
+                            "place": [
+                                13
+                            ]
+                        },
+                        {
+                            "place": [
+                                15,
+                                16
+                            ]
+                        }
+                    ],
+                    "loser": [
+                        15,
+                        16
+                    ],
+                    "selected_teams": [
+                        -1,
+                        -1
+                    ],
+                    "table": 7
                 },
                 {
                     "id": 8,
@@ -244,24 +270,26 @@
                         },
                         {
                             "place": [
-                                15
+                                15,
+                                16
                             ]
                         }
                     ],
                     "loser": [
-                        15
+                        15,
+                        16
                     ],
                     "selected_teams": [
                         -1,
                         -1
                     ],
-                    "table": 5
+                    "table": 8
                 }
             ]
         },
         {
-            "title": "4 września 2021, 19:30",
-            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/sw/swpo2runda1.html",
+            "title": "19 lutego 2022, 19:30",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/2liga/sw/swpo2runda1.html",
             "dummies": [
                 3,
                 4,
@@ -338,10 +366,8 @@
                             ]
                         },
                         {
-                            "place": [
-                                13
-                            ],
                             "winner": [
+                                7,
                                 8
                             ]
                         }
@@ -365,10 +391,8 @@
                             ]
                         },
                         {
-                            "place": [
-                                13
-                            ],
                             "winner": [
+                                7,
                                 8
                             ]
                         }
@@ -386,8 +410,8 @@
             ]
         },
         {
-            "title": "V zjazd",
-            "link": "https://www.brydz.online/tournaments/2liga/211008/#000OO000022001001000000000",
+            "title": "play-off",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/2liga/sw/swpo3runda1.html",
             "dummies": [
                 0,
                 2,
@@ -411,18 +435,14 @@
                             ]
                         }
                     ],
-                    "loser": [
-                        4
-                    ],
-                    "table": 1,
-                    "score": [5.7, 0.0],
-                    "running": 0
+                    "loser": [4],
+                    "table": 1
                 }
             ]
         },
         {
-            "title": "V zjazd",
-            "link": "https://www.brydz.online/tournaments/2liga/211009/#000OO000011001001000000000",
+            "title": "o awans",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/2liga/sw/swpo4runda1.html",
             "dummies": [
                 1,
                 2,
@@ -456,28 +476,11 @@
         }
     ],
     "team_aliases": {
-        "LIBERTY DDK II Brzeziny Śląskie": [
-            "LIBERTY DDK II BRZEZINY ŚLĄSKIE"
-        ],
-        "Bluerefrigeration KS AZS Wratislavia II": [
-            "Bluerefrigeration AZS VIII Wratislavia"
-        ],
-        "CKR Wschowa I": [
-            "CKiR Wschowa"
-        ],
-        "SYNIS Opole": [
-            "SYNIS OPOLE"
-        ],
-        "TURBO FLY-BACK": [
-            "TURBO-FLY BACK"
-        ]
     },
     "teams": {
-        "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/sw/swrrleaderb.html",
+        "link": "https://wyniki.pzbs.pl/liga/liga2021-22/2liga/sw/swrrleaderb.html",
         "ties": []
     },
-    "custom_final_order": [
-    ],
     "output": "output/2liga/sw/playoff.html",
     "i18n": {
         "STANDINGS_CAPTIONS": "legenda",

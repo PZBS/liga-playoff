@@ -17,7 +17,7 @@
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "favicon": "images/pzbs.ico",
-        "refresh": 0,
+        "refresh": 60,
         "title": "II liga NE, play-off"
     },
     "canvas": {
@@ -25,8 +25,7 @@
             "11": 240,
             "10": 120,
             "14": 140,
-            "12": 750,
-            "13": 880
+            "12": 680
         },
         "winner_colour": "#00ff00",
         "winner_h_offset": 5,
@@ -54,7 +53,7 @@
                 2
             ],
             "class": "promotion",
-            "caption": "Awans do I ligi 2021/22"
+            "caption": "Awans do I ligi 2022/23"
         },
         {
             "positions": [
@@ -75,10 +74,11 @@
             "positions": [
                 13,
                 14,
-                15
+                15,
+                16
             ],
             "class": "relegation",
-            "caption": "Spadek do III ligi 2021/22"
+            "caption": "Spadek do III ligi 2022/23"
         }
     ],
     "goniec": {
@@ -86,8 +86,8 @@
     },
     "phases": [
         {
-            "title": "3 września 2021, 20:00",
-            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/ne/nepo1runda1.html",
+            "title": "18 lutego 2022, 20:00",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/2liga/ne/nepo1runda1.html",
             "matches": [
                 {
                     "id": 1,
@@ -106,9 +106,8 @@
                     ],
                     "selected_teams": [
                         -1,
-                        0
+                        -1
                     ],
-                    "link": "http://czaja.pzbs.pl/wyniki/2021/liga/esk2runda1.html",
                     "table": 1
                 },
                 {
@@ -128,9 +127,9 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        -1
                     ],
-                    "table": 1
+                    "table": 2
                 },
                 {
                     "id": 3,
@@ -155,7 +154,9 @@
                         -1,
                         1
                     ],
-                    "table": 2
+                    "table": 3,
+                    "score": [10.66, 0.0],
+                    "running": 0
                 },
                 {
                     "id": 4,
@@ -180,9 +181,9 @@
                         -1,
                         0
                     ],
-                    "link": "#",
-                    "score": [0.0, 0.1],
-                    "running": -1
+                    "table": 4,
+                    "score": [3.29, 0.0],
+                    "running": 0
                 },
                 {
                     "id": 5,
@@ -205,9 +206,9 @@
                     ],
                     "selected_teams": [
                         -1,
-                        1
+                        -1
                     ],
-                    "table": 4
+                    "table": 5
                 },
                 {
                     "id": 6,
@@ -228,10 +229,36 @@
                         9,
                         10
                     ],
-                    "selected_teams": [-1, 0],
-                    "link": "#",
-                    "score": [112.2, 167.0],
-                    "running": -1
+                    "selected_teams": [
+                        -1,
+                        -1
+                    ],
+                    "table": 6
+                },
+                {
+                    "id": 7,
+                    "teams": [
+                        {
+                            "place": [
+                                13
+                            ]
+                        },
+                        {
+                            "place": [
+                                15,
+                                16
+                            ]
+                        }
+                    ],
+                    "loser": [
+                        15,
+                        16
+                    ],
+                    "selected_teams": [
+                        -1,
+                        -1
+                    ],
+                    "table": 7
                 },
                 {
                     "id": 8,
@@ -243,24 +270,26 @@
                         },
                         {
                             "place": [
-                                15
+                                15,
+                                16
                             ]
                         }
                     ],
                     "loser": [
-                        15
+                        15,
+                        16
                     ],
                     "selected_teams": [
                         -1,
                         -1
                     ],
-                    "table": 5
+                    "table": 8
                 }
             ]
         },
         {
-            "title": "4 września 2021, 19:30",
-            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/ne/nepo2runda1.html",
+            "title": "19 lutego 2022, 19:30",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/2liga/ne/nepo2runda1.html",
             "dummies": [
                 3,
                 4,
@@ -337,10 +366,8 @@
                             ]
                         },
                         {
-                            "place": [
-                                13
-                            ],
                             "winner": [
+                                7,
                                 8
                             ]
                         }
@@ -364,10 +391,8 @@
                             ]
                         },
                         {
-                            "place": [
-                                13
-                            ],
                             "winner": [
+                                7,
                                 8
                             ]
                         }
@@ -380,16 +405,13 @@
                         13,
                         14
                     ],
-                    "link": "#",
-                    "selected_teams": [-1, 1],
-                    "score": [1.7, 22.0],
-                    "running": -1
+                    "table": 5
                 }
             ]
         },
         {
-            "title": "V zjazd",
-            "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/ne/nepo3runda1.html",
+            "title": "play-off",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/2liga/ne/nepo3runda1.html",
             "dummies": [
                 0,
                 2,
@@ -413,17 +435,14 @@
                             ]
                         }
                     ],
-                    "loser": [
-                        4
-                    ],
-                    "link": "http://akademiabrydza.pl/210927/play-off/#000OO000007001001000000000",
+                    "loser": [4],
                     "table": 1
                 }
             ]
         },
         {
-            "title": "V zjazd",
-            "link": "https://www.pzbs.pl/wyniki/liga/liga2020-21/2liga/ne/nepo4runda1.html",
+            "title": "o awans",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/2liga/ne/nepo4runda1.html",
             "dummies": [
                 1,
                 2,
@@ -456,13 +475,12 @@
             ]
         }
     ],
-    "team_aliases": {},
+    "team_aliases": {
+    },
     "teams": {
-        "link": "https://wyniki.pzbs.pl/liga/liga2020-21/2liga/ne/nerrleaderb.html",
+        "link": "https://wyniki.pzbs.pl/liga/liga2021-22/2liga/ne/nerrleaderb.html",
         "ties": []
     },
-    "custom_final_order": [
-    ],
     "output": "output/2liga/ne/playoff.html",
     "i18n": {
         "STANDINGS_CAPTIONS": "legenda",
