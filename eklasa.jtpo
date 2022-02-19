@@ -98,7 +98,7 @@
     "phases": [
         {
             "title": "18th February 2022",
-            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/po1runda1.html",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/p1runda1.html",
             "dummies": [
                 0
             ],
@@ -252,7 +252,7 @@
                     "loser": [
                         16
                     ],
-                    "table": 8,
+                    "table": 7,
                     "score": [0.65, 0.0],
                     "running": 0
                 }
@@ -260,7 +260,7 @@
         },
         {
             "title": "19th February 2022",
-            "link": "https://wyniki.pzbs.pl/liga/liga2021-21/ekstraklasa/po2arunda1.html",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-21/ekstraklasa/p2runda1.html",
             "matches": [
                 {
                     "id": 8,
@@ -390,7 +390,7 @@
                         13,
                         14
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/po3runda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/p3runda1.html",
                     "table": 1,
                     "selected_teams": [-1, -1]
                 },
@@ -417,7 +417,7 @@
                         13,
                         14
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/po3runda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/p3runda1.html",
                     "table": 2,
                     "selected_teams": [-1, -1]
                 }
