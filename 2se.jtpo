@@ -17,7 +17,7 @@
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "favicon": "images/pzbs.ico",
-        "refresh": 60,
+        "refresh": 0,
         "title": "II liga SE, play-off"
     },
     "canvas": {
@@ -448,7 +448,9 @@
                         }
                     ],
                     "loser": [4],
-                    "table": 1
+                    "table": 1,
+                    "score": [6.84, 0.0],
+                    "running": 0
                 }
             ]
         },
@@ -488,7 +490,6 @@
         }
     ],
     "team_aliases": {
-        "CKiS MK Galicja Skawina": ["CKiS Piast Skawina"]
     },
     "teams": {
         "link": "https://wyniki.pzbs.pl/liga/liga2021-22/2liga/se/serrleaderb.html",

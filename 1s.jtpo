@@ -17,7 +17,7 @@
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "favicon": "images/pzbs.ico",
-        "refresh": 60,
+        "refresh": 0,
         "title": "I liga S, play-off"
     },
     "canvas": {
@@ -447,7 +447,9 @@
                         }
                     ],
                     "loser": [4],
-                    "table": 1
+                    "table": 1,
+                    "score": [5.97, 0.0],
+                    "running": 0
                 }
             ]
         },

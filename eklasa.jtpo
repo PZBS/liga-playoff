@@ -17,7 +17,7 @@
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "favicon": "images/pzbs.ico",
-        "refresh": 60,
+        "refresh": 0,
         "title": "Polish Premier League 2021/22 - play-off"
     },
     "canvas": {
@@ -260,7 +260,7 @@
         },
         {
             "title": "19th February 2022",
-            "link": "https://wyniki.pzbs.pl/liga/liga2021-21/ekstraklasa/p2runda1.html",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/p2runda1.html",
             "matches": [
                 {
                     "id": 8,
@@ -347,7 +347,9 @@
                         }
                     ],
                     "table": 1,
-                    "selected_teams": [-1, -1]
+                    "selected_teams": [-1, 0],
+                    "score": [7.64, 0.0],
+                    "running": 0
                 },
                 {
                     "id": 12,
@@ -365,7 +367,9 @@
                         }
                     ],
                     "table": 2,
-                    "selected_teams": [-1, -1]
+                    "selected_teams": [-1, 1],
+                    "score": [1.24, 0.0],
+                    "running": 0
                 },
                 {
                     "id": 13,
