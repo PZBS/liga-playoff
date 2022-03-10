@@ -397,7 +397,7 @@
                     ],
                     "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/p3runda1.html",
                     "table": 1,
-                    "selected_teams": [-1, -1]
+                    "selected_teams": [-1, 0]
                 },
                 {
                     "id": 14,
@@ -424,7 +424,7 @@
                     ],
                     "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/p3runda1.html",
                     "table": 2,
-                    "selected_teams": [-1, -1]
+                    "selected_teams": [-1, 1]
                 }
             ]
         },
