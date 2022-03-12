@@ -2,6 +2,7 @@
     "page": {
         "team_boxes": {
             "predict_teams": 1,
+            "auto_carryover": 40,
             "league_carryovers": 1,
             "name_prefix": "&nbsp;&nbsp;",
             "label_separator": " / ",
