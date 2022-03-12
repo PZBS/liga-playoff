@@ -2,6 +2,7 @@
     "page": {
         "team_boxes": {
             "predict_teams": 1,
+            "auto_carryover": 40,
             "league_carryovers": 1,
             "name_prefix": "&nbsp;&nbsp;",
             "label_separator": " / ",
@@ -118,9 +119,7 @@
                             ]
                         }
                     ],
-                    "table": 1,
-                    "score": [3.35, 0.0],
-                    "running": 0
+                    "table": 1
                 },
                 {
                     "id": 2,
@@ -142,9 +141,7 @@
                         8
                     ],
                     "table": 2,
-                    "selected_teams": [-1, 0],
-                    "score": [2.86, 0.0],
-                    "running": "0"
+                    "selected_teams": [-1, 0]
                 },
                 {
                     "id": 3,
@@ -166,9 +163,7 @@
                         8
                     ],
                     "table": 3,
-                    "selected_teams": [-1, 1],
-                    "score": [0.85, 0.0],
-                    "running": 0
+                    "selected_teams": [-1, 1]
                 },
                 {
                     "id": 4,
@@ -190,9 +185,7 @@
                         10
                     ],
                     "table": 4,
-                    "selected_teams": [-1, 0],
-                    "score": [2.72, 0.0],
-                    "running": 0
+                    "selected_teams": [-1, 0]
                 },
                 {
                     "id": 5,
@@ -214,9 +207,7 @@
                         10
                     ],
                     "table": 5,
-                    "selected_teams": [-1, 1],
-                    "score": [1.41, 0.0],
-                    "running": 0
+                    "selected_teams": [-1, 1]
                 },
                 {
                     "id": 6,
@@ -232,9 +223,7 @@
                             ]
                         }
                     ],
-                    "table": 6,
-                    "score": [3.0, 0.0],
-                    "running": 0
+                    "table": 6
                 },
                 {
                     "id": 7,
@@ -253,9 +242,7 @@
                     "loser": [
                         16
                     ],
-                    "table": 7,
-                    "score": [0.65, 0.0],
-                    "running": 0
+                    "table": 7
                 }
             ]
         },
@@ -348,9 +335,7 @@
                         }
                     ],
                     "table": 1,
-                    "selected_teams": [-1, 0],
-                    "score": [7.64, 0.0],
-                    "running": 0
+                    "selected_teams": [-1, 0]
                 },
                 {
                     "id": 12,
@@ -368,9 +353,7 @@
                         }
                     ],
                     "table": 2,
-                    "selected_teams": [-1, 1],
-                    "score": [1.24, 0.0],
-                    "running": 0
+                    "selected_teams": [-1, 1]
                 },
                 {
                     "id": 13,
@@ -397,9 +380,7 @@
                     ],
                     "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/p3runda1.html",
                     "table": 1,
-                    "selected_teams": [-1, 0],
-                    "score": [7.2, 0.0],
-                    "running": 0
+                    "selected_teams": [-1, 0]
 
                 },
                 {
@@ -427,9 +408,7 @@
                     ],
                     "link": "https://wyniki.pzbs.pl/liga/liga2021-22/ekstraklasa/p3runda1.html",
                     "table": 2,
-                    "selected_teams": [-1, 1],
-                    "score": [10.9, 0.0],
-                    "running": 0
+                    "selected_teams": [-1, 1]
 
                 }
             ]
