@@ -474,6 +474,7 @@
         }
     ],
     "team_aliases": {
+        "ŚWSBC Chełmiec Termet": ["ŚWSBS Chełmiec Termet"]
     },
     "teams": {
         "link": "https://wyniki.pzbs.pl/liga/liga2021-22/2liga/sw/swrrleaderb.html",
