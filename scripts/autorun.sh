@@ -6,7 +6,7 @@ export GIT_SSH_COMMAND="ssh ${LIGA_SSH_OPTS}"
 FORCE=${1:-0}
 RUNNING_INDICATOR=${LIGA_PLAYOFF_LOGFILE}.running
 
-find ${RUNNING_INDICATOR} -mtime +0.5 -delete # if the bracket is not running for 12 hours, it's running
+find $(dirname ${LIGA_PLAYOFF_LOGFILE}) -name \*.running -mtime +0.5 -delete # if the bracket is not running for 12 hours, it's running
 
 PREVHEAD=$(git rev-parse HEAD)
 git pull --quiet --rebase --autostash --recurse-submodules --no-stat
