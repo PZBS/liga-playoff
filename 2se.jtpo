@@ -409,7 +409,7 @@
         },
         {
             "title": "play-off",
-            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/2liga/se/sepo3runda1.html",
+            "link": "#",
             "dummies": [
                 0,
                 2,
@@ -434,7 +434,7 @@
                         }
                     ],
                     "loser": [4],
-                    "table": 1
+                    "score": [140.1, 132]
                 }
             ]
         },
