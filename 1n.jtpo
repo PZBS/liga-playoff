@@ -442,7 +442,7 @@
         },
         {
             "title": "o awans",
-            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/1liga/n/npo4runda1.html",
+            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/po4/#000OO000002001001000000000",
             "dummies": [
                 1,
                 2,
@@ -470,7 +470,7 @@
                     "loser": [
                         3
                     ],
-                    "table": 1
+                    "table": 3
                 }
             ]
         }
