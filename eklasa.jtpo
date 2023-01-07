@@ -51,7 +51,8 @@
         "finish_winner_v_offset": -10,
         "finish_loser_colour": "#ff0000",
         "finish_loser_h_offset": 20,
-        "finish_loser_v_offset": 10
+        "finish_loser_v_offset": 10,
+        "fade_boxes": 500
     },
     "position_styles": [
         {
