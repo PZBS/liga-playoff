@@ -46,7 +46,8 @@
         "finish_winner_v_offset": -2,
         "finish_loser_colour": "#ff0000",
         "finish_loser_h_offset": 10,
-        "finish_loser_v_offset": 2
+        "finish_loser_v_offset": 2,
+        "fade_boxes": 500
     },
     "position_styles": [
         {
@@ -55,7 +56,7 @@
                 2
             ],
             "class": "promotion",
-            "caption": "Awans do Ekstraklasy 2022/23"
+            "caption": "Awans do Ekstraklasy 2023/24"
         },
         {
             "positions": [
@@ -82,7 +83,7 @@
                 18
             ],
             "class": "relegation",
-            "caption": "Spadek do II ligi 2022/23"
+            "caption": "Spadek do II ligi 2023/24"
         }
     ],
     "goniec": {
@@ -90,8 +91,8 @@
     },
     "phases": [
         {
-            "title": "18 lutego 2022, 20:00",
-            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/1liga/n/npo1runda1.html",
+            "title": "10 lutego 2023, 19:30",
+            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/1liga/n/npo1runda1.html",
             "matches": [
                 {
                     "id": 1,
@@ -107,10 +108,6 @@
                                 4
                             ]
                         }
-                    ],
-                    "selected_teams": [
-                        -1,
-                        1
                     ],
                     "table": 1
                 },
@@ -128,10 +125,6 @@
                                 4
                             ]
                         }
-                    ],
-                    "selected_teams": [
-                        -1,
-                        0
                     ],
                     "table": 2
                 },
@@ -154,10 +147,6 @@
                         7,
                         8
                     ],
-                    "selected_teams": [
-                        -1,
-                        1
-                    ],
                     "table": 3
                 },
                 {
@@ -178,10 +167,6 @@
                     "loser": [
                         7,
                         8
-                    ],
-                    "selected_teams": [
-                        -1,
-                        0
                     ],
                     "table": 4
                 },
@@ -204,10 +189,6 @@
                         9,
                         10
                     ],
-                    "selected_teams": [
-                        -1,
-                        0
-                    ],
                     "table": 5
                 },
                 {
@@ -228,10 +209,6 @@
                     "winner": [
                         9,
                         10
-                    ],
-                    "selected_teams": [
-                        -1,
-                        1
                     ],
                     "table": 6
                 },
@@ -254,10 +231,6 @@
                         15,
                         16
                     ],
-                    "selected_teams": [
-                        -1,
-                        1
-                    ],
                     "table": 7
                 },
                 {
@@ -279,17 +252,13 @@
                         15,
                         16
                     ],
-                    "selected_teams": [
-                        -1,
-                        0
-                    ],
                     "table": 8
                 }
             ]
         },
         {
-            "title": "19 lutego 2022, 19:30",
-            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/1liga/n/npo2runda1.html",
+            "title": "11 lutego 2023, 19:30",
+            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/1liga/n/npo2runda1.html",
             "dummies": [
                 3,
                 4,
@@ -411,7 +380,7 @@
         },
         {
             "title": "play-off",
-            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/1liga/n/po3/#000OO000001001001000000000",
+            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/1liga/n/npo3runda1.html",
             "dummies": [
                 0,
                 2,
@@ -442,7 +411,7 @@
         },
         {
             "title": "o awans",
-            "link": "https://wyniki.pzbs.pl/liga/liga2021-22/po4/#000OO000002001001000000000",
+            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/1liga/n/npo4runda1.html",
             "dummies": [
                 1,
                 2,
@@ -478,9 +447,8 @@
     "team_aliases": {
     },
     "teams": {
-        "link": "https://wyniki.pzbs.pl/liga/liga2021-22/1liga/n/nrrleaderb.html",
-        "ties": [],
-        "final_positions": [17, 18]
+        "link": "https://wyniki.pzbs.pl/liga/liga2022-23/1liga/n/nrrleaderb.html",
+        "ties": []
     },
     "output": "output/1liga/n/playoff.html",
     "i18n": {
