@@ -450,7 +450,7 @@
         "link": "https://wyniki.pzbs.pl/liga/liga2022-23/2liga/sw/swrrleaderb.html",
         "ties": []
     },
-    "output": "output/1liga/n/playoff.html",
+    "output": "output/2liga/sw/playoff.html",
     "i18n": {
         "STANDINGS_CAPTIONS": "legenda",
         "FOOTER_GENERATED": "strona wygenerowana",
