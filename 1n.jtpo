@@ -104,12 +104,13 @@
                         },
                         {
                             "place": [
-                               
+                                3,
                                 4
                             ]
                         }
                     ],
-                    "table": 1
+                    "table": 1,
+                    "selected_teams": [-1, 1]
                 },
                 {
                     "id": 2,
@@ -121,12 +122,13 @@
                         },
                         {
                             "place": [
-                                3
-                                
+                                3,
+                                4
                             ]
                         }
                     ],
-                    "table": 2
+                    "table": 2,
+                    "selected_teams": [-1, 0]
                 },
                 {
                     "id": 3,
