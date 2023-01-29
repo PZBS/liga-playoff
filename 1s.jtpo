@@ -457,7 +457,7 @@
     },
     "teams": {
         "link": "https://wyniki.pzbs.pl/liga/liga2022-23/1liga/s/srrleaderb.html",
-        "final_positions": [8]
+        "final_positions": [8],
         "ties": []
     },
     "output": "output/1liga/s/playoff.html",
