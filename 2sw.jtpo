@@ -92,7 +92,7 @@
     "phases": [
         {
             "title": "10 lutego 2023, 19:30",
-            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/2liga/sw/swpo1runda1.html",
+            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/2liga/sw/swpo1arunda1.html",
             "matches": [
                 {
                     "id": 1,
@@ -149,7 +149,8 @@
                         7,
                         8
                     ],
-                    "table": 3,
+                    "link": "https://wyniki.pzbs.pl/liga/liga2022-23/2liga/sw/swpo1brunda1.html",
+                    "table": 1,
                     "selected_teams": [-1, 1]
                 },
                 {
@@ -171,7 +172,7 @@
                         7,
                         8
                     ],
-                    "table": 4,
+                    "table": 3,
                     "selected_teams": [-1, 0]
                 },
                 {
@@ -193,7 +194,7 @@
                         9,
                         10
                     ],
-                    "table": 5,
+                    "table": 4,
                     "selected_teams": [-1, 0]
                 },
                 {
@@ -215,7 +216,7 @@
                         9,
                         10
                     ],
-                    "table": 6,
+                    "table": 5,
                     "selected_teams": [-1, 1]
                 },
                 {
@@ -237,7 +238,7 @@
                         15,
                         16
                     ],
-                    "table": 7,
+                    "table": 6,
                     "selected_teams": [-1, 1]
                 },
                 {
@@ -259,7 +260,7 @@
                         15,
                         16
                     ],
-                    "table": 8,
+                    "table": 7,
                     "selected_teams": [-1, 0]
                 }
             ]
