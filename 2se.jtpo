@@ -454,6 +454,8 @@
         }
     ],
     "team_aliases": {
+        "FORTA-RYCHO BIŁGORAJ": ["FORTA-RYCHO Biłgoraj"],
+        "CKFiS BEŁŻYCE": ["CKFiS Bełżyce"]
     },
     "teams": {
         "link": "https://wyniki.pzbs.pl/liga/liga2022-23/2liga/se/serrleaderb.html",
