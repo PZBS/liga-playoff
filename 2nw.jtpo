@@ -436,7 +436,8 @@
     },
     "teams": {
         "link": "https://wyniki.pzbs.pl/liga/liga2022-23/2liga/nw/nwrrleaderb.html",
-        "ties": []
+        "ties": [],
+        "final_positions": [16]
     },
     "output": "output/2liga/nw/playoff.html",
     "i18n": {
