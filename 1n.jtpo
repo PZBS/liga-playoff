@@ -457,7 +457,8 @@
         }
     ],
     "team_aliases": {
-        "Bluerefrigeration KS AZS Wratislavia II": ["blueref.pl KS AZS"]
+        "Bluerefrigeration KS AZS Wratislavia II": ["blueref.pl KS AZS"],
+        "GOLDBECK COMFORT SA AZS Wratislavia IV": ["GOLDBECK COMFORT SA AZS"]
     },
     "teams": {
         "link": "https://wyniki.pzbs.pl/liga/liga2022-23/1liga/n/nrrleaderb.html",
