@@ -404,6 +404,7 @@
             "matches": [
                 {
                     "id": 14,
+                    "link": "https://wyniki.pzbs.pl/liga/liga2022-23/2liga/ne/p3-Vegoria-Sudovia.pdf",
                     "teams": [
                         {
                             "winner": [
@@ -417,7 +418,8 @@
                         }
                     ],
                     "loser": [4],
-                    "table": 1
+                    "table": 1,
+                    "score": [177.9, 132]
                 }
             ]
         },
