@@ -319,7 +319,7 @@
         },
         {
             "title": "Semifinals",
-            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/ekstraklasa/sf2022runda1.html",
+            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/ekstraklasa/sfrunda1.html",
             "matches": [
                 {
                     "id": 11,
@@ -435,7 +435,7 @@
                     "loser": [
                         2
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2022-23/ekstraklasa/finrunda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2022-23/ekstraklasa/frunda1.html",
                     "table": 1
                 },
                 {
@@ -458,7 +458,7 @@
                     "loser": [
                         4
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2022-23/ekstraklasa/o3runda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2022-23/ekstraklasa/f3runda1.html",
                     "table": 1
                 }
             ]
