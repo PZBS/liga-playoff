@@ -424,7 +424,7 @@
         },
         {
             "title": "o awans",
-            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/2liga/ne/nepo4runda1.html",
+            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/po4/#000OO000001001001000000000",
             "dummies": [
                 1,
                 2,
@@ -452,7 +452,7 @@
                     "loser": [
                         3
                     ],
-                    "table": 1
+                    "table": 6
                 }
             ]
         }
