@@ -380,7 +380,8 @@
                         13,
                         14
                     ],
-                    "table": 3,
+                    "link": "https://wyniki.pzbs.pl/liga/liga2022-23/po4/",
+                    "table": 1,
                     "selected_teams": [-1, 0]
 
                 },
@@ -407,7 +408,8 @@
                         13,
                         14
                     ],
-                    "table": 4,
+                    "link": "https://wyniki.pzbs.pl/liga/liga2022-23/po4/",
+                    "table": 2,
                     "selected_teams": [-1, 1]
                 }
             ]
