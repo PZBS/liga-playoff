@@ -20,7 +20,7 @@
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "favicon": "images/pzbs.ico",
-        "refresh": 60,
+        "refresh": 0,
         "title": "I liga S, play-off"
     },
     "canvas": {
