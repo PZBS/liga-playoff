@@ -441,6 +441,7 @@
         "ties": [],
         "final_positions": [16]
     },
+    "custom_final_order": [14, 13],
     "output": "output/2liga/nw/playoff.html",
     "i18n": {
         "STANDINGS_CAPTIONS": "legenda",

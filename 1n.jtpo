@@ -465,6 +465,7 @@
         "link": "https://wyniki.pzbs.pl/liga/liga2022-23/1liga/n/nrrleaderb.html",
         "ties": []
     },
+    "custom_final_order": [11, 9],
     "output": "output/1liga/n/playoff.html",
     "i18n": {
         "STANDINGS_CAPTIONS": "legenda",
