@@ -21,7 +21,7 @@
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "favicon": "images/pzbs.ico",
         "refresh": 0,
-        "title": "Polish Premier League 2022/23 - play-off"
+        "title": "Polish Premier League 2023/24 - play-off"
     },
     "canvas": {
         "box_positioning": {
@@ -61,21 +61,21 @@
                 1
             ],
             "class": "gold",
-            "caption": "2022/23 Polish Team Champion"
+            "caption": "2023/24 Polish Team Champion"
         },
         {
             "positions": [
                 2
             ],
             "class": "silver",
-            "caption": "2022/23 Polish Team Runner-up"
+            "caption": "2023/24 Polish Team Runner-up"
         },
         {
             "positions": [
                 3
             ],
             "class": "bronze",
-            "caption": "2022/23 Polish Team 2nd Runner-up"
+            "caption": "2023/24 Polish Team 2nd Runner-up"
         },
         {
             "positions": [
@@ -83,7 +83,7 @@
                 12
             ],
             "class": "repechage",
-            "caption": "Repechage for 2023/24 Premier League"
+            "caption": "Repechage for 2024/25 Premier League"
         },
         {
             "positions": [
@@ -93,7 +93,7 @@
                 16
             ],
             "class": "relegation",
-            "caption": "Relegation to 2023/24 First Division"
+            "caption": "Relegation to 2024/25 First Division"
         }
     ],
     "goniec": {
@@ -101,8 +101,8 @@
     },
     "phases": [
         {
-            "title": "10th February 2023",
-            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/ekstraklasa/p1runda1.html",
+            "title": "23th February 2024",
+            "link": "https://wyniki.pzbs.pl/liga/liga2023-24/ekstraklasa/p1runda1.html",
             "dummies": [
                 0
             ],
@@ -142,8 +142,7 @@
                         7,
                         8
                     ],
-                    "table": 2,
-                    "selected_teams": [-1, 1]
+                    "table": 2
                 },
                 {
                     "id": 3,
@@ -164,8 +163,7 @@
                         7,
                         8
                     ],
-                    "table": 3,
-                    "selected_teams": [-1, 0]
+                    "table": 3
                 },
                 {
                     "id": 4,
@@ -186,8 +184,7 @@
                         9,
                         10
                     ],
-                    "table": 4,
-                    "selected_teams": [-1, 1]
+                    "table": 4
                 },
                 {
                     "id": 5,
@@ -208,8 +205,7 @@
                         9,
                         10
                     ],
-                    "table": 5,
-                    "selected_teams": [-1, 0]
+                    "table": 5
                 },
                 {
                     "id": 6,
@@ -229,7 +225,6 @@
                 },
                 {
                     "id": 7,
-                    "link": "https://slzbs.pl/protokoly/01/chorzow/23/230121ex/#000OO000042001001000000000",
                     "teams": [
                         {
                             "place": [
@@ -250,8 +245,8 @@
             ]
         },
         {
-            "title": "11th February 2022",
-            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/ekstraklasa/p2runda1.html",
+            "title": "24th February 2024",
+            "link": "https://wyniki.pzbs.pl/liga/liga2023-24/ekstraklasa/p2runda1.html",
             "matches": [
                 {
                     "id": 8,
@@ -272,8 +267,7 @@
                         5,
                         6
                     ],
-                    "table": 1,
-                    "selected_teams": [-1, 0]
+                    "table": 1
                 },
                 {
                     "id": 9,
@@ -294,8 +288,7 @@
                         5,
                         6
                     ],
-                    "table": 2,
-                    "selected_teams": [-1, 1]
+                    "table": 2
                 },
                 {
                     "id": 10,
@@ -320,7 +313,7 @@
         },
         {
             "title": "Semifinals",
-            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/ekstraklasa/sfrunda1.html",
+            "link": "https://wyniki.pzbs.pl/liga/liga2023-24/ekstraklasa/sfrunda1.html",
             "matches": [
                 {
                     "id": 11,
@@ -337,8 +330,7 @@
                             ]
                         }
                     ],
-                    "table": 1,
-                    "selected_teams": [-1, 0]
+                    "table": 1
                 },
                 {
                     "id": 12,
@@ -355,8 +347,7 @@
                             ]
                         }
                     ],
-                    "table": 2,
-                    "selected_teams": [-1, 1]
+                    "table": 2
                 },
                 {
                     "id": 13,
@@ -381,10 +372,7 @@
                         13,
                         14
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2022-23/po4/#000OO000001001001000000000",
-                    "table": 1,
-                    "selected_teams": [-1, 0]
-
+                    "table": 3
                 },
                 {
                     "id": 14,
@@ -409,9 +397,7 @@
                         13,
                         14
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2022-23/po4/#000OO000001001001000000000",
-                    "table": 2,
-                    "selected_teams": [-1, 1]
+                    "table": 4,
                 }
             ]
         },
@@ -438,7 +424,7 @@
                     "loser": [
                         2
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2022-23/ekstraklasa/frunda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2023-24/ekstraklasa/frunda1.html",
                     "table": 1
                 },
                 {
@@ -461,7 +447,7 @@
                     "loser": [
                         4
                     ],
-                    "link": "https://wyniki.pzbs.pl/liga/liga2022-23/ekstraklasa/f3runda1.html",
+                    "link": "https://wyniki.pzbs.pl/liga/liga2023-24/ekstraklasa/f3runda1.html",
                     "table": 1
                 }
             ]
@@ -470,7 +456,7 @@
     "team_aliases": {
     },
     "teams": {
-        "link": "https://wyniki.pzbs.pl/liga/liga2022-23/ekstraklasa/rrleaderb.html",
+        "link": "https://wyniki.pzbs.pl/liga/liga2023-24/ekstraklasa/rrleaderb.html",
         "ties": []
     },
     "output": "output/ekstraklasa/playoff.html",
