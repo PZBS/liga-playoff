@@ -1,4 +1,3 @@
-
 {
     "page": {
         "team_boxes": {
@@ -79,7 +78,9 @@
                 13,
                 14,
                 15,
-                16
+                16,
+                17,
+                18
             ],
             "class": "relegation",
             "caption": "Spadek do III ligi 2024/25"
@@ -216,19 +217,42 @@
                     "teams": [
                         {
                             "place": [
+                                13
+                            ]
+                        },
+                        {
+                            "place": [
+                                15,
+                                16
+                            ]
+                        }
+                    ],
+                    "loser": [
+                        15,
+                        16
+                    ],
+                    "table": 7
+                },
+                {
+                    "id": 8,
+                    "teams": [
+                        {
+                            "place": [
                                 14
                             ]
                         },
                         {
                             "place": [
-                                15
+                                15,
+                                16
                             ]
                         }
                     ],
                     "loser": [
-                        15
+                        15,
+                        16
                     ],
-                    "table": 7
+                    "table": 8
                 }
             ]
         },
@@ -312,10 +336,8 @@
                         },
                         {
                             "winner": [
-                                7
-                            ],
-                            "place": [
-                                13
+                                7,
+                                8
                             ]
                         }
                     ],
@@ -339,10 +361,8 @@
                         },
                         {
                             "winner": [
-                                7
-                            ],
-                            "place": [
-                                13
+                                7,
+                                8
                             ]
                         }
                     ],
@@ -375,12 +395,12 @@
                     "teams": [
                         {
                             "winner": [
-                                10
+                                11
                             ]
                         },
                         {
                             "winner": [
-                                11
+                                10
                             ]
                         }
                     ],
@@ -403,13 +423,13 @@
                     "id": 15,
                     "teams": [
                         {
-                            "loser": [
-                                9
+                            "winner": [
+                                14
                             ]
                         },
                         {
-                            "winner": [
-                                14
+                            "loser": [
+                                9
                             ]
                         }
                     ],
@@ -419,7 +439,7 @@
                     "loser": [
                         3
                     ],
-                    "table": 5
+                    "table": 1
                 }
             ]
         }
@@ -428,10 +448,8 @@
     },
     "teams": {
         "link": "https://wyniki.pzbs.pl/liga/liga2023-24/2liga/nw/nwrrleaderb.html",
-        "ties": [],
-        "final_positions": []
+        "ties": []
     },
-    "custom_final_order": [],
     "output": "output/2liga/nw/playoff.html",
     "i18n": {
         "STANDINGS_CAPTIONS": "legenda",
