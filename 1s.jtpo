@@ -57,7 +57,7 @@
                 2
             ],
             "class": "promotion",
-            "caption": "Awans do Ekstraklasy 2023/24"
+            "caption": "Awans do Ekstraklasy 2024/25"
         },
         {
             "positions": [
@@ -84,7 +84,7 @@
                 18
             ],
             "class": "relegation",
-            "caption": "Spadek do II ligi 2023/24"
+            "caption": "Spadek do II ligi 2024/25"
         }
     ],
     "goniec": {
@@ -92,8 +92,8 @@
     },
     "phases": [
         {
-            "title": "10 lutego 2023, 19:30",
-            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/1liga/s/spo1runda1.html",
+            "title": "23 lutego 2024, 19:30",
+            "link": "https://wyniki.pzbs.pl/liga/liga2023-24/1liga/s/spo1runda1.html",
             "matches": [
                 {
                     "id": 1,
@@ -110,8 +110,7 @@
                             ]
                         }
                     ],
-                    "table": 1,
-                    "selected_teams": [-1, 1]
+                    "table": 1
                 },
                 {
                     "id": 2,
@@ -128,12 +127,10 @@
                             ]
                         }
                     ],
-                    "table": 2,
-                    "selected_teams": [-1, 0]
+                    "table": 2
                 },
                 {
                     "id": 3,
-                    "link": "https://wyniki.pzbs.pl/liga/liga2022-23/1liga/s/p1/autostanta/#000OO000012001001000000000",
                     "teams": [
                         {
                             "place": [
@@ -151,12 +148,10 @@
                         7,
                         8
                     ],
-                    "table": 1,
-                    "selected_teams": [-1, 0]
+                    "table": 3
                 },
                 {
                     "id": 4,
-                    "link": "#",
                     "teams": [
                         {
                             "place": [
@@ -174,8 +169,7 @@
                         7,
                         8
                     ],
-                    "selected_teams": [-1, 1],
-                    "score": [1.8, 0.0]
+                    "table": 4
                 },
                 {
                     "id": 5,
@@ -196,8 +190,7 @@
                         9,
                         10
                     ],
-                    "table": 3,
-                    "selected_teams": [-1, 0]
+                    "table": 5
                 },
                 {
                     "id": 6,
@@ -218,8 +211,7 @@
                         9,
                         10
                     ],
-                    "table": 4,
-                    "selected_teams": [-1, 1]
+                    "table": 6
                 },
                 {
                     "id": 7,
@@ -240,8 +232,7 @@
                         15,
                         16
                     ],
-                    "table": 5,
-                    "selected_teams": [-1, 1]
+                    "table": 7
                 },
                 {
                     "id": 8,
@@ -262,14 +253,13 @@
                         15,
                         16
                     ],
-                    "table": 6,
-                    "selected_teams": [-1, 0]
+                    "table": 8
                 }
             ]
         },
         {
-            "title": "11 lutego 2023, 19:30",
-            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/1liga/s/spo2runda1.html",
+            "title": "24 lutego 2024, 19:30",
+            "link": "https://wyniki.pzbs.pl/liga/liga2023-24/1liga/s/spo2runda1.html",
             "dummies": [
                 3,
                 4,
@@ -314,8 +304,7 @@
                         5,
                         6
                     ],
-                    "table": 2,
-                    "selected_teams": [-1, 0]
+                    "table": 2
                 },
                 {
                     "id": 11,
@@ -336,8 +325,7 @@
                         5,
                         6
                     ],
-                    "table": 3,
-                    "selected_teams": [-1, 1]
+                    "table": 3
                 },
                 {
                     "id": 12,
@@ -362,8 +350,7 @@
                         13,
                         14
                     ],
-                    "table": 4,
-                    "selected_teams": [-1, 1]
+                    "table": 4
                 },
                 {
                     "id": 13,
@@ -388,14 +375,13 @@
                         13,
                         14
                     ],
-                    "table": 5,
-                    "selected_teams": [-1, 0]
+                    "table": 5
                 }
             ]
         },
         {
             "title": "play-off",
-            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/1liga/s/spo3runda1.html",
+            "link": "https://wyniki.pzbs.pl/liga/liga2023-24/1liga/s/spo3runda1.html",
             "dummies": [
                 0,
                 2,
@@ -426,7 +412,7 @@
         },
         {
             "title": "o awans",
-            "link": "https://wyniki.pzbs.pl/liga/liga2022-23/po4/#000OO000001001001000000000",
+            "link": "https://wyniki.pzbs.pl/liga/liga2023-24/1liga/s/spo4runda1.html",
             "dummies": [
                 1,
                 2,
@@ -454,18 +440,15 @@
                     "loser": [
                         3
                     ],
-                    "table": 4
+                    "table": 1
                 }
             ]
         }
     ],
     "team_aliases": {
-        "BSBS Konstanta Bielsko-Biała": ["BSBS KONSTANTA Bielsko-Biała"]
     },
     "teams": {
-        "link": "https://wyniki.pzbs.pl/liga/liga2022-23/1liga/s/srrleaderb.html",
-        "final_positions": [8],
-        "ties": []
+        "link": "https://wyniki.pzbs.pl/liga/liga2023-24/1liga/s/srrleaderb.html"
     },
     "output": "output/1liga/s/playoff.html",
     "i18n": {
