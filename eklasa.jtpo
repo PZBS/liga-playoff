@@ -20,7 +20,7 @@
         "finishing_position_indicators": "1",
         "logoh": "<span id=\"logo\"></span><script type=\"text/javascript\">loadIt('playoff_logo.html','logo');</script>",
         "favicon": "images/pzbs.ico",
-        "refresh: 60,
+        "refresh": 60,
         "title": "Polish Premier League 2023/24 - play-off"
     },
     "canvas": {
