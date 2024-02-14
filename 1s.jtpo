@@ -216,9 +216,9 @@
                         9,
                         10
                     ],
-                    "table": 1,   
+                    "table": 101,   
                     "selected_teams": [-1, 0],
-"link":"https://wyniki.pzbs.pl/liga/liga2023-24/1liga/s/autostrada/#000000OO000000000036000001000001000000000000000000"
+                    "link":"https://wyniki.pzbs.pl/liga/liga2023-24/1liga/s/autostrada/#000000OO000000000036000001000001000000000000000000"
                 },
                 {
                     "id": 7,
