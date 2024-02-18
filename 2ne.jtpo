@@ -129,7 +129,8 @@
                         }
                     ],
                     "table": 2,   
-                    "selected_teams": [-1, 1]
+                    "selected_teams": [-1, 1],
+                    "score": [144.9,126]
                 },
                 {
                     "id": 3,
