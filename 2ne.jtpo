@@ -130,7 +130,8 @@
                     ],
                     "table": 2,   
                     "selected_teams": [-1, 1],
-                    "score": [144.9,126]
+                    "score": [144.9,126],
+                    "link":"https://wyniki.pzbs.pl/liga/liga2023-24/2liga/ne/Vegorie.html"
                 },
                 {
                     "id": 3,
