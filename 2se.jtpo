@@ -173,7 +173,8 @@
                         8
                     ],
                     "table": 4,   
-                    "selected_teams": [-1, 0]
+                    "selected_teams": [-1, 0],
+                    "score": [149.2, 207]
                 },
                 {
                     "id": 5,
