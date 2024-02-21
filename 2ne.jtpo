@@ -1,4 +1,4 @@
-    
+
 {
     "page": {
         "team_boxes": {
@@ -110,7 +110,7 @@
                             ]
                         }
                     ],
-                    "table": 1,   
+                    "table": 1,
                     "selected_teams": [-1, 0]
                 },
                 {
@@ -128,7 +128,6 @@
                             ]
                         }
                     ],
-                    "table": 2,   
                     "selected_teams": [-1, 1],
                     "score": [144.9,126],
                     "link":"https://wyniki.pzbs.pl/liga/liga2023-24/2liga/ne/Vegorie.html"
@@ -152,7 +151,7 @@
                         7,
                         8
                     ],
-                    "table": 3,   
+                    "table": 2,
                     "selected_teams": [-1, 0]
                 },
                 {
@@ -174,7 +173,7 @@
                         7,
                         8
                     ],
-                    "table": 1,   
+                    "table": 1,
                     "selected_teams": [-1, 1],
 
                     "link":"https://wyniki.pzbs.pl/liga/liga2023-24/2liga/ne/po1orlyabnerunda1.html"
@@ -198,7 +197,7 @@
                         9,
                         10
                     ],
-                    "table": 5,   
+                    "table": 3,
                     "selected_teams": [-1, 1]
                 },
                 {
@@ -220,7 +219,7 @@
                         9,
                         10
                     ],
-                    "table": 6,   
+                    "table": 4,
                     "selected_teams": [-1, 0]
                 },
                 {
@@ -242,7 +241,7 @@
                         15,
                         16
                     ],
-                    "table": 7,   
+                    "table": 5,
                     "selected_teams": [-1, 1]
                 },
                 {
@@ -264,7 +263,7 @@
                         15,
                         16
                     ],
-                    "table": 8,   
+                    "table": 6,
                     "selected_teams": [-1, 0]
                 }
             ]
