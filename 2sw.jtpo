@@ -109,7 +109,7 @@
                             ]
                         }
                     ],
-                    "table": 1,   
+                    "table": 1,
                     "selected_teams": [-1, 1]
                 },
                 {
@@ -127,7 +127,7 @@
                             ]
                         }
                     ],
-                    "table": 2,   
+                    "table": 2,
                     "selected_teams": [-1, 0]
                 },
                 {
@@ -149,7 +149,7 @@
                         7,
                         8
                     ],
-                    "table": 3,   
+                    "table": 3,
                     "selected_teams": [-1, 0]
                 },
                 {
@@ -171,7 +171,7 @@
                         7,
                         8
                     ],
-                    "table": 4,   
+                    "table": 4,
                     "selected_teams": [-1, 1]
                 },
                 {
@@ -193,7 +193,7 @@
                         9,
                         10
                     ],
-                    "table": 5,   
+                    "table": 5,
                     "selected_teams": [-1, 0]
                 },
                 {
@@ -215,7 +215,7 @@
                         9,
                         10
                     ],
-                    "table": 6,   
+                    "table": 6,
                     "selected_teams": [-1, 1]
                 },
                 {
@@ -237,7 +237,7 @@
                         15,
                         16
                     ],
-                    "table": 7,   
+                    "table": 7,
                     "selected_teams": [-1, 0]
                 },
                 {
@@ -259,8 +259,9 @@
                         15,
                         16
                     ],
-                    "table": 8,   
-                    "selected_teams": [-1, 1]
+                    "table": 1,
+                    "selected_teams": [-1, 1],
+                    "link": "https://wyniki.pzbs.pl/liga/liga2023-24/2liga/sw/swpo1brunda1.html"
                 }
             ]
         },
