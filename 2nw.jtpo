@@ -109,7 +109,7 @@
                             ]
                         }
                     ],
-                    "table": 1,   
+                    "table": 1,
                     "selected_teams": [-1, 0]
                 },
                 {
@@ -127,7 +127,7 @@
                             ]
                         }
                     ],
-                    "table": 2,   
+                    "table": 2,
                     "selected_teams": [-1, 1]
                 },
                 {
@@ -149,7 +149,7 @@
                         7,
                         8
                     ],
-                    "table": 3,   
+                    "table": 3,
                     "selected_teams": [-1, 1]
                 },
                 {
@@ -171,7 +171,7 @@
                         7,
                         8
                     ],
-                    "table": 4,   
+                    "table": 4,
                     "selected_teams": [-1, 0]
                 },
                 {
@@ -193,7 +193,7 @@
                         9,
                         10
                     ],
-                    "table": 5,   
+                    "table": 5,
                     "selected_teams": [-1, 1]
                 },
                 {
@@ -215,7 +215,7 @@
                         9,
                         10
                     ],
-                    "table": 6,   
+                    "table": 6,
                     "selected_teams": [-1, 0]
                 },
                 {
@@ -237,7 +237,7 @@
                         15,
                         16
                     ],
-                    "table": 7,   
+                    "table": 7,
                     "selected_teams": [-1, 1]
                 },
                 {
@@ -259,7 +259,7 @@
                         15,
                         16
                     ],
-                    "table": 8,   
+                    "table": 8,
                     "selected_teams": [-1, 0]
                 }
             ]
@@ -311,7 +311,8 @@
                         5,
                         6
                     ],
-                    "table": 2
+                    "table": 2,
+                    "selected_teams": [-1, 0]
                 },
                 {
                     "id": 11,
@@ -332,35 +333,11 @@
                         5,
                         6
                     ],
-                    "table": 3
+                    "table": 3,
+                    "selected_teams": [-1, 1]
                 },
                 {
                     "id": 12,
-                    "teams": [
-                        {
-                            "loser": [
-                                5
-                            ]
-                        },
-                        {
-                            "winner": [
-                                7,
-                                8
-                            ]
-                        }
-                    ],
-                    "winner": [
-                        11,
-                        12
-                    ],
-                    "loser": [
-                        13,
-                        14
-                    ],
-                    "table": 4
-                },
-                {
-                    "id": 13,
                     "teams": [
                         {
                             "loser": [
@@ -382,7 +359,34 @@
                         13,
                         14
                     ],
-                    "table": 5
+                    "table": 4,
+                    "selected_teams": [-1, 0]
+                },
+                {
+                    "id": 13,
+                    "teams": [
+                        {
+                            "loser": [
+                                5
+                            ]
+                        },
+                        {
+                            "winner": [
+                                7,
+                                8
+                            ]
+                        }
+                    ],
+                    "winner": [
+                        11,
+                        12
+                    ],
+                    "loser": [
+                        13,
+                        14
+                    ],
+                    "table": 5,
+                    "selected_teams": [-1, 1]
                 }
             ]
         },
