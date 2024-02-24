@@ -13,5 +13,5 @@ git pull --quiet --rebase --autostash --recurse-submodules --no-stat origin mast
 if [ -n "$(git diff --name-status --no-renames $PREVHEAD HEAD)" -o $FORCE != "0" -o -f ${RUNNING_INDICATOR} ]
 then
     ( date --rfc-3339=seconds; ./generate.sh; ./sync.sh; date --rfc-3339=seconds; ) > ${LIGA_PLAYOFF_LOGFILE} 2>&1
-    (grep 'phase object' ${LIGA_PLAYOFF_LOGFILE} | grep -v 'not running' > /dev/null) && touch ${RUNNING_INDICATOR}
+    (grep -a 'phase object' ${LIGA_PLAYOFF_LOGFILE} | grep -a -v 'not running' > /dev/null) && touch ${RUNNING_INDICATOR}
 fi
