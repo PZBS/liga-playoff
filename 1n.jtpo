@@ -346,31 +346,6 @@
                             ]
                         },
                         {
-                            "loser": [
-                                6
-                            ]
-                        }
-                    ],
-                    "winner": [
-                        11,
-                        12
-                    ],
-                    "loser": [
-                        13,
-                        14
-                    ],
-                    "table": 4,
-                    "selected_teams": [-1, 0]
-                },
-                {
-                    "id": 13,
-                    "teams": [
-                        {
-                            "loser": [
-                                5
-                            ]
-                        },
-                        {
                             "winner": [
                                 7,
                                 8
@@ -385,8 +360,32 @@
                         13,
                         14
                     ],
-                    "table": 5,
-                    "selected_teams": [-1, 1]
+                    "table": 4,
+                    "selected_teams": [1, 0]
+                },
+                {
+                    "id": 13,
+                    "teams": [
+                        {
+                            "loser": [
+                                5
+                            ]
+                        },
+                        {
+                            "loser": [
+                                6
+                            ]
+                        }
+                    ],
+                    "winner": [
+                        11,
+                        12
+                    ],
+                    "loser": [
+                        13,
+                        14
+                    ],
+                    "table": 5
                 }
             ]
         },
