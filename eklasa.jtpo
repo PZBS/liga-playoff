@@ -380,7 +380,8 @@
                         13,
                         14
                     ],
-                    "table": 3
+                    "table": 3,
+                    "selected_teams": [1, 0]
                 },
                 {
                     "id": 14,
@@ -405,7 +406,8 @@
                         13,
                         14
                     ],
-                    "table": 4
+                    "table": 4,
+                    "selected_teams": [1, -1]
                 }
             ]
         },
