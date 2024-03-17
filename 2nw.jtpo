@@ -392,7 +392,7 @@
         },
         {
             "title": "play-off",
-            "link": "https://wyniki.pzbs.pl/liga/liga2023-24/2liga/nw/nwpo3runda1.html",
+            "link": "https://wyniki.pzbs.pl/liga/liga2023-24/2liga/nw/pionier-stb.jpeg",
             "dummies": [
                 0,
                 2,
@@ -417,7 +417,8 @@
                         }
                     ],
                     "loser": [4],
-                    "table": 1
+                    "table": 1,
+                    "score": [138.9,90]
                 }
             ]
         },
