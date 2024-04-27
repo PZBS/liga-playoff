@@ -393,7 +393,7 @@
         },
         {
             "title": "play-off",
-            "link": "https://wyniki.pzbs.pl/liga/liga2023-24/2liga/sw/swpo3runda1.html",
+            "link": "https://wyniki.pzbs.pl/liga/liga2023-24/2liga/sw/po3/index.html#000000OO000000000001000001000001000000000000000000",
             "dummies": [
                 0,
                 2,
@@ -418,7 +418,7 @@
                         }
                     ],
                     "loser": [4],
-                    "table": 1
+                    "table": 2
                 }
             ]
         },
