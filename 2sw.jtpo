@@ -424,7 +424,7 @@
         },
         {
             "title": "o awans",
-            "link": "https://wyniki.pzbs.pl/liga/liga2023-24/2liga/sw/swpo4runda1.html",
+            "link": "https://odra.bridgeabsurd.com/odra/wyniki/IILsw24_O2/#000000OO000000000033000001000001000000000000000000",
             "dummies": [
                 1,
                 2,
@@ -458,6 +458,8 @@
         }
     ],
     "team_aliases": {
+        "Anneberg ZG - Fundacja I Love Bridge": ["ANNEBERG ZG - Fundacja I love bridge"],
+        "Blueref.pl KS AZS Wratislavia II Wrocław": ["Bluref.pl KS AZS WRATISLAVIA WROCŁAW"]
     },
     "teams": {
         "link": "https://wyniki.pzbs.pl/liga/liga2023-24/2liga/sw/swrrleaderb.html",
