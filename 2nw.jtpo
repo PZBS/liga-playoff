@@ -458,6 +458,8 @@
         }
     ],
     "team_aliases": {
+        "PIONIER Entuzjaści Szczecin": ["PIONIER ENTUZJAŚCI SZCZECIN"],
+        "KONTRA Koszalin": ["KONTRA KOSZALIN"]
     },
     "teams": {
         "link": "https://wyniki.pzbs.pl/liga/liga2023-24/2liga/nw/nwrrleaderb.html",
