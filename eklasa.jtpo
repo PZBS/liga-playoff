@@ -469,6 +469,8 @@
         }
     ],
     "team_aliases": {
+        "ODMET Fundacja Bridge24.pl": ["ODMET Fundacja bridge24.pl"],
+        "Magma Bridge for Business KS AZS Wrat. I": ["Magma Bridge for Business KS AZS Wrat."]
     },
     "teams": {
         "link": "https://wyniki.pzbs.pl/liga/liga2023-24/ekstraklasa/rrleaderb.html",
