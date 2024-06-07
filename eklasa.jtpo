@@ -362,6 +362,7 @@
                 },
                 {
                     "id": 13,
+                    "link": "https://wyniki.pzbs.pl/liga/liga2023-24/po4/#000000OO000000000001000001000001000000000000000000",
                     "teams": [
                         {
                             "loser": [
@@ -383,11 +384,12 @@
                         13,
                         14
                     ],
-                    "table": 3,
+                    "table": 1,
                     "selected_teams": [-1, 1]
                 },
                 {
                     "id": 14,
+                    "link": "https://wyniki.pzbs.pl/liga/liga2023-24/po4/#000000OO000000000001000001000001000000000000000000",
                     "teams": [
                         {
                             "loser": [
@@ -409,7 +411,7 @@
                         13,
                         14
                     ],
-                    "table": 4,
+                    "table": 2,
                     "selected_teams": [-1, 0]
                 }
             ]
