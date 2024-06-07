@@ -432,6 +432,7 @@
             "matches": [
                 {
                     "id": 15,
+                    "link": "https://wyniki.pzbs.pl/liga/liga2023-24/po4/#000000OO000000000001000001000001000000000000000000",
                     "teams": [
                         {
                             "winner": [
@@ -450,7 +451,7 @@
                     "loser": [
                         3
                     ],
-                    "table": 1
+                    "table": 3
                 }
             ]
         }
